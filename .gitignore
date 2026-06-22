@@ -1,0 +1,16 @@
+# Local runtime and generated databases
+review_site/*.db
+review_site/*.db-*
+
+# Paper PDFs and annotation/data workbooks are kept local by default.
+annotation/
+cbm_papers_subset_200/
+codex_preannotations_unmarked_180/
+codex_eval_gold20_local_rule/
+llm_run/
+*.xlsx
+
+# Python and system noise
+__pycache__/
+*.py[cod]
+.DS_Store

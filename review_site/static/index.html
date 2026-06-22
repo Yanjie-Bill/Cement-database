@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cement Review Database</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Cement Review Database</h1>
+        <p id="lastImport">Loading database...</p>
+      </div>
+      <div class="actions">
+        <input id="participant" placeholder="参与者姓名" />
+        <button id="reimportBtn" type="button">重新导入 Excel</button>
+        <a href="/api/export/answers" class="button">导出回答</a>
+      </div>
+    </header>
+
+    <section class="stats" id="stats"></section>
+
+    <main class="workspace">
+      <aside class="sidebar">
+        <nav class="tabs" aria-label="Views">
+          <button class="tab active" data-view="review">Review Queue</button>
+          <button class="tab" data-view="papers">Papers</button>
+          <button class="tab" data-view="strength">Strength</button>
+          <button class="tab" data-view="mixtures">Mixtures</button>
+          <button class="tab" data-view="answers">Answers</button>
+        </nav>
+
+        <label>
+          状态
+          <select id="statusFilter">
+            <option value="all">All</option>
+            <option value="open">Open</option>
+            <option value="answered">Answered</option>
+            <option value="resolved">Resolved</option>
+          </select>
+        </label>
+        <label>
+          搜索
+          <input id="searchBox" placeholder="paper id / question / evidence" />
+        </label>
+        <label>
+          文章
+          <select id="paperFilter">
+            <option value="">全部文章</option>
+          </select>
+        </label>
+      </aside>
+
+      <section class="panel">
+        <div class="panelHeader">
+          <h2 id="viewTitle">Review Queue</h2>
+          <div class="panelActions">
+            <a id="exportLink" href="/api/export/review_queue" class="button small">导出当前表</a>
+          </div>
+        </div>
+        <div id="tableWrap" class="tableWrap"></div>
+      </section>
+
+      <aside class="detail">
+        <h2>参与者回答</h2>
+        <div id="selectedItem" class="selected empty">选择一条 review item</div>
+
+        <form id="answerForm">
+          <label>
+            判断
+            <select id="decision">
+              <option value="accept">Accept: 数据可入库</option>
+              <option value="correct">Correct: 按修正值入库</option>
+              <option value="reject">Reject: 不应入库</option>
+              <option value="uncertain">Uncertain: 继续 review</option>
+            </select>
+          </label>
+          <label>
+            回答 / 依据
+            <textarea id="answerText" rows="5" placeholder="说明为什么接受、修正或拒绝"></textarea>
+          </label>
+          <label>
+            修正值
+            <textarea id="correctedValue" rows="3" placeholder="例如 compressive_strength_mpa=42.1; age_days=28"></textarea>
+          </label>
+          <label>
+            备注
+            <textarea id="comment" rows="3" placeholder="可写页码、表格、图号或需要二次确认的点"></textarea>
+          </label>
+          <button id="submitAnswer" type="submit">提交回答</button>
+        </form>
+
+        <div class="manualQuestion">
+          <h3>新增问题</h3>
+          <input id="manualPaperId" placeholder="paper_id" />
+          <input id="manualTarget" placeholder="target sheet / record id" />
+          <textarea id="manualQuestion" rows="3" placeholder="需要其他参与者判断的问题"></textarea>
+          <button id="createReview" type="button">加入 Review Queue</button>
+        </div>
+      </aside>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
