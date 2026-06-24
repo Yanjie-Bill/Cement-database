@@ -7,7 +7,11 @@ annotation/
 cbm_papers_subset_200/
 codex_preannotations_unmarked_180/
 codex_eval_gold20_local_rule/
+# Exclude most of llm_run, but track production extraction JSONs
 llm_run/
+!llm_run/production/
+llm_run/production/**/raw_response.json
+llm_run/production/**/*.xlsx
 *.xlsx
 
 # Python and system noise

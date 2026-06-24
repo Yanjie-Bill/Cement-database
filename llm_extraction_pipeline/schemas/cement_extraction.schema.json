@@ -1,0 +1,322 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CementCompressiveStrengthExtraction",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "paper",
+    "mixture_components",
+    "strength_results",
+    "conditions",
+    "figures",
+    "evidence",
+    "review_queue",
+    "quality"
+  ],
+  "properties": {
+    "paper": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "paper_id",
+        "pdf_filename",
+        "doi",
+        "title",
+        "authors",
+        "year",
+        "journal",
+        "pages",
+        "material_system",
+        "annotation_status",
+        "notes"
+      ],
+      "properties": {
+        "paper_id": { "type": "string" },
+        "pdf_filename": { "type": "string" },
+        "doi": { "type": "string" },
+        "title": { "type": "string" },
+        "authors": { "type": "string" },
+        "year": { "type": ["integer", "string"] },
+        "journal": { "type": "string" },
+        "pages": { "type": "string" },
+        "material_system": { "type": "string" },
+        "annotation_status": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    },
+    "mixture_components": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "component_id",
+          "paper_id",
+          "mixture_id",
+          "mixture_original_id",
+          "mixture_description",
+          "component_original",
+          "component_standard",
+          "category",
+          "role_in_mix",
+          "amount",
+          "unit",
+          "basis",
+          "replacement_target",
+          "replacement_pct",
+          "reported_w_c_ratio",
+          "reported_w_p_ratio",
+          "evidence_ids",
+          "confidence",
+          "human_decision",
+          "corrected_amount",
+          "notes"
+        ],
+        "properties": {
+          "component_id": { "type": "string" },
+          "paper_id": { "type": "string" },
+          "mixture_id": { "type": "string" },
+          "mixture_original_id": { "type": "string" },
+          "mixture_description": { "type": "string" },
+          "component_original": { "type": "string" },
+          "component_standard": { "type": "string" },
+          "category": { "type": "string" },
+          "role_in_mix": { "type": "string" },
+          "amount": { "type": ["number", "string", "null"] },
+          "unit": { "type": "string" },
+          "basis": { "type": "string" },
+          "replacement_target": { "type": "string" },
+          "replacement_pct": { "type": ["number", "string", "null"] },
+          "reported_w_c_ratio": { "type": ["number", "string", "null"] },
+          "reported_w_p_ratio": { "type": ["number", "string", "null"] },
+          "evidence_ids": { "type": "array", "items": { "type": "string" } },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "human_decision": { "type": "string" },
+          "corrected_amount": { "type": ["number", "string", "null"] },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "strength_results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "result_id",
+          "paper_id",
+          "mixture_id",
+          "mixture_original_id",
+          "property",
+          "age_days",
+          "unit",
+          "table_value",
+          "recommended_value",
+          "final_value",
+          "value_status",
+          "is_approximate",
+          "estimated_error_mpa",
+          "curing_condition_id",
+          "testing_condition_id",
+          "evidence_ids",
+          "confidence",
+          "human_decision",
+          "notes"
+        ],
+        "properties": {
+          "result_id": { "type": "string" },
+          "paper_id": { "type": "string" },
+          "mixture_id": { "type": "string" },
+          "mixture_original_id": { "type": "string" },
+          "property": { "type": "string", "enum": ["compressive_strength"] },
+          "age_days": { "type": ["number", "string", "null"] },
+          "unit": { "type": "string" },
+          "table_value": { "type": ["number", "string", "null"] },
+          "recommended_value": { "type": ["number", "string", "null"] },
+          "final_value": { "type": ["number", "string", "null"] },
+          "value_status": {
+            "type": "string",
+            "enum": [
+              "exact_table_value",
+              "explicit_text_value",
+              "figure_digitized_approx",
+              "figure_digitization_required",
+              "derived_or_inferred",
+              "review_required"
+            ]
+          },
+          "is_approximate": { "type": "boolean" },
+          "estimated_error_mpa": { "type": ["number", "string", "null"] },
+          "curing_condition_id": { "type": "string" },
+          "testing_condition_id": { "type": "string" },
+          "evidence_ids": { "type": "array", "items": { "type": "string" } },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "human_decision": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "conditions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "condition_id",
+          "paper_id",
+          "condition_type",
+          "applies_to",
+          "specimen_type",
+          "temperature_c",
+          "rh_pct",
+          "curing_method",
+          "demould_time_days",
+          "test_age_days",
+          "test_method",
+          "test_standard",
+          "specimen_geometry",
+          "exposure_solution",
+          "exposure_duration_days",
+          "evidence_ids",
+          "confidence",
+          "human_decision",
+          "notes"
+        ],
+        "properties": {
+          "condition_id": { "type": "string" },
+          "paper_id": { "type": "string" },
+          "condition_type": { "type": "string" },
+          "applies_to": { "type": "string" },
+          "specimen_type": { "type": "string" },
+          "temperature_c": { "type": ["number", "string", "null"] },
+          "rh_pct": { "type": ["number", "string", "null"] },
+          "curing_method": { "type": "string" },
+          "demould_time_days": { "type": ["number", "string", "null"] },
+          "test_age_days": { "type": ["number", "string", "null"] },
+          "test_method": { "type": "string" },
+          "test_standard": { "type": "string" },
+          "specimen_geometry": { "type": "string" },
+          "exposure_solution": { "type": "string" },
+          "exposure_duration_days": { "type": ["number", "string", "null"] },
+          "evidence_ids": { "type": "array", "items": { "type": "string" } },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "human_decision": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "figures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "figure_id",
+          "paper_id",
+          "page",
+          "caption",
+          "figure_type",
+          "strength_relevance",
+          "image_path",
+          "extraction_status",
+          "confidence",
+          "human_decision",
+          "notes"
+        ],
+        "properties": {
+          "figure_id": { "type": "string" },
+          "paper_id": { "type": "string" },
+          "page": { "type": ["integer", "string", "null"] },
+          "caption": { "type": "string" },
+          "figure_type": { "type": "string" },
+          "strength_relevance": { "type": "string" },
+          "image_path": { "type": "string" },
+          "extraction_status": { "type": "string" },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "human_decision": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "evidence_id",
+          "paper_id",
+          "source_modality",
+          "page",
+          "source_location",
+          "evidence_text",
+          "supports",
+          "confidence",
+          "human_decision",
+          "notes"
+        ],
+        "properties": {
+          "evidence_id": { "type": "string" },
+          "paper_id": { "type": "string" },
+          "source_modality": { "type": "string" },
+          "page": { "type": ["integer", "string", "null"] },
+          "source_location": { "type": "string" },
+          "evidence_text": { "type": "string" },
+          "supports": { "type": "string" },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "human_decision": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "review_queue": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "review_id",
+          "paper_id",
+          "target_sheet",
+          "target_record_ids",
+          "priority",
+          "question",
+          "suggested_action",
+          "human_answer",
+          "final_decision",
+          "notes"
+        ],
+        "properties": {
+          "review_id": { "type": "string" },
+          "paper_id": { "type": "string" },
+          "target_sheet": { "type": "string" },
+          "target_record_ids": { "type": "array", "items": { "type": "string" } },
+          "priority": { "type": "string", "enum": ["high", "medium", "low"] },
+          "question": { "type": "string" },
+          "suggested_action": { "type": "string" },
+          "human_answer": { "type": "string" },
+          "final_decision": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "quality": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "overall_confidence",
+        "direct_insert_count",
+        "review_count",
+        "needs_human_review",
+        "main_risks"
+      ],
+      "properties": {
+        "overall_confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+        "direct_insert_count": { "type": "integer", "minimum": 0 },
+        "review_count": { "type": "integer", "minimum": 0 },
+        "needs_human_review": { "type": "boolean" },
+        "main_risks": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}
