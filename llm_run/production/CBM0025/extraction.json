@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0025",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.02.023.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.02.023",
+    "title": "Environmental durability of a CFRP system for strengthening steel structures",
+    "authors": "Mina Dawood; Sami Rizkalla",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "CFRP system for steel structures",
+    "annotation_status": "no_extractable_compressive_strength",
+    "notes": "CFRP strengthening steel structures paper; no cement/concrete compressive-strength data in packet."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0025_E001",
+      "paper_id": "CBM0025",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1/title or abstract",
+      "evidence_text": "CFRP strengthening steel structures paper; no cement/concrete compressive-strength data in packet.",
+      "supports": "scope exclusion",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

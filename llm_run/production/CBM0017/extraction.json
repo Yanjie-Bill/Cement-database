@@ -1,0 +1,72 @@
+{
+  "paper": {
+    "paper_id": "CBM0017",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.01.012.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.01.012",
+    "title": "Mortars with nano-SiO2 and micro-SiO2 investigated by experimental design",
+    "authors": "Luciano Senff; Dachamir Hotza; Wellington L. Repette; Victor M. Ferreira; Joao A. Labrincha",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1432-1437",
+    "material_system": "cement mortar with nanosilica and silica fume",
+    "annotation_status": "needs_review",
+    "notes": "Compressive strength reported as response surface figure without exact numeric table values in packet."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0017",
+      "page": 4,
+      "caption": "Fig. 4. Compressive strength of mortars with SF and nS after 28 days.",
+      "figure_type": "page_or_figure_candidate",
+      "strength_relevance": "compressive_strength",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.8,
+      "human_decision": "",
+      "notes": "Values are plotted in a response-surface figure; packet does not provide exact point values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0017_E001",
+      "paper_id": "CBM0017",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "Section 3.2 and Table 3",
+      "evidence_text": "Compressive strength values analyzed by factorial design; levels SF 0,10,20% or nS 0,3.5,7% and W/B 0.35,0.47,0.59; surfaces illustrated in Fig. 4.",
+      "supports": "mixture design and figure-only compressive-strength results",
+      "confidence": 0.85,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0017_RQ001",
+      "paper_id": "CBM0017",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "F_PAGE_004"
+      ],
+      "priority": "high",
+      "question": "Digitize Fig. 4 response surfaces if mixture-level 28-day compressive strengths are required.",
+      "suggested_action": "Use original figure image/plot data to digitize values; do not direct-insert from packet text.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.72,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are figure-only in the packet."
+    ]
+  }
+}

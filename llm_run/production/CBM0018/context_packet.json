@@ -1,0 +1,123 @@
+{
+  "paper": {
+    "paper_id": "CBM0018",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.01.016.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.01.016",
+    "title": ""
+  },
+  "pages": [
+    {
+      "page": 2,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "ity index and the results are shown in Table 1 . The chemical composition of the binders used was also determined ( Table 2 ) and a DTA–TG analysis was carried out on LF slag, in order to determine its magnesium content. The ﬁneness of LF slag was increased by grinding while HCFA was processed by grinding and hydrolysis. Pozzolanicity index, initial setting time and expansion val- ues were satisfactory for both supplementary cementing materials. Although HCFA has similar ﬁneness compared to LF slag, it shows signiﬁcantly higher speciﬁc sur- face, shorter initial setting time and increased pozzolanicity index. Regarding the chemical composition of the supplementary cementing materi- als, HCFA shows adequate reactive SiO 2 content and the sulfate and free lime con- tents are just below 5% and 3% respectively. On the other hand, LF slag has a reactive SiO2 content of 20.4%, which could explain its weaker pozzolanic character. The free lime content of LF slag is low, but the magnesia content is 4.25%. A DTA–TG analysis carried out on LF slag ( Fig. 1), which showed that 0.11% and 0.75% of the total MgO content are in the form of Mg(OH) 2 and MgCO 3, respectively. This, along with the 0.49 mm expansion value, shows that the risk of LF slag expansion due to free mag- nesia and free lime content is small. 2.1.2. Aggregate properties The coarse aggregates used for the production of the concrete mixtures were either crushed limestone or EAF slag. Both aggregates were tested for density, per- centage of voids, water absorption, resistance to fragmentation, freeze–thaw resis- tance and magnesium sulfate soundness and the results are shown in Table 3 .T o ensure minimal risk of expansion, EAF slag aggregates were also tested for expan- sion according to EN 1744-1. The ﬁne aggregates used were crushed limestone, EAF slag and river sand. Water absorption, ﬁnes content and ﬁneness modulus were determined for all of the ﬁne aggregates and the results are shown in Table 4 . Coarse EAF slag aggregates compared to crushed limestone aggregates show in- creased density and water absorption, while resistance to fragmentation and ﬂaki- ness index are signiﬁcantly improved. The higher density of EAF slag aggregates could lead to a heavyweight concrete and the increased water absorption must be taken into account at the design of the concrete mixture. The higher resistance to fragmentation and ﬂakiness index of EAF slag could give a concrete with in- creased resistance to mechanical wear. The results of the durability tests (freeze– thaw resistance and magnesium sulfate soundness) are similar for both types of aggregate. The EN 1744-1 test for the expansion of EAF slag showed a value of 0.14%, which is considerably small and shows that the use of these aggregates poses minimal risk of expansion. Overall, EAF slag aggregates fulﬁll the requirements of the European Standards tested and seem suitable for use as concrete aggregates [20]. Regarding the ﬁne aggregates used, EAF slag sand has very low ﬁnes content – a sign of good quality aggregate – but is also very coarse. In order to improve the gra- dation for the concrete mixture when EAF sand was used, 50% of the ﬁne aggregate was replaced with natural river sand. 2.2. Concrete mixtures Concrete mixtures were prepared in the laboratory in order to test cement sub- stitution with cementitious materials (HCFA or LF slag) and limestone aggregate substitution with EAF slag aggregate. Six different concrete mixtures "
+    },
+    {
+      "page": 4,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "The ﬂexural and split tensile strengths of the concrete mixtures with high volumes of industrial by-products increased as well, compared to the reference concrete. Crushed limestone aggregate concrete K1 had a splitting tensile strength of 5.20 MPa and a ﬂex- ural strength of 8.30 MPa. The test mixtures K2–K6 showed values of splitting tensile strength from 5.17 to 5.89 MPa and values of ﬂexural strength from 8.29 to 9.96 MPa. Strength increased in all cases and the increase rates varied from 4% to 20%, except from mixture K4. In this mixture, where LF slag was used as a binder, the splitting tensile and ﬂexural strengths achieved are of the same level with those of the reference concrete. The lower contri- bution of LF slag to strength development compared to HCFA is expected due to its weak cementitious and pozzolanic properties [25]. 3.2. Fracture toughness The test was carried out on specimens from mixture K1, made only with limestone aggregates, mixture K2, made with coarse EAF slag aggregates, and mixture K3, made with coarse and ﬁne EAF slag aggregates. Table 8 shows the maximum load, defection and calculated fracture energy for each mixture tested. The results show that fracture energy seems to increase by up to 27% when EAF slag aggregates are used. The increased fracture energy of slag Fig. 2. Aggregate gradation curves for test concrete mixtures. Table 6 Proportioning of test concrete mixtures. Mixture K1 K2 K3 K4 K5 K6 CEM I42.5 (kg/m 3) 400 400 400 280 200 200 HCFA (kg/m 3) – – – – 200 200 LF slag (kg/m 3) – – – 120 – – River sand 0–2 mm (kg/m 3) 523 601 639 591 588 624 Crushed limestone 0–4 mm (kg/m 3) 523 601 – 591 588 – Crushed limestone 4–12 mm (kg/m 3) 892 – – – – – EAF slag 0–4 mm (kg/m 3) – – 639 – – 624 EAF slag 4–12 mm (kg/m 3) – 945 1005 929 924 981 Water (kg/m 3) 140 140 140 140 140 140 Superplasticizer (% by mass of binder) 1.00 1.75 1.40 1.50 2.00 2.25 Table 7 Unit weight and mechanical strength of concrete mixtures (average of three specimens). Properties K1 K2 K3 K4 K5 K6 Unit weight (kg/m 3) 2295 2629 2750 2713 2574 2635 7-day compressive strength (MPa) 52.5 64.8 70.8 57.2 53.0 56.8 28-day compressive strength (MPa) 64.2 70.3 77.9 64.3 73.1 71.3 7/28-day compressive strength (%) 81.8 92.2 90.9 89.0 72.5 79.7 365-day compressive strength (MPa) 76.1 85.8 88.1 75.7 88.5 92.2 28-day splitting tensile strength (MPa) 5.20 5.52 5.89 5.17 5.78 5.40 28-day ﬂexural strength (MPa) 8.30 9.13 9.96 8.29 8.53 8.78 I. Papayianni, E. Anastasiou / Construction and Building Materials 24 (2010) 1412–1417 1415"
+    },
+    {
+      "page": 5,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "aggregate concrete may be attributed to the increased toughness of EAF slag aggregates and also to the improved matrix-aggregate transition zone achieved [26,27]. 3.3. Durability characteristics of concrete mixtures The results of the water penetration, abrasion resistance, freeze–thaw resistance and porosity tests are shown in Table 9 . The water penetration test showed very good impermeability for all mixtures. This is in accordance with the low open porosity lev- els (under 5%) measured in all mixtures and shows a concrete of good microstructure. Improved concrete microstructure and good matrix-EAF slag aggregate transition zone were also veriﬁed by microscopic observation in concrete mixture K6 (Fig. 4 ). The freeze–thaw results, as seen in Table 9 , show satisfactory performance for concrete mixtures K1–K4. The mixtures K5 and K6 with HCFA as binder, however, showed considerable loss of material; 2.20% and 1.75% respectively. It can be assumed that the sulfate and free lime contents of concrete with 50% HCFA in the binding system show a delayed formation of the expansive compounds ettringite or thaumasite [28]. These compounds could account for the loosening of the concrete mass under freeze–thaw cycles and could explain the increased loss of material for mixtures K5 and K6, but further investigation is needed. An air-entraining admixture should be used in order to improve freeze–thaw resis- tance of high volume HCFA concrete. Abrasion resistance depends on compressive strength, aggregate content and especially the volume of coarse aggregates, aggregate resistance to fragmentation, concrete surface ﬁnishing and early age curing of concrete [29]. Since the type of binder plays little role on abrasion resistance the specimens tested were from mixtures with different rate of limestone aggregate substitution with EAF slag (mixtures K1–K3). Concrete specimens with coarse EAF slag aggregates (mixture K2) had an average gauge depth of 0.806 mm while concrete with both coarse and ﬁne slag aggregates (mixture K3) had an average gauge depth of 0.701 mm. The improvement in abrasion resistance compared to the reference crushed limestone aggregate concrete (mixture K1) was 73.9% and 77.4% for mixtures K2 and K3, respectively. It seems that EAF slag and especially coarse aggregates contribute greatly to the increased abrasion resistance. Fig. 3. Strength development of the test mixtures. Table 8 Fracture toughness measurements. Concrete mixture Fine aggregate Coarse aggregate Max load, F (N) Deﬂection, d0 (m /C210/C03) Fracture energy, Gf (N/m) K1 CL CL 11,452 0.0684 52.5 K2 CL EAF 13,757 0.0659 57.1 K3 EAF EAF 15,371 0.0708 66.8 Table 9 Durability characteristics of concrete mixtures (average of three specimens). Properties K1 K2 K3 K4 K5 K6 Depth of water penetration under pressure (mm) 15 15 10 30 10 15 Abrasion resistance (mm) 3.103 0.806 0.701 – – – Freeze–thaw resistance under de-icing salt (%) 0.05 0.08 0.05 0.08 2.20 1.75 Porosity (%) 5.0 4.3 4.5 4.4 4.9 4.9 1416 I. Papayianni, E. Anastasiou / Construction and Building Materials 24 (2010) 1412–1417"
+    },
+    {
+      "page": 6,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "4. Conclusions The main conclusions drawn from the testing of concrete mix- tures with high volume of industrial by-products are: /C15It is possible to produce high-strength concrete (>70 MPa 28- day compressive strength) by using HCFA as 50% of the total bin- der and EAF slag as aggregates. /C15Due to the pozzolanic reaction of HCFA the ﬁnal strength is expected to increase signiﬁcantly; testing at the age of 1 year for the mixture K6 showed a compressive strength of 92.2 MPa. /C15The use of EAF slag aggregates in concrete can increase compres- sive strength up to 20% compared to conventional concrete. EAF slag can be used both as ﬁne and coarse aggregate, but when used as ﬁne aggregate, a ﬁner sand has to be used also in order to improve overall aggregate gradation. /C15The use of HCFA as 50% of the total binder gives lower 28-day strength compared to mixtures with 100% cement as binder, but the combination of HCFA with EAF slag aggregates in the mixture gives a concrete with higher strength levels at all ages compared to conventional concrete. /C15The use of LF slag as 30% of the total binder and EAF slag as coarse aggregates seems to give a concrete with 28-day strength levels equal to those of conventional concrete. /C15Concretes with high volumes of HCFA as binder might need an air-entraining admixture in order to improve resistance to freez- ing and thawing cycles under de-icing salts. /C15The use of coarse EAF slag aggregates seems to give abrasion resistant concrete. Also, EAF slag aggregate concrete shows increased fracture toughness. /C15The use of high volume of HCFA or LF slag as binder and EAF slag aggregates gives an impermeable concrete of good microstruc- ture and porosity. The produced concrete is aimed at unreinforced concrete appli- cations, such as precast concrete paving blocks, marine and defense construction. Concrete for such products has high-strength and durability requirements, while good microstructure, abrasion resistance and increased unit weight might also be desirable. Thus, these applications seem suitable for safe, high-volume utilization of industrial by-products, providing a ﬁnal product of improved performance. References [1] Mehta PK. Concrete technology for sustainable development – an overview of essential properties. In: Gjørv OE, Sakai K, editors. Concrete for sustainable development in the twenty-ﬁrst century. London: Routledge; 1999. p. 83–94. [2] Little AD. Sustainable industrial development: sharing responsibilities in a competitive world. Den Haag: Netherlands Ministry of Housing, Spatial Planning and the Environment; 1996. [3] Malhotra VM, Mehta PK. High performance, high volume ﬂy ash concrete; materials, mixture proportioning, properties, construction practice, and case histories. Ottawa: Marquardt Printing; 2002. p. 4, 17. [4] Papayianni I. Use of a high-calcium ﬂy ash in blended type cement production. Cem Concr Compos 1993;15(4):231–5. [5] Papadakis VG, Tsimas S. Greek supplementary cementing materials and their incorporation in concrete. Cem Concr Compos 2005;27(2):223–30. [6] Tsimas S, Moutsatsou A. High-calcium ﬂy ash as the fourth constituent in concrete: problems, solutions and perspectives. Cem Concr Compos 2005;27(2):231–7. [7] Papayianni I. Performance of a high calcium ﬂy ash in RCC. ACI Special Publicat 1992;132:367–86. [8] Maslehuddin M, Sharif AM, Shameen M, Ibrahim M, Barry MS. Comparison of properties of steel slag and crushed limestone aggregate concretes. Constr Build"
+    },
+    {
+      "page": 1,
+      "score": 6,
+      "reason": [
+        "first page",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "Production of high-strength concrete using high volume of industrial by-products I. Papayianni, E. Anastasiou * Laboratory of Building Materials, Aristotle University of Thessaloniki, Greece article info Article history: Received 2 August 2009 Received in revised form 12 January 2010 Accepted 15 January 2010 Keywords: High-calcium ﬂy ash High-strength concrete Industrial by-products Steel slag abstract The production of a high-strength, high performance concrete using high volumes of industrial by-prod- ucts is tested in laboratory mixtures. The by-products used are high-calcium ﬂy ash and ladle furnace slag as binders and electric arc furnace slag as aggregates. Fly ash is used as 50% by mass of the total binder and ladle furnace slag as 30% by mass of the total binder. Slag aggregates are used in replacement of coarse aggregate or in replacement of both ﬁne and coarse aggregates. In the mixtures containing both supplementary cementitious materials and slag aggregates the produced concrete shows high-strength (>70 MPa), good abrasion resistance and fracture toughness. /C2112010 Elsevier Ltd. All rights reserved. 1. Introduction The increased natural resource consumption has evolved into a major international problem with severe environmental, social and ﬁnancial consequences. In order to reduce resource depletion from the construction sector, an effort to use recycled and secondary materials in concrete production has been noted over the past dec- ades [1,2]. The use of secondary materials in concrete is still largely limited to low-strength concrete products such as base courses for roads and 80% of the produced ﬂy ashes and slags end up in low- value applications [3]. However, some industrial by-products show some excellent properties as construction materials, which means that they could be used in concrete production not only for re- source preservation but also to improve the mechanical properties and durability of the ﬁnal product [3]. However, industrial by- products as construction materials may show different properties compared to conventional materials. In order to safely use them in concrete production they should undergo thorough quality con- trol testing and their properties must be taken into account in the concrete mixture design. In the present report, the use of industrial by-products in con- crete production regards both binder and aggregate substitution. High-calcium ﬂy ash (HCFA) or ladle furnace slag (LF slag) were used as alternative binders and electric arc furnace (EAF slag) as alternative aggregates. Greek HCFA is being successfully used for the production of blended cements for over 20 years [4] and could ﬁnd numerous other applications as a binder [5]. The potential of Greek HCFA to substitute more than 60% of cement in the total bin- der content of concrete mixtures has been demonstrated through research and applications [6,7]. LF and EAF slags are both steel slags, by-products of the steel manufacturing industry. EAF slag is produced at an early stage of the steel production process, where the cooling of melt slag gives dense, coarse particles, showing good properties as aggregates [8,9]. LF slag is produced at a later stage of the steel production process and gives a ﬁne material, which shows some pozzolanic properties and could be used as a supplementary cementing material [10,11]. Also its performance could be im- proved with suitable treatment [12]. Earlier work has shown that ground LF slag can substi"
+    },
+    {
+      "page": 3,
+      "score": 6,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword"
+      ],
+      "text": "Concrete mixtures K2 and K3 with EAF slag aggregates and mix- ture K4 with LF slag as a binder showed a higher strength increase rate compared to that of conventional concrete K1 (7-day compres- sive strength developed was 89.0–92.2% of the 28-day compressive strength, while the respective K1 value was 81.8%). Concrete mix- tures K5 and K6 showed acceptable early strength values (53.0 MPa and 56.8 MPa 7-day compressive strength, compared to 52.5 MPa for the conventional concrete K1) and, as can be seen in Fig. 3 , increased rate of strength development compared to all the other mixtures. This is attributed to the pozzolanic activity of the HCFA present in mixtures K5 and K6, which reacts at a slower rate compared to Portland cement but develops increased ﬁnal strength. Also, in mixtures with HCFA, due to the slower rate of the pozzolanic reaction, lower heat of hydration is developed which prevents early-age cracking in concrete [23]. In slag aggregate concrete mixtures where supplementary cementitious materials were also used (K4, K5 and K6), 7-day com- pressive strength varied from 53 to 57 MPa. These values are con- siderably lower compared to the slag aggregate concrete mixtures K2 and K3, where only cement was used as binder and the com- pressive strength reached at 7 days was 65–71 MPa. The slower rate of strength development of the supplementary cementitious materials mixtures can be attributed to the slower rate of the poz- zolanic reaction. However, 7-day compressive strength levels of all test mixtures (K2–K6) are higher than the reference concrete mix- ture K1 strength and also the mixtures with supplementary cementitious materials are expected to show higher strength in the long run due to the continuation of the pozzolanic reaction [24]. This was veriﬁed from the 365-day compressive strength re- sults ( Fig. 3 ). Fig. 1. DTA–TG analysis on LF slag. Table 3 Physical properties of different coarse aggregates used. Property Test method EAF slag Crushed limestone App. speciﬁc density (kg/m 3) EN 1097-6 3330 2680 Loose bulk density (kg/m 3) EN 1097-3 1482 1385 Percentage of voids (%) EN 1097-3 55.5 48.3 Water absorption (%) EN 1097-6 2.50 0.75 Resistance to fragmentation (%) AASHTO T96 13.9 24.1 Flakiness index (%) EN 933-3 8.0 38.4 Freeze–thaw resistance (1% NaCl) (%) EN 1367-6 0.81 0.87 Magnesium sulphate soundness (%) EN 1367-2 23.6 21.4 Steel slag expansion (%) EN 1744-1 0.14 – Table 4 Physical properties of different ﬁne aggregates used. Property Test method EAF slag Crushed limestone River sand Water absorption (%) EN 1097-6 3.16 0.71 1.35 Fineness modulus ASTM C125 3.73 2.83 2.37 Fines content (%) EN 933-1 0.5 13.5 1.0 Table 5 Parameters of the test concrete mixtures. Mixture K1 K2 K3 K4 K5 K6 Total binder content (kg/m 3) 400 400 400 400 400 400 Sup. cementing material – – – LFS a HCFA HCFA Cement substitution rate (%) – – – 30 50 50 Fine aggregate CL CL 50%RS+ 50%EAF CL CL 50%RS+ 50%EAF Coarse aggregate CL EAF EAF EAF EAF EAF Vebe time (s) 10 17 19 17 17 22 a LFS: LF slag; CL: Crushed limestone; RS: river sand; EAF: EAF slag. 1414 I. Papayianni, E. Anastasiou / Construction and Building Materials 24 (2010) 1412–1417"
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "T003_01",
+      "page": 3,
+      "text": "Property Testmethod EAFslag Crushedlimestone App.specificdensity(kg/m3) EN1097-6 3330 2680 Loosebulkdensity(kg/m3) EN1097-3 1482 1385 Percentageofvoids(%) EN1097-3 55.5 48.3 Waterabsorption(%) EN1097-6 2.50 0.75 Resistancetofragmentation(%) AASHTOT96 13.9 24.1 Flakinessindex(%) EN933-3 8.0 38.4 Freeze–thawresistance(1%NaCl)(%) EN1367-6 0.81 0.87 Magnesiumsulphatesoundness(%) EN1367-2 23.6 21.4 Steelslagexpansion(%) EN1744-1 0.14 –"
+    },
+    {
+      "table_id": "T003_02",
+      "page": 3,
+      "text": "Property Test EAF Crushed River method slag limestone sand Waterabsorption(%) EN1097-6 3.16 0.71 1.35 Finenessmodulus ASTMC125 3.73 2.83 2.37 Finescontent(%) EN933-1 0.5 13.5 1.0"
+    },
+    {
+      "table_id": "T003_03",
+      "page": 3,
+      "text": "Mixture K1 K2 K3 K4 K5 K6 Totalbinder 400 400 400 400 400 400 content(kg/m3) Sup.cementingmaterial – – – LFSa HCFA HCFA Cementsubstitutionrate(%) – – – 30 50 50 Fineaggregate CL CL 50%RS+ CL CL 50%RS+ 50%EAF 50%EAF Coarseaggregate CL EAF EAF EAF EAF EAF Vebetime(s) 10 17 19 17 17 22"
+    },
+    {
+      "table_id": "T004_01",
+      "page": 4,
+      "text": "Mixture K1 K2 K3 K4 K5 K6 CEMI42.5(kg/m3) 400 400 400 280 200 200 HCFA(kg/m3) – – – – 200 200 LFslag(kg/m3) – – – 120 – – Riversand0–2mm(kg/m3) 523 601 639 591 588 624 Crushedlimestone0–4mm(kg/m3) 523 601 – 591 588 – Crushedlimestone4–12mm(kg/m3) 892 – – – – – EAFslag0–4mm(kg/m3) – – 639 – – 624 EAFslag4–12mm(kg/m3) – 945 1005 929 924 981 Water(kg/m3) 140 140 140 140 140 140 Superplasticizer(%bymassofbinder) 1.00 1.75 1.40 1.50 2.00 2.25"
+    },
+    {
+      "table_id": "T004_02",
+      "page": 4,
+      "text": "Properties K1 K2 K3 K4 K5 K6 Unitweight(kg/m3) 2295 2629 2750 2713 2574 2635 7-daycompressivestrength(MPa) 52.5 64.8 70.8 57.2 53.0 56.8 28-daycompressivestrength(MPa) 64.2 70.3 77.9 64.3 73.1 71.3 7/28-daycompressivestrength(%) 81.8 92.2 90.9 89.0 72.5 79.7 365-daycompressivestrength(MPa) 76.1 85.8 88.1 75.7 88.5 92.2 28-daysplittingtensilestrength(MPa) 5.20 5.52 5.89 5.17 5.78 5.40 28-dayflexuralstrength(MPa) 8.30 9.13 9.96 8.29 8.53 8.78"
+    },
+    {
+      "table_id": "T005_01",
+      "page": 5,
+      "text": "Concretemixture Fineaggregate Coarseaggregate Maxload,F(N) Deflection,d0(m(cid:2)10(cid:3)3) Fractureenergy,Gf(N/m) K1 CL CL 11,452 0.0684 52.5 K2 CL EAF 13,757 0.0659 57.1 K3 EAF EAF 15,371 0.0708 66.8"
+    },
+    {
+      "table_id": "T005_02",
+      "page": 5,
+      "text": "Properties K1 K2 K3 K4 K5 K6 Depthofwaterpenetrationunderpressure(mm) 15 15 10 30 10 15 Abrasionresistance(mm) 3.103 0.806 0.701 – – – Freeze–thawresistanceunderde-icingsalt(%) 0.05 0.08 0.05 0.08 2.20 1.75 Porosity(%) 5.0 4.3 4.5 4.4 4.9 4.9"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_004",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_003",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page"
+    }
+  ]
+}

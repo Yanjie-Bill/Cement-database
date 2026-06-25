@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0023",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.02.017.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.02.017",
+    "title": "A systematic approach for maintenance budgeting of buildings facades based on predictive and preventive strategies",
+    "authors": "Ines Flores-Colen; Jorge de Brito",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "building facade maintenance budgeting",
+    "annotation_status": "no_extractable_compressive_strength",
+    "notes": "Building facade maintenance budgeting paper; no cement compressive-strength test data."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0023_E001",
+      "paper_id": "CBM0023",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1/title or abstract",
+      "evidence_text": "Building facade maintenance budgeting paper; no cement compressive-strength test data.",
+      "supports": "scope exclusion",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

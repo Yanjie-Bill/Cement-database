@@ -1,0 +1,108 @@
+{
+  "paper": {
+    "paper_id": "CBM0028",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.02.031.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.02.031",
+    "title": ""
+  },
+  "pages": [
+    {
+      "page": 1,
+      "score": 10,
+      "reason": [
+        "first page",
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "Mechanical and elastic behaviour of concretes made of recycled-concrete coarse aggregates Valeria Corinaldesi * Department of Materials and Environment Engineering and Physics, Università Politecnica delle Marche, Ancona, Italy article info Article history: Received 8 January 2010 Received in revised form 9 February 2010 Accepted 11 February 2010 Available online 16 March 2010 Keywords: Coarse recycled aggregate Drying shrinkage Elastic modulus Recycled-concrete aggregate abstract In this paper an investigation of mechanical behaviour and elastic properties of recycled-aggregate con- cretes is presented. These concretes were prepared by alternatively using two different (coarse and ﬁner coarse) recycled-aggregate fractions both made of recycled concrete coming from a recycling plant in which rubble from demolition is collected and suitably treated. Several concrete mixtures were prepared by using only virgin aggregates (as reference), 30% ﬁner coarse recycled aggregate replacing ﬁne gravel and 30% coarse recycled aggregate replacing gravel. Five different water to cement ratios were adopted as: 0.40, 0.45, 0.50, 0.55 and 0.60. Concrete workability was in the slump range of 190–200 mm. Com- pression tests were carried out after 28 days of wet curing. In addition, concrete elastic modulus and dry- ing shrinkage were evaluated. Results obtained showed that structural concrete up to C32/40 strength class can be manufactured by replacing 30% virgin aggregate with recycled-concrete aggregate. More- over, a correlation between elastic modulus and compressive strength of recycled-aggregate concrete was found and compared to those reported in the literature. Finally, on the basis of drying shrinkage results, particularly if ﬁner coarse recycled-concrete aggregate is added to the mixture, lower strains could be detected especially for earlier curing time. /C2112010 Elsevier Ltd. All rights reserved. 1. Introduction Crushing concrete to produce coarse aggregate for the production of new concrete is one common means for achieving a more environ- mentally-friendly concrete. This reduces the consumption of natural resources as well as the disposal of waste concrete in landﬁlls. In fact, the use of recycled-aggregate concrete (RAC) is acquiring particular interest in civil construction as regards to sustainable development. Many studies demonstrate the feasibility of the use of crushed concrete as coarse aggregates [1–8], its use being al- ready accounted for in the regulations of many countries. In Italy, the use of 30% recycled concrete instead of virgin aggregate is deﬁnitively allowed for producing concretes (C30/37 strength class) since July 2009 [9]. Nevertheless, in the Italian regulations no indication about predictions of RAC elastic modulus and drying shrinkage is reported. The study of the elastic behaviour of con- cretes made of 30% recycled-concrete aggregates, here discussed, just has the aim to provide useful information. 2. Materials A commercial portland-limestone blended cement type CEM II/A-L 42.5 R according to EN-197/1 [10] was used. The Blaine ﬁneness of cement is 0.42 m 2/g and its relative speciﬁc gravity is 3.05. Quartz sand (0–5 mm), ﬁne gravel (6–12 mm) and gravel (11–22 mm) were used, suitably combined, for preparing the reference mixtures. Then two recy- cled-aggregate fractions were alternatively used, a ﬁner coarse recycled fraction (6–12 mm) and a coarse recycled fraction (11–22 mm), both coming from a recy- cling plant"
+    },
+    {
+      "page": 2,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "gravel (CR) are reported in Tables 2–4 respectively. The recycled- aggregate fractions were added to the mixture after water-soaking, in a condition very close to that deﬁned as saturated surface-dried. Five different water to cement ratios were adopted as: 0.40, 0.45, 0.50, 0.55 and 0.60 for 15 different concrete mixtures in all. All the concrete mixtures showed the same ﬂuidity level (S5, slump in the range 190–200 mm), evaluated according to EN 12350-2 [15]. In order to optimize the grain size distribution of the solid par- ticles in the concrete, the aggregate fractions were suitably com- bined according to the Bolomey particle size distribution curve [16]. A water reducing admixture was always added to the mixtures but at different dosages, ranging from 1.2% to 0.4% by weight of ce- ment in order to adjust cement dosage (always kept under 350 kg/m3 and gradually decreased for increasing water to cement ratios). 4. Preparation and curing of specimens Fifteen cubic specimens, 100 mm in size, were cast in steel forms for each concrete mixture for compression tests, according to UNI EN 12390-1 [17] and wet cured at 20 /C176C. In addition, three prismatic specimens (100 by 100 by 500 mm) were prepared for each concrete mixture according to UNI 6555 [18]. After one day of wet curing, the specimens were stored at constant temperature (20 ± 2 /C176C) and constant relative humidity (50 ± 2%), in the meantime drying shrinkage was measured at dif- ferent curing times. Finally, three cylindrical specimens, 250 mm high with a diam- eter of 100 mm, for each concrete mixture were manufactured for evaluating static modulus of elasticity in compression according to UNI 6556 [19]. 5. Results and discussion 5.1. Compression tests Compressive strength was evaluated after 28 days of wet curing according to UNI EN 12390-3 [20] on cubic specimens. The mean values obtained from ﬁfteen specimens as well as the standard deviation values are reported in Table 5 . On the basis of the data reported in Table 5 , the compressive strengths after 28 days of wet curing resulted 8% lower when ﬁner coarse instead of coarse recycled fraction was used. The reason lies in the different physical properties of these two fractions (see Ta- ble 1 ), despite the fact that they were simultaneously produced from the same plant. One possible explanation is a different distri- bution of those particles coming from higher concrete strength classes, which are less friable and, consequently, coarser at the end of the crushing process, so that they are present in higher per- centages in the coarse instead of ﬁner coarse recycled-aggregate fraction. Concerning the standard deviation values, they were practically independent on the type of aggregate used, showing that the same degree of homogeneity of the concrete mixtures could be achieved by using recycled aggregates instead of ordinary aggregates. Despite the penalization on the compressive strength values with respect to the reference mixtures for equal water to cement ratios (see Fig. 2 ), whichever the size of the recycled aggregate fraction, RAC strength classes C30/37 and C32/40 can be conﬁ- dently achieved by keeping the water/cement under 0.50 and 0.40 respectively. 5.2. Static elastic modulus evaluation Static modulus of elasticity was determined in compression on cylindrical specimens (250 mm high with a diameter of 100 mm) according to Italian Standards UNI 6556 [19]. The mean values ob- tained after 28 days are reported "
+    },
+    {
+      "page": 3,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "Different equations have been suggested by various investiga- tors for describing the relationship between the elastic modulus (MPa) and the cube specimen compressive strength (f cu, MPa) of recycled-aggregate concrete, and some of them are given in Eqs. (1)–(6). Ravindrarajah and Tam [21]: Ec ¼ 7770 /C2 f 0:33 cu ð1Þ Kakizaki et al. [22]: Ec ¼ 1:9 /C2 105 /C2 q 2300 /C16/C17 1:5 /C2 ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ ﬃ fcu 2000 r ð2Þ Dillmann [23]: Ec ¼ 634:43 /C2 fcu þ 3057:6 ð3Þ Dhir et al. [24]: Ec ¼ 370 /C2 fcu þ 13 100 ð4Þ Mellmann [25]: Ec ¼ 378 /C2 fcu þ 8242 ð5Þ Zilch and Roos [26]: Ec ¼ 9100 /C2ð fcu þ 8Þ1=3 /C2 q 2400 /C16/C17 2 ð6Þ Eqs. (1)–(6) are graphed in Fig. 3. It can be seen that there exists a great degree of diversity in the results. The reason for the Table 3 Mixture proportions of concretes made of 30% ﬁner coarse recycled aggregates. Mixture FR-0.40 FR-0.45 FR-0.50 FR-0.55 FR-0.60 Water/cement 0.40 0.45 0.50 0.55 0.60 Water, kg 140 153 165 176 186 Cement, kg 350 340 330 320 310 Sand, kg (% in volume) 732 (40) 723 (40) 715 (40) 708 (40) 702 (40) Finer coarse recycled aggregate, kg (% in volume) 519 (30) 512 (30) 507 (30) 502 (30) 497 (30) Gravel, kg (% in volume) 556 (30) 549 (30) 543 (30) 537 (30) 533 (30) Superplasticizer, % by weight of cement 1.2 1.0 0.8 0.6 0.4 Table 4 Mixture proportions of concretes made of 30% coarse recycled aggregates. Mixture CR-0.40 CR-0.45 CR-0.50 CR-0.55 CR-0.60 Water/cement 0.40 0.45 0.50 0.55 0.60 Water, kg 140 153 165 176 186 Cement, kg 350 340 330 320 310 Sand, kg (% in volume) 732 (40) 723 (40) 715 (40) 708 (40) 702 (40) Fine gravel, kg (% in volume) 553 (30) 547 (30) 541 (30) 535 (30) 531 (30) Coarse recycled aggregate, kg (% in volume) 523 (30) 517 (30) 511 (30) 506 (30) 501 (30) Superplasticizer, % by weight of cement 1.2 1.0 0.8 0.6 0.4 Table 5 Compressive strengths and elastic modulus after 28 days. Mixture Compressive strength (MPa) Static elastic modulus (GPa) Mean values Standard deviations Mean value REF-0.40 58.6 3.4 37.3 REF-0.45 56.1 2.5 36.9 REF-0.50 51.2 3.1 35.6 REF-0.55 47.1 2.6 – REF-0.60 43.9 1.3 33.9 FR-0.40 43.3 1.7 28.6 FR-0.45 39.6 2.8 28.6 FR-0.50 38.1 1.9 27.2 FR-0.55 34.5 3.9 26.7 FR-0.60 31.6 1.8 26.4 CR-0.40 46.1 3.2 32.7 CR-0.45 45.8 2.9 33.3 CR-0.50 39.9 3.7 27.7 CR-0.55 36.3 2.7 24.0 CR-0.60 34.7 1.6 22.9 Fig. 2. 28-Day compressive strengths vs. water to cement ratios. Fig. 3. RAC static elastic modulus vs. compressive strength. 1618 V. Corinaldesi / Construction and Building Materials 24 (2010) 1616–1620"
+    },
+    {
+      "page": 4,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "discrepancies is that the referenced author/authors has/have pro- posed his/their equation, just to best ﬁt his/their own experimental results. In Fig. 3 one further equation is graphed (proposed): Ec ¼ 18 800 /C2 ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ ﬃ 0:83 /C2 fcu 10 3 r ð7Þ It was obtained by suitably modifying the formula reported in the Italian regulations [9] for calculating the static elastic modulus of ordinary concrete, where the coefﬁcient was changed from 22,000 to 18,800 in order to ﬁt the results obtained when the ﬁner coarse recycled-aggregate fraction was used. In practice, it means that, for equal compressive strength, 15% lower elastic modulus is achieved by using 30% ﬁner coarse recycled aggregates. On the other hand, when the coarse recycled aggregate fraction was used, the elastic modulus value appears to be more dependent on the compressive strength variation and the following equation can be proposed by suitably adapting the Dillmann formula Eq. (3): Ec ¼ 909 /C2 fcu þ 8738 ð8Þ 5.3. Drying shrinkage test Drying shrinkage was evaluated according to UNI 6555 [18]. Re- sults obtained up to 180 days of exposure are reported in Table 6 . By comparing the drying shrinkage strains after 180 days for equal strength class concretes (C32/40), see Fig. 4, it can be noticed that, by using 30% recycled instead of virgin aggregate, strains are re- duced of 23% and 14% by using the ﬁner coarse and the coarse recy- cled fractions respectively. In addition, when the ﬁner coarse recycled fraction is used, par- ticularly low values of shrinkage are detected for early age (7 days), showing a ‘curing effect’ due to the use of such pre-saturated por- ous aggregate particles [27]. 6. Conclusions Results obtained show that structural concrete up to C32/40 strength class can be manufactured by replacing 30% virgin aggre- gate with recycled-concrete aggregate. Moreover, a correlation between elastic modulus and compres- sive strength of recycled-aggregate concrete was found showing that 15% lower elastic modulus is achieved by using 30% recycled aggregates. Finally, on the basis of the results obtained it seems that, partic- ularly if ﬁner coarse recycled-concrete aggregate is used, lower shrinkage strains are detected especially for earlier curing times. This last aspect, when considered together with a lower elastic modulus, predicts a lower tendency to crack in the recycled-aggre- gate concrete. References [1] RILEM Recommendation. 121-DRG guidance for demolition and reuse of concrete and masonry. Speciﬁcations for concrete with recycled aggregates. Mater Struct 1994;27:557–59. [2] ACI Committee 555. Removal and reuse of hardened concrete. ACI Mater J. 2002;99(3):300–25. [3] Rahal K. Mechanical properties of concrete with recycled coarse aggregate. Build Environ 2007;42:407–15. [4] Limbachiya MC, Marrocchino E, Koulouris A. Chemical–mineralogical characterisation of coarse recycled concrete aggregate. Waste Manage 2007;27:201–8. [5] Tam VWY, Wang K, Tam CM. Assessing relationships among properties of demolished concrete, recycled aggregate and recycled aggregate concrete using regression analysis. J Hazard Mater 2008;152:703–14. [6] Padmini AK, Ramamurthy K, Mathews MS. Inﬂuence of parent concrete on the properties of recycled aggregate concrete. Constr Build Mater 2009;23:829–36. [7] Tabsh SW, Abdelfatah AS. Inﬂuence of recycled concrete aggregates on strength properties of concrete. Constr Build Mater 2009;23:1163–7. [8] Berndt ML. Properties of sustai"
+    },
+    {
+      "page": 5,
+      "score": 2,
+      "reason": [
+        "mixture keyword"
+      ],
+      "text": "[23] Dillmann R. Concrete with recycled concrete aggregate. In: Proceedings of international symposium on sustainable construction: use of recycled concrete aggregate, Dundee, Scotland; 1998. p. 239–53. [24] Dhir RK, Limbachiya MC, Leelawat T. Suitability of recycled aggregate for use in BS 5328 designated mixes. Proc Inst Civil Eng 1999;134:257–74. [25] Mellmann G. Processed concrete rubble for the reuse as aggregate. In: Proceedings of the international seminar on exploiting waste in concrete, Dundee, Scotland; 1999. p. 171–8. [26] Zilch K, Roos F. An equation to estimate the modulus of elasticity of concrete with recycled aggregates. Civil Eng 2001;76(4):187–91 (only available in German). [27] Corinaldesi V, Moriconi G. Recycling of wastes from building demolition in low-shrinkage concretes. Waste Manage 2010;30(4):655–9. 1620 V. Corinaldesi / Construction and Building Materials 24 (2010) 1616–1620"
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "T002_01",
+      "page": 2,
+      "text": "Aggregatefractions Quartzsand Finegravel Gravel Finercoarserecycledfraction Coarserecycledfraction Relativespecificgravity(SSD) 2.54 2.56 2.57 2.40 2.42 Waterabsorption,% 3.5 3.0 3.0 8.8 6.8 Totalopenporosity,% 11.5 11.9 9.7 17.8 16.3 Averageporedimension,nm 112 124 120 146 138"
+    },
+    {
+      "table_id": "T002_02",
+      "page": 2,
+      "text": "Mixture REF-0.40 REF-0.45 REF-0.50 REF-0.55 REF-0.60 Water/cement 0.40 0.45 0.50 0.55 0.60 Water,kg 140 153 165 176 186 Cement,kg 350 340 330 320 310 Sand,kg(%involume) 732(40) 723(40) 715(40) 708(40) 702(40) Finegravel,kg(%involume) 553(30) 547(30) 541(30) 535(30) 531(30) Gravel,kg(%involume) 556(30) 549(30) 543(30) 537(30) 533(30) Superplasticizer,%byweightofcement 1.2 1.0 0.8 0.6 0.4"
+    },
+    {
+      "table_id": "T003_01",
+      "page": 3,
+      "text": "Mixture FR-0.40 FR-0.45 FR-0.50 FR-0.55 FR-0.60 Water/cement 0.40 0.45 0.50 0.55 0.60 Water,kg 140 153 165 176 186 Cement,kg 350 340 330 320 310 Sand,kg(%involume) 732(40) 723(40) 715(40) 708(40) 702(40) Finercoarserecycledaggregate,kg(%involume) 519(30) 512(30) 507(30) 502(30) 497(30) Gravel,kg(%involume) 556(30) 549(30) 543(30) 537(30) 533(30) Superplasticizer,%byweightofcement 1.2 1.0 0.8 0.6 0.4"
+    },
+    {
+      "table_id": "T003_02",
+      "page": 3,
+      "text": "Mixture CR-0.40 CR-0.45 CR-0.50 CR-0.55 CR-0.60 Water/cement 0.40 0.45 0.50 0.55 0.60 Water,kg 140 153 165 176 186 Cement,kg 350 340 330 320 310 Sand,kg(%involume) 732(40) 723(40) 715(40) 708(40) 702(40) Finegravel,kg(%involume) 553(30) 547(30) 541(30) 535(30) 531(30) Coarserecycledaggregate,kg(%involume) 523(30) 517(30) 511(30) 506(30) 501(30) Superplasticizer,%byweightofcement 1.2 1.0 0.8 0.6 0.4"
+    },
+    {
+      "table_id": "T003_03",
+      "page": 3,
+      "text": "Mixture Compressivestrength(MPa) Staticelasticmodulus(GPa) Meanvalues Standarddeviations Meanvalue REF-0.40 58.6 3.4 37.3 REF-0.45 56.1 2.5 36.9 REF-0.50 51.2 3.1 35.6 REF-0.55 47.1 2.6 – REF-0.60 43.9 1.3 33.9 FR-0.40 43.3 1.7 28.6 FR-0.45 39.6 2.8 28.6 FR-0.50 38.1 1.9 27.2 FR-0.55 34.5 3.9 26.7 FR-0.60 31.6 1.8 26.4 CR-0.40 46.1 3.2 32.7 CR-0.45 45.8 2.9 33.3 CR-0.50 39.9 3.7 27.7 CR-0.55 36.3 2.7 24.0 CR-0.60 34.7 1.6 22.9"
+    },
+    {
+      "table_id": "T004_01",
+      "page": 4,
+      "text": "Mixture Daysofexposureto50%R.H.,20(cid:3)Ctemperature 7 30 60 90 180 REF-0.40 0.09 0.26 0.34 0.40 0.44 REF-0.45 0.11 0.30 0.37 0.40 0.48 REF-0.50 0.19 0.27 0.43 0.45 0.50 REF-0.55 0.18 0.33 0.47 0.49 0.64 REF-0.60 0.24 0.34 0.48 0.58 0.70 FR-0.40 0.05 0.26 0.40 0.50 0.54 FR-0.45 0.06 0.28 0.42 0.47 0.54 FR-0.50 0.05 0.27 0.41 0.50 0.52 FR-0.55 0.10 0.24 0.45 0.51 0.58 FR-0.60 0.19 0.44 0.63 0.68 0.73 CR-0.40 0.11 0.31 0.50 0.50 0.58 CR-0.45 0.12 0.32 0.43 0.47 0.60 CR-0.50 0.14 0.38 0.54 0.54 0.58 CR-0.55 0.17 0.26 0.38 0.43 0.63 CR-0.60 0.18 0.40 0.62 0.66 0.68"
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_002",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_003",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page"
+    }
+  ]
+}

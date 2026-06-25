@@ -1,0 +1,275 @@
+{
+  "paper": {
+    "paper_id": "CBM0021",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.02.006.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.02.006",
+    "title": "Bond between carbon fibre-reinforced polymer (CFRP) bars and ultra high performance fibre reinforced concrete (UHPFRC): Experimental study",
+    "authors": "Sayed Ahmad Firas; Foret Gilles; Le Roy Robert",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "UHPFRC for CFRP bar bond tests",
+    "annotation_status": "complete",
+    "notes": "UHPFRC compressive strengths extracted from material-properties table."
+  },
+  "mixture_components": [
+    {
+      "component_id": "CBM0021_UHPFRC_C01",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "mixture_description": "Ready-mix BSI-CERACEM UHPFRC",
+      "component_original": "Premix EIFFAGE B1M2",
+      "component_standard": "Premix EIFFAGE B1M2",
+      "category": "binder",
+      "role_in_mix": "binder",
+      "amount": 2349,
+      "unit": "kg/m3",
+      "basis": "per 1 m3 concrete",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": 0.2,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0021_E001"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0021_UHPFRC_C02",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "mixture_description": "Ready-mix BSI-CERACEM UHPFRC",
+      "component_original": "Water",
+      "component_standard": "Water",
+      "category": "water",
+      "role_in_mix": "water",
+      "amount": 195,
+      "unit": "kg/m3",
+      "basis": "per 1 m3 concrete",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": 0.2,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0021_E001"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0021_UHPFRC_C03",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "mixture_description": "Ready-mix BSI-CERACEM UHPFRC",
+      "component_original": "Superplasticizer Glenium G51",
+      "component_standard": "Superplasticizer Glenium G51",
+      "category": "admixture",
+      "role_in_mix": "admixture",
+      "amount": 50,
+      "unit": "kg/m3",
+      "basis": "per 1 m3 concrete",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": 0.2,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0021_E001"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0021_UHPFRC_C04",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "mixture_description": "Ready-mix BSI-CERACEM UHPFRC",
+      "component_original": "Metal fibres",
+      "component_standard": "Metal fibres",
+      "category": "fiber",
+      "role_in_mix": "fiber",
+      "amount": 195,
+      "unit": "kg/m3",
+      "basis": "per 1 m3 concrete",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": 0.2,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0021_E001"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    }
+  ],
+  "strength_results": [
+    {
+      "result_id": "CBM0021_R_UHPFRC_3D",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "property": "compressive_strength",
+      "age_days": 3,
+      "unit": "MPa",
+      "table_value": 120,
+      "recommended_value": 120,
+      "final_value": 120,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CURING_SAME_AS_BOND_SPECIMENS",
+      "testing_condition_id": "TEST_COMP_CYL",
+      "evidence_ids": [
+        "CBM0021_E001",
+        "CBM0021_E002"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0021_R_UHPFRC_14D",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "property": "compressive_strength",
+      "age_days": 14,
+      "unit": "MPa",
+      "table_value": 155,
+      "recommended_value": 155,
+      "final_value": 155,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CURING_SAME_AS_BOND_SPECIMENS",
+      "testing_condition_id": "TEST_COMP_CYL",
+      "evidence_ids": [
+        "CBM0021_E001",
+        "CBM0021_E002"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0021_R_UHPFRC_28D",
+      "paper_id": "CBM0021",
+      "mixture_id": "CBM0021_UHPFRC",
+      "mixture_original_id": "UHPFRC",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 170,
+      "recommended_value": 170,
+      "final_value": 170,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CURING_SAME_AS_BOND_SPECIMENS",
+      "testing_condition_id": "TEST_COMP_CYL",
+      "evidence_ids": [
+        "CBM0021_E001",
+        "CBM0021_E002"
+      ],
+      "confidence": 0.95,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CURING_SAME_AS_BOND_SPECIMENS",
+      "paper_id": "CBM0021",
+      "condition_type": "curing",
+      "applies_to": "UHPFRC",
+      "specimen_type": "",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "same conditions as test specimens",
+      "demould_time_days": null,
+      "test_age_days": "3, 14, 28",
+      "test_method": "",
+      "test_standard": "",
+      "specimen_geometry": "110 x 220 mm control cylinders",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0021_E002"
+      ],
+      "confidence": 0.85,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "condition_id": "TEST_COMP_CYL",
+      "paper_id": "CBM0021",
+      "condition_type": "testing",
+      "applies_to": "UHPFRC",
+      "specimen_type": "",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "",
+      "demould_time_days": null,
+      "test_age_days": "3, 14, 28",
+      "test_method": "compressive strength of control cylinders",
+      "test_standard": "",
+      "specimen_geometry": "110 x 220 mm cylinders",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0021_E001",
+        "CBM0021_E002"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": "Average basis not explicitly stated beyond three cylinders per age."
+    }
+  ],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0021_E001",
+      "paper_id": "CBM0021",
+      "source_modality": "table",
+      "page": 2,
+      "source_location": "Table 1 / T002_01",
+      "evidence_text": "Composition for 1 m3: premix 2349 kg, water 195 kg, W/C 0.2, Glenium G51 50 kg, metal fibres 195 kg; compressive strength at 3, 14, 28 days: 120, 155, 170 MPa.",
+      "supports": "UHPFRC mixture and compressive strengths",
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0021_E002",
+      "paper_id": "CBM0021",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "Section 2.1",
+      "evidence_text": "Nine standard 110 x 220 mm control cylinders were cast and cured under the same conditions as test specimens; compressive strength of three control cylinders measured after 3, 14 and 28 days.",
+      "supports": "specimen geometry, curing basis, and test ages",
+      "confidence": 0.93,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.94,
+    "direct_insert_count": 3,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}
