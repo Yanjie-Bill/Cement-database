@@ -1,0 +1,144 @@
+{
+  "paper": {
+    "paper_id": "CBM0012",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.030.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.030",
+    "title": "Use of fine glass as ASR inhibitor in glass aggregate mortars",
+    "authors": "Rachida Idir; Martin Cyr; Arezki Tagnit-Hamou",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "Glass aggregate mortars for ASR testing",
+    "annotation_status": "completed_with_review",
+    "notes": "Compressive-strength results are described as plotted in Fig. 1; exact values are not available in the supplied packet."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "R001",
+      "paper_id": "CBM0012",
+      "mixture_id": "CBM0012_GLASS_MORTARS",
+      "mixture_original_id": "glass mortar classes",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "E003"
+      ],
+      "confidence": 0.5,
+      "human_decision": "",
+      "notes": "Fig. 1 includes compressive-strength results for mortars containing different glass size classes; values require digitization and mixture mapping."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "COND001",
+      "paper_id": "CBM0012",
+      "condition_type": "curing_testing",
+      "applies_to": "glass mortar classes",
+      "specimen_type": "mortar prism",
+      "temperature_c": 60,
+      "rh_pct": null,
+      "curing_method": "demoulded after 24 h; stored at 60 °C in watertight containers above 20 mm water; cooled 24 h at 20 °C before measurements",
+      "demould_time_days": 1,
+      "test_age_days": null,
+      "test_method": "",
+      "test_standard": "",
+      "specimen_geometry": "2 x 2 x 16 cm prisms",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.85,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_002",
+      "paper_id": "CBM0012",
+      "page": 2,
+      "caption": "Fig. 1. Expansion and compressive-strength results of mortars containing different glass size classes.",
+      "figure_type": "page_image_candidate",
+      "strength_relevance": "candidate_compressive_strength",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.7,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0012",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Study of fine glass as ASR inhibitor in glass aggregate mortars; mechanical tests on mortar samples were used for pozzolanic assessment.",
+      "supports": "paper identity",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E002",
+      "paper_id": "CBM0012",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "Experimental procedure",
+      "evidence_text": "Mortars were cast in 2 x 2 x 16 cm prisms, demolded after 24 h, stored at 60 °C in watertight containers, and measurements were made after cooling.",
+      "supports": "curing/testing context",
+      "confidence": 0.85,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E003",
+      "paper_id": "CBM0012",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "Section 3.1/Fig. 1",
+      "evidence_text": "Fig. 1 gives compressive strength results of mortars containing different size classes of glass; strengths were up to 10 MPa lower for C0 and C1 and fines C3-C8 gave extra strength.",
+      "supports": "figure-only compressive-strength candidate",
+      "confidence": 0.7,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "Q001",
+      "paper_id": "CBM0012",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "R001"
+      ],
+      "priority": "high",
+      "question": "Digitize Fig. 1 compressive-strength values and map each glass class/replacement mixture.",
+      "suggested_action": "Use figure digitization or source table if available; do not insert until mixture labels and values are confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.55,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "No exact compressive-strength table is present in the supplied packet; values require figure digitization."
+    ]
+  }
+}

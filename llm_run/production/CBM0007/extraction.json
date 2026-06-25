@@ -1,0 +1,341 @@
+{
+  "paper": {
+    "paper_id": "CBM0007",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.023.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.023",
+    "title": "Effect of curing temperature on the development of hard structure of metakaolin-based geopolymer",
+    "authors": "Pavel Rovnaník",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1176-1183",
+    "material_system": "Metakaolin-based geopolymer mortar",
+    "annotation_status": "completed_with_review",
+    "notes": "Compressive-strength data are present only in figures in the supplied packet."
+  },
+  "mixture_components": [
+    {
+      "component_id": "C001",
+      "paper_id": "CBM0007",
+      "mixture_id": "CBM0007_MIX_REF",
+      "mixture_original_id": "reference geopolymer mortar",
+      "mixture_description": "Metakaolin-based geopolymer mortar used for curing-temperature study",
+      "component_original": "metakaolin",
+      "component_standard": "metakaolin",
+      "category": "binder",
+      "role_in_mix": "precursor binder",
+      "amount": 1000,
+      "unit": "g",
+      "basis": "batch mass/volume reported in sample preparation",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "C002",
+      "paper_id": "CBM0007",
+      "mixture_id": "CBM0007_MIX_REF",
+      "mixture_original_id": "reference geopolymer mortar",
+      "mixture_description": "Metakaolin-based geopolymer mortar used for curing-temperature study",
+      "component_original": "alkaline silicate solution",
+      "component_standard": "alkaline silicate solution",
+      "category": "alkaline activator",
+      "role_in_mix": "activator",
+      "amount": 1233,
+      "unit": "g",
+      "basis": "batch mass/volume reported in sample preparation",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "C003",
+      "paper_id": "CBM0007",
+      "mixture_id": "CBM0007_MIX_REF",
+      "mixture_original_id": "reference geopolymer mortar",
+      "mixture_description": "Metakaolin-based geopolymer mortar used for curing-temperature study",
+      "component_original": "quartz sand",
+      "component_standard": "quartz sand",
+      "category": "aggregate",
+      "role_in_mix": "fine aggregate",
+      "amount": 1350,
+      "unit": "g",
+      "basis": "batch mass/volume reported in sample preparation",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "C004",
+      "paper_id": "CBM0007",
+      "mixture_id": "CBM0007_MIX_REF",
+      "mixture_original_id": "reference geopolymer mortar",
+      "mixture_description": "Metakaolin-based geopolymer mortar used for curing-temperature study",
+      "component_original": "water",
+      "component_standard": "water",
+      "category": "water",
+      "role_in_mix": "workability water",
+      "amount": 100,
+      "unit": "ml",
+      "basis": "batch mass/volume reported in sample preparation",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    }
+  ],
+  "strength_results": [
+    {
+      "result_id": "R001",
+      "paper_id": "CBM0007",
+      "mixture_id": "CBM0007_MIX_REF",
+      "mixture_original_id": "reference geopolymer mortar",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CUR001",
+      "testing_condition_id": "TEST001",
+      "evidence_ids": [
+        "E005"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Fig. 2 contains compressive-strength curves by curing temperature; values require digitization."
+    },
+    {
+      "result_id": "R002",
+      "paper_id": "CBM0007",
+      "mixture_id": "CBM0007_MIX_REF",
+      "mixture_original_id": "reference geopolymer mortar",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CUR001",
+      "testing_condition_id": "TEST001",
+      "evidence_ids": [
+        "E006"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Fig. 3 contains compressive-strength curves by elevated-temperature curing time; values require digitization."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CUR001",
+      "paper_id": "CBM0007",
+      "condition_type": "curing",
+      "applies_to": "CBM0007_MIX_REF",
+      "specimen_type": "geopolymer mortar prism",
+      "temperature_c": "10, 20, 40, 60, or 80",
+      "rh_pct": "45 ± 5 after initial curing",
+      "curing_method": "sealed; 10 °C or 20 °C until testing, or 40/60/80 °C for initial 1-4 h then 20 °C",
+      "demould_time_days": null,
+      "test_age_days": "1, 3, 7, 28",
+      "test_method": "",
+      "test_standard": "",
+      "specimen_geometry": "40 x 40 x 160 mm prisms",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "E003"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "condition_id": "TEST001",
+      "paper_id": "CBM0007",
+      "condition_type": "testing",
+      "applies_to": "CBM0007_MIX_REF",
+      "specimen_type": "residual prism halves",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "",
+      "demould_time_days": null,
+      "test_age_days": null,
+      "test_method": "compressive strength measured on residual pieces after flexural test",
+      "test_standard": "EN 196-1",
+      "specimen_geometry": "40 x 40 x 160 mm prisms; residual pieces for compression",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "E004"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_003",
+      "paper_id": "CBM0007",
+      "page": 3,
+      "caption": "Fig. 3. Influence of curing time on compressive and flexural strengths of geopolymer cured at elevated temperatures (40, 60, 80 °C).",
+      "figure_type": "page_image_candidate",
+      "strength_relevance": "candidate_compressive_strength",
+      "image_path": "",
+      "extraction_status": "review_required",
+      "confidence": 0.7,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "paper_id": "CBM0007",
+      "page": 5,
+      "caption": "Fig. 2. Influence of curing temperature on compressive and flexural strengths of geopolymer mortar at ages 1, 3, 7 and 28 days.",
+      "figure_type": "page_image_candidate",
+      "strength_relevance": "candidate_compressive_strength",
+      "image_path": "",
+      "extraction_status": "review_required",
+      "confidence": 0.7,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0007",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Effect of curing temperature on the development of hard structure of metakaolin-based geopolymer; compressive and flexural strengths were measured.",
+      "supports": "paper identity",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E002",
+      "paper_id": "CBM0007",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "Section 2.2 Sample preparation",
+      "evidence_text": "Geopolymer mortar was prepared from 1000 g metakaolin, 1233 g alkaline silicate solution, 1350 g quartz sand, and 100 ml water.",
+      "supports": "mixture composition",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E003",
+      "paper_id": "CBM0007",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "Section 2.2 Sample preparation",
+      "evidence_text": "Specimens were cured at 10, 20, 40, 60 or 80 °C; heated specimens were treated for 1, 2, 3 or 4 h then stored at 20 °C and 45 ± 5% RH until tested.",
+      "supports": "curing conditions",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E004",
+      "paper_id": "CBM0007",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "Section 2.3 Characterization",
+      "evidence_text": "Mechanical properties were conducted on geopolymer mortars at 1, 3, 7 and 28 days; compressive strengths were measured on residual pieces according to EN 196-1.",
+      "supports": "testing conditions",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E005",
+      "paper_id": "CBM0007",
+      "source_modality": "figure",
+      "page": 5,
+      "source_location": "Fig. 2",
+      "evidence_text": "Figure reports compressive and flexural strengths versus age for curing temperatures 10, 20, 40, 60 and 80 °C.",
+      "supports": "figure-only compressive-strength data",
+      "confidence": 0.7,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E006",
+      "paper_id": "CBM0007",
+      "source_modality": "figure",
+      "page": 3,
+      "source_location": "Fig. 3",
+      "evidence_text": "Figure reports compressive and flexural strengths versus age for elevated-temperature curing times of 1, 2, 3 and 4 h.",
+      "supports": "figure-only compressive-strength data",
+      "confidence": 0.7,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "Q001",
+      "paper_id": "CBM0007",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "R001",
+        "R002"
+      ],
+      "priority": "high",
+      "question": "Digitize Fig. 2 and Fig. 3 compressive-strength curves and split by curing temperature/time and test age.",
+      "suggested_action": "Use figure digitization against axes; create exact mixture-condition-specific rows after review.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.62,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are figure-only in the packet and require digitization."
+    ]
+  }
+}

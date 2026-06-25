@@ -1,0 +1,43 @@
+{
+  "paper": {
+    "paper_id": "CBM0014",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.01.006.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.01.006",
+    "title": "Prediction of elastic modulus of normal and high strength concrete by support vector machine",
+    "authors": "Kezhen Yan; Caijun Shi",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1479-1485",
+    "material_system": "Secondary dataset/modeling of concrete elastic modulus from compressive strength",
+    "annotation_status": "excluded_secondary_dataset_no_mix_design",
+    "notes": "Contains literature/model input compressive-strength values without source mixture designs; not suitable as direct mix-level database rows."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0014",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "The paper uses compressive strength as an input variable to predict elastic modulus; tables report fc and Ec from existing datasets, not new mix-level compositions.",
+      "supports": "paper identity and exclusion rationale",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No directly extractable cementitious mix-level compressive-strength data in supplied packet."
+    ]
+  }
+}

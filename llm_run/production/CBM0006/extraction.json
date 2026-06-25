@@ -1,0 +1,43 @@
+{
+  "paper": {
+    "paper_id": "CBM0006",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.021.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.021",
+    "title": "Evaluating permanent deformation in asphalt rubber mixtures",
+    "authors": "Liseane P.T.L. Fontes; Glicério Trichês; Jorge C. Pais; Paulo A.A. Pereira",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1193-1200",
+    "material_system": "Asphalt rubber mixtures",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Reports rutting/permanent deformation of asphalt mixtures, not cementitious compressive strength."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0006",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Title and abstract identify asphalt rubber mixtures and rutting/permanent deformation tests.",
+      "supports": "paper identity and exclusion rationale",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No directly extractable cementitious mix-level compressive-strength data in supplied packet."
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "paper": {
+    "paper_id": "CBM0010",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.028.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.028",
+    "title": "Hydration properties of basic oxygen furnace steel slag",
+    "authors": "Wang Qiang; Yan Peiyu",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1134-1140",
+    "material_system": "Basic oxygen furnace steel slag paste",
+    "annotation_status": "excluded_no_compressive_strength_results",
+    "notes": "Reports hydration heat, non-evaporable water, XRD and SEM of steel slag pastes; no compressive-strength results are supplied."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0010",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Title and abstract identify hydration properties of basic oxygen furnace steel slag; methods describe hydration heat, non-evaporable water, XRD and SEM.",
+      "supports": "paper identity and exclusion rationale",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No directly extractable cementitious mix-level compressive-strength data in supplied packet."
+    ]
+  }
+}

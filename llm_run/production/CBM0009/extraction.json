@@ -1,0 +1,43 @@
+{
+  "paper": {
+    "paper_id": "CBM0009",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.025.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.025",
+    "title": "Fatigue behavior of SMA and HMA mixtures",
+    "authors": "F. Moghadas Nejad; E. Aflaki; M.A. Mohammadi",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1158-1165",
+    "material_system": "SMA and HMA asphalt mixtures",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Reports fatigue, indirect tensile and stiffness behavior of asphalt mixtures, not cementitious compressive strength."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0009",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Title and abstract identify SMA/HMA asphalt mixtures and fatigue behavior under indirect tensile testing.",
+      "supports": "paper identity and exclusion rationale",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No directly extractable cementitious mix-level compressive-strength data in supplied packet."
+    ]
+  }
+}
