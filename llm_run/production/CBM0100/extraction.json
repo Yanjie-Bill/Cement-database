@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0100",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.086.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.086",
+    "title": "Modelling the linear viscoelastic rheological properties of bituminous binders",
+    "authors": "Nur Izzi Md. Yusoff; Montgomery T. Shaw; Gordon D. Airey",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "bituminous binder rheology review",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Packet does not provide cementitious compressive-strength results suitable for extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0100_E001",
+      "paper_id": "CBM0100",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Review Modelling the linear viscoelastic rheological properties of bituminous binders Nur Izzi Md. Yusoff a,⇑, Montgomery T. Shaw b, Gordon D. Airey a a Nottingham Transportation Engineering Centre, University of Nottingham, UK b Polymer Program, Institute of Materials Science, University of Connect",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

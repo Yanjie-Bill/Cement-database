@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0082",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.025.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.025",
+    "title": "Preparation, microstructure and property of carbonated artificial steel slag aggregates",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "non-cement brick/aggregate material",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Packet does not provide cementitious compressive-strength results suitable for extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0082_E001",
+      "paper_id": "CBM0082",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "and too low silica for producing bricks [2], which could increase shrinkage and bulk density and decrease the strength of bricks, thus results in the bricks could not meet the requirements of the standards. However, the major constituents of the clay and ﬂy ash as the general raw materials for brick",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

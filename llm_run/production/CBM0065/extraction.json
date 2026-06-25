@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0065",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.07.011.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.07.011",
+    "title": "A new analytical solution to the mechanical behaviour of fully grouted rockbolts subjected to pull-out tests",
+    "authors": "Laura Blanco Martín; Michel Tijani; Faouzi Hadj-Hassen",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "grouted rockbolt pull-out model",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Rockbolt pull-out analytical paper; target compressive strength data not present."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0065_E001",
+      "paper_id": "CBM0065",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Rockbolt pull-out analytical paper; target compressive strength data not present.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

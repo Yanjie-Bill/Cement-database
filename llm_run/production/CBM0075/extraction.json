@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0075",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.09.016.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.09.016",
+    "title": "Experimental study of recycled asphalt mixtures with high percentages of reclaimed asphalt pavement (RAP)",
+    "authors": "Gonzalo Valdés; Félix Pérez-Jiménez; Rodrigo Miró; Adriana Martínez; Ramón Botella",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled asphalt mixtures",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Asphalt RAP mixture paper; no cementitious compressive-strength data."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0075_E001",
+      "paper_id": "CBM0075",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Asphalt RAP mixture paper; no cementitious compressive-strength data.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

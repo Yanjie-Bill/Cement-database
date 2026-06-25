@@ -1,0 +1,150 @@
+{
+  "paper": {
+    "paper_id": "CBM0057",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.06.065.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.06.065",
+    "title": "Use of power plant bottom ash as fine and coarse aggregates in high-strength concrete",
+    "authors": "H.K. Kim; H.K. Lee",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "bottom ash high-strength concrete",
+    "annotation_status": "partial_extraction_needs_strength_figure_digitization",
+    "notes": "Strength values appear to require figure digitization from supplied packet."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0057-SR001",
+      "paper_id": "CBM0057",
+      "mixture_id": "",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0057_E002"
+      ],
+      "confidence": 0.5,
+      "human_decision": "",
+      "notes": "Compressive-strength figure candidate requires digitization."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0057-F001",
+      "paper_id": "CBM0057",
+      "page": null,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/page image",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "No readable numeric strength table in packet."
+    },
+    {
+      "figure_id": "CBM0057-F002",
+      "paper_id": "CBM0057",
+      "page": null,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/page image",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "No readable numeric strength table in packet."
+    },
+    {
+      "figure_id": "CBM0057-F003",
+      "paper_id": "CBM0057",
+      "page": null,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/page image",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "No readable numeric strength table in packet."
+    },
+    {
+      "figure_id": "CBM0057-F004",
+      "paper_id": "CBM0057",
+      "page": null,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/page image",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "No readable numeric strength table in packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0057_E001",
+      "paper_id": "CBM0057",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "title/abstract",
+      "evidence_text": "Use of power plant bottom ash as fine and coarse aggregates in high-strength concrete; mechanical properties including compressive strength are studied.",
+      "supports": "scope",
+      "confidence": 0.8,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0057_E002",
+      "paper_id": "CBM0057",
+      "source_modality": "figure",
+      "page": null,
+      "source_location": "candidate figures",
+      "evidence_text": "Packet marks several compressive-strength figure/page candidates but tables do not provide readable strength values.",
+      "supports": "figure-only strength candidate",
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0057-R001",
+      "paper_id": "CBM0057",
+      "target_sheet": "figures",
+      "target_record_ids": [
+        "CBM0057-F001",
+        "CBM0057-F002",
+        "CBM0057-F003",
+        "CBM0057-F004"
+      ],
+      "priority": "high",
+      "question": "Digitize compressive-strength figure(s) for bottom-ash concrete mixtures.",
+      "suggested_action": "Human review required before database insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.65,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some strength candidates require human review or figure digitization."
+    ]
+  }
+}

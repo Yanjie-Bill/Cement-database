@@ -1,0 +1,315 @@
+{
+  "paper": {
+    "paper_id": "CBM0076",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.09.022.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.09.022",
+    "title": "Durability of lightweight concretes with lightweight fly ash aggregates",
+    "authors": "Niyazi Ugur Kockal; Turan Ozturan",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "lightweight fly ash aggregate concrete",
+    "annotation_status": "extracted_direct",
+    "notes": "Direct compressive-strength values extracted from Table 8; mix-proportion table was referenced but not visible in packet."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0076_S001",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_LWCC",
+      "mixture_original_id": "LWCC",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 42.3,
+      "recommended_value": 42.3,
+      "final_value": 42.3,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S002",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_LWCC",
+      "mixture_original_id": "LWCC",
+      "property": "compressive_strength",
+      "age_days": 56,
+      "unit": "MPa",
+      "table_value": 44.6,
+      "recommended_value": 44.6,
+      "final_value": 44.6,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S003",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_LWBC",
+      "mixture_original_id": "LWBC",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 53.5,
+      "recommended_value": 53.5,
+      "final_value": 53.5,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S004",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_LWBC",
+      "mixture_original_id": "LWBC",
+      "property": "compressive_strength",
+      "age_days": 56,
+      "unit": "MPa",
+      "table_value": 59.5,
+      "recommended_value": 59.5,
+      "final_value": 59.5,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S005",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_LWGC",
+      "mixture_original_id": "LWGC",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 55.8,
+      "recommended_value": 55.8,
+      "final_value": 55.8,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S006",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_LWGC",
+      "mixture_original_id": "LWGC",
+      "property": "compressive_strength",
+      "age_days": 56,
+      "unit": "MPa",
+      "table_value": 60.4,
+      "recommended_value": 60.4,
+      "final_value": 60.4,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S007",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_NWC",
+      "mixture_original_id": "NWC",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 62.9,
+      "recommended_value": 62.9,
+      "final_value": 62.9,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0076_S008",
+      "paper_id": "CBM0076",
+      "mixture_id": "CBM0076_NWC",
+      "mixture_original_id": "NWC",
+      "property": "compressive_strength",
+      "age_days": 56,
+      "unit": "MPa",
+      "table_value": 66.0,
+      "recommended_value": 66.0,
+      "final_value": 66.0,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0076_C001",
+      "evidence_ids": [
+        "CBM0076_E002"
+      ],
+      "confidence": 0.97,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0076_C001",
+      "paper_id": "CBM0076",
+      "condition_type": "testing/curing",
+      "applies_to": "strength_results",
+      "specimen_type": "cylinder",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "",
+      "demould_time_days": null,
+      "test_age_days": "28 and 56",
+      "test_method": "compressive strength",
+      "test_standard": "ASTM C39",
+      "specimen_geometry": "100 x 200 mm cylinders",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0076_E001"
+      ],
+      "confidence": 0.92,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_002",
+      "paper_id": "CBM0076",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_003",
+      "paper_id": "CBM0076",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0076",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "paper_id": "CBM0076",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0076_E001",
+      "paper_id": "CBM0076",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "page 3 test methods",
+      "evidence_text": "The compressive strength and modulus of elasticity of the 100 x 200 mm cylinder specimens were measured according to ASTM C39 and ASTM C469-02, respectively, at the age of 28 and 56 days.",
+      "supports": "testing condition",
+      "confidence": 0.92,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0076_E002",
+      "paper_id": "CBM0076",
+      "source_modality": "table",
+      "page": 4,
+      "source_location": "Table 8",
+      "evidence_text": "Table 8 reports compressive strength (MPa) at 28 and 56 days: LWCC 42.3 44.6; LWBC 53.5 59.5; LWGC 55.8 60.4; NWC 62.9 66.0.",
+      "supports": "compressive strength results",
+      "confidence": 0.98,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.97,
+    "direct_insert_count": 8,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

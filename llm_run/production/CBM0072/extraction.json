@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0072",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.08.005.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.08.005",
+    "title": "Utilization of recycled brick powder as alternative filler in asphalt mixture",
+    "authors": "Mei-zhu Chen; Jun-tao Lin; Shao-peng Wu; Cong-hui Liu",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "asphalt mixture with recycled brick powder",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Asphalt mixture filler paper; no cementitious compressive-strength data."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0072_E001",
+      "paper_id": "CBM0072",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Asphalt mixture filler paper; no cementitious compressive-strength data.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

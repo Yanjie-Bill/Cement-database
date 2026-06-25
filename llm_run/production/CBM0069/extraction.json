@@ -1,0 +1,280 @@
+{
+  "paper": {
+    "paper_id": "CBM0069",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.07.018.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.07.018",
+    "title": "Externally bonded grids as strengthening and seismic retrofitting materials of masonry panels",
+    "authors": "Catherine Papanicolaou; Thanasis Triantafillou; Maria Lekka",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "masonry mortars and bonding agents for TRM/FRP strengthening",
+    "annotation_status": "partial_extraction_review_required",
+    "notes": "Compressive strengths are material characterization values for mortars/bonding agents; age not included in packet table."
+  },
+  "mixture_components": [
+    {
+      "component_id": "CBM0069-MC001",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Clay_brick_masonry_morta",
+      "mixture_original_id": "Clay-brick masonry mortar",
+      "mixture_description": "Clay-brick masonry mortar",
+      "component_original": "Cement:lime:sand=1:2:10 by volume",
+      "component_standard": "Cement:lime:sand=1:2:10 by volume",
+      "category": "mortar/bonding agent",
+      "role_in_mix": "matrix or bonding agent",
+      "amount": null,
+      "unit": "reported proportions",
+      "basis": "Table 2",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": 0.8,
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": "Composition is reported as proportions/constituents rather than individual masses."
+    },
+    {
+      "component_id": "CBM0069-MC002",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Stone_block_masonry_mort",
+      "mixture_original_id": "Stone-block masonry mortar",
+      "mixture_description": "Stone-block masonry mortar",
+      "component_original": "Cement:lime:sand=1:1:5.5 by volume",
+      "component_standard": "Cement:lime:sand=1:1:5.5 by volume",
+      "category": "mortar/bonding agent",
+      "role_in_mix": "matrix or bonding agent",
+      "amount": null,
+      "unit": "reported proportions",
+      "basis": "Table 2",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": 0.6,
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": "Composition is reported as proportions/constituents rather than individual masses."
+    },
+    {
+      "component_id": "CBM0069-MC003",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Cement_based_mortar_with",
+      "mixture_original_id": "Cement-based mortar with polymeric additives",
+      "mixture_description": "Cement-based mortar with polymeric additives",
+      "component_original": "commercial dry binder cement:polymers=10:1 by weight",
+      "component_standard": "commercial dry binder cement:polymers=10:1 by weight",
+      "category": "mortar/bonding agent",
+      "role_in_mix": "matrix or bonding agent",
+      "amount": null,
+      "unit": "reported proportions",
+      "basis": "Table 2",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": 0.3,
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": "Composition is reported as proportions/constituents rather than individual masses."
+    },
+    {
+      "component_id": "CBM0069-MC004",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Fiber_reinforced_mortar",
+      "mixture_original_id": "Fiber-reinforced mortar",
+      "mixture_description": "Fiber-reinforced mortar",
+      "component_original": "commercial fiber-reinforced cement-based mortar mix with redispersible polymers",
+      "component_standard": "commercial fiber-reinforced cement-based mortar mix with redispersible polymers",
+      "category": "mortar/bonding agent",
+      "role_in_mix": "matrix or bonding agent",
+      "amount": null,
+      "unit": "reported proportions",
+      "basis": "Table 2",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": 0.17,
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": "Composition is reported as proportions/constituents rather than individual masses."
+    },
+    {
+      "component_id": "CBM0069-MC005",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Low_strength_mortar",
+      "mixture_original_id": "Low-strength mortar",
+      "mixture_description": "Low-strength mortar",
+      "component_original": "commercial cement/lime mortar",
+      "component_standard": "commercial cement/lime mortar",
+      "category": "mortar/bonding agent",
+      "role_in_mix": "matrix or bonding agent",
+      "amount": null,
+      "unit": "reported proportions",
+      "basis": "Table 2",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": "Composition is reported as proportions/constituents rather than individual masses."
+    }
+  ],
+  "strength_results": [
+    {
+      "result_id": "CBM0069-SR001",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Clay_brick_masonry_morta",
+      "mixture_original_id": "Clay-brick masonry mortar",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": 3.9,
+      "recommended_value": 3.9,
+      "final_value": 3.9,
+      "value_status": "review_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.68,
+      "human_decision": "",
+      "notes": "Exact table value, but curing age/test details are absent in supplied packet."
+    },
+    {
+      "result_id": "CBM0069-SR002",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Stone_block_masonry_mort",
+      "mixture_original_id": "Stone-block masonry mortar",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": 8.2,
+      "recommended_value": 8.2,
+      "final_value": 8.2,
+      "value_status": "review_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.68,
+      "human_decision": "",
+      "notes": "Exact table value, but curing age/test details are absent in supplied packet."
+    },
+    {
+      "result_id": "CBM0069-SR003",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Cement_based_mortar_with",
+      "mixture_original_id": "Cement-based mortar with polymeric additives",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": 31.4,
+      "recommended_value": 31.4,
+      "final_value": 31.4,
+      "value_status": "review_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.68,
+      "human_decision": "",
+      "notes": "Exact table value, but curing age/test details are absent in supplied packet."
+    },
+    {
+      "result_id": "CBM0069-SR004",
+      "paper_id": "CBM0069",
+      "mixture_id": "CBM0069-Fiber_reinforced_mortar",
+      "mixture_original_id": "Fiber-reinforced mortar",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": 20.0,
+      "recommended_value": 20.0,
+      "final_value": 20.0,
+      "value_status": "review_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0069_E001"
+      ],
+      "confidence": 0.68,
+      "human_decision": "",
+      "notes": "Exact table value, but curing age/test details are absent in supplied packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0069_E001",
+      "paper_id": "CBM0069",
+      "source_modality": "table",
+      "page": 4,
+      "source_location": "Table 2",
+      "evidence_text": "Mortars and bonding agents table lists proportions/constituents, W/CM, flexural strength and compressive strength in MPa.",
+      "supports": "mortar/bonding-agent compressive strength",
+      "confidence": 0.92,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0069-R001",
+      "paper_id": "CBM0069",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0069-SR001",
+        "CBM0069-SR002",
+        "CBM0069-SR003",
+        "CBM0069-SR004"
+      ],
+      "priority": "medium",
+      "question": "Confirm test age and whether mortar/bonding-agent characterization strengths should be inserted into the cement compressive-strength database.",
+      "suggested_action": "Human review required before database insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.65,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some strength candidates require human review or figure digitization."
+    ]
+  }
+}

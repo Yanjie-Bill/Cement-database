@@ -1,0 +1,122 @@
+{
+  "paper": {
+    "paper_id": "CBM0092",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.063.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.063",
+    "title": "Concrete with recycled concrete aggregate and crushed clay bricks",
+    "authors": "Jian Yang; Qiang Du; Yiwang Bao",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled concrete aggregate and crushed clay brick concrete",
+    "annotation_status": "review_required",
+    "notes": "No direct mixture-level compressive-strength values were readable in the supplied packet; routed to review."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0092_S001",
+      "paper_id": "CBM0092",
+      "mixture_id": "",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0092_E001"
+      ],
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Context packet flags candidate compressive-strength figure/page, but values cannot be reliably read from supplied packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0092",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_006",
+      "paper_id": "CBM0092",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_007",
+      "paper_id": "CBM0092",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0092_E001",
+      "paper_id": "CBM0092",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "packet text excerpt",
+      "evidence_text": " 1. Introduction Concrete is one of the most widely used construction materials in the world, mainly due to its favourable features such as durabil- ity, versatility, satisfactory compressive strength, cost effectiveness and availability. However, the use of conventional concrete has been claimed to be not environmentally friendly, manifested by frequently voiced negative concerns such as the depletion of the reserve of natural resources, high energy consu",
+      "supports": "review-required scope",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0092_R001",
+      "paper_id": "CBM0092",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0092_S001"
+      ],
+      "priority": "high",
+      "question": "Digitize or inspect the cited candidate figure/page for mixture-level compressive-strength values, ages, and units.",
+      "suggested_action": "Open the source PDF/page image and extract values only if mixture labels, age, unit, and values are clear.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.45,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some candidate compressive-strength data are figure-only, truncated, or missing mixture/age/value mapping in the supplied packet."
+    ]
+  }
+}

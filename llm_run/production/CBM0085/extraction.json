@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0085",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.041.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.041",
+    "title": "Sustainability assessment of flooring systems in the city of Tehran: An AHP-based life cycle analysis",
+    "authors": "Bahareh Reza; Rehan Sadiq; Kasun Hewage",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "flooring system life-cycle assessment",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Packet does not provide cementitious compressive-strength results suitable for extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0085_E001",
+      "paper_id": "CBM0085",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Sustainability assessment of ﬂooring systems in the city of Tehran: An AHP-based life cycle analysis Bahareh Reza, Rehan Sadiq ⇑, Kasun Hewage School of Engineering-Okanagan, University of British Columbia, Kelowna, BC, Canada article info Article history: Received 9 June 2010 Received in revised fo",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

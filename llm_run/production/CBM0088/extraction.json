@@ -1,0 +1,56 @@
+{
+  "paper": {
+    "paper_id": "CBM0088",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.049.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.049",
+    "title": "Concrete made from ceramic industry waste: durability properties",
+    "authors": "RM. Senthamarai; P. Devadas Manoharan; D. Gobinath",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "ceramic electrical insulator waste aggregate concrete",
+    "annotation_status": "review_required",
+    "notes": "No direct mixture-level compressive-strength values were readable in the supplied packet; routed to review."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0088_E001",
+      "paper_id": "CBM0088",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "packet text excerpt",
+      "evidence_text": "n- crete can also be called as ‘Green’ concrete. Concrete made with ceramic electrical insulator waste as coarse aggregate shows good workability, compressive, tensile and ﬂexural strengths and modulus of elasticity. Further, study of its durability will ensure greater reliability in its usage. Permeation characters are used widely to quantify durability properties of concrete. This paper presents an experimental inves- tigation on the permeati",
+      "supports": "review-required scope",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0088_R001",
+      "paper_id": "CBM0088",
+      "target_sheet": "paper",
+      "target_record_ids": [],
+      "priority": "medium",
+      "question": "Paper may mention strength-related data, but the packet lacks readable mixture-level compressive-strength values.",
+      "suggested_action": "Inspect full PDF/tables before deciding whether to extract or exclude.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.72,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some candidate compressive-strength data are figure-only, truncated, or missing mixture/age/value mapping in the supplied packet."
+    ]
+  }
+}

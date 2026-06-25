@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0084",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.040.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.040",
+    "title": "Ductility characteristics of fiber-reinforced-concrete beams reinforced with FRP rebars",
+    "authors": "Huanzi Wang; Abdeldjelil Belarbi",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "FRP reinforced concrete beams",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Packet does not provide cementitious compressive-strength results suitable for extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0084_E001",
+      "paper_id": "CBM0084",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Ductility characteristics of ﬁber-reinforced-concrete beams reinforced with FRP rebars Huanzi Wang a, Abdeldjelil Belarbi b,⇑ a AECOM Technology, Oakland, CA, USA b Department of Civil and Environmental Engineering, University of Houston, TX, USA article info Article history: Received 21 May 2010 Re",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

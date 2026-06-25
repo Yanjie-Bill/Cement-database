@@ -1,0 +1,148 @@
+{
+  "paper": {
+    "paper_id": "CBM0089",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.052.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.052",
+    "title": "Mechanical properties of kenaf fiber reinforced concrete",
+    "authors": "A. Elsaid; M. Dawood; R. Seracino; C. Bobko",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "kenaf fiber reinforced concrete",
+    "annotation_status": "review_required",
+    "notes": "No direct mixture-level compressive-strength values were readable in the supplied packet; routed to review."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0089_S001",
+      "paper_id": "CBM0089",
+      "mixture_id": "",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0089_E001"
+      ],
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Context packet flags candidate compressive-strength figure/page, but values cannot be reliably read from supplied packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0089",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "paper_id": "CBM0089",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_006",
+      "paper_id": "CBM0089",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_007",
+      "paper_id": "CBM0089",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_008",
+      "paper_id": "CBM0089",
+      "page": 8,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0089_E001",
+      "paper_id": "CBM0089",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "packet text excerpt",
+      "evidence_text": "2010 Received in revised form 22 October 2010 Accepted 13 November 2010 Available online 10 December 2010 Keywords: Sustainable construction Toughness Scanning electron microscopy Compressive strength Compressive modulus Splitting tension strength Flexural behavior abstract This paper presents the ﬁndings of an experimental research program that was conducted to study the mechanical properties of a natural ﬁber reinforced concrete (FRC) which is made using",
+      "supports": "review-required scope",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0089_R001",
+      "paper_id": "CBM0089",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0089_S001"
+      ],
+      "priority": "high",
+      "question": "Digitize or inspect the cited candidate figure/page for mixture-level compressive-strength values, ages, and units.",
+      "suggested_action": "Open the source PDF/page image and extract values only if mixture labels, age, unit, and values are clear.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.45,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some candidate compressive-strength data are figure-only, truncated, or missing mixture/age/value mapping in the supplied packet."
+    ]
+  }
+}

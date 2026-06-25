@@ -1,0 +1,148 @@
+{
+  "paper": {
+    "paper_id": "CBM0081",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.011.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.011",
+    "title": "Influence of aggregates grading and water/cement ratio in workability and hardened properties of mortars",
+    "authors": "Vladimir G. Haach; Graca Vasconcelos; Paulo B. Lourenco",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "masonry mortar",
+    "annotation_status": "review_required",
+    "notes": "No direct mixture-level compressive-strength values were readable in the supplied packet; routed to review."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0081_S001",
+      "paper_id": "CBM0081",
+      "mixture_id": "",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0081_E001"
+      ],
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Context packet flags candidate compressive-strength figure/page, but values cannot be reliably read from supplied packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_003",
+      "paper_id": "CBM0081",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0081",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "paper_id": "CBM0081",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_006",
+      "paper_id": "CBM0081",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_007",
+      "paper_id": "CBM0081",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.45,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0081_E001",
+      "paper_id": "CBM0081",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "packet text excerpt",
+      "evidence_text": "Inﬂuence of aggregates grading and water/cement ratio in workability and hardened properties of mortars Vladimir G. Haach a,⇑, Graça Vasconcelos b, Paulo B. Lourenço b a School of Engineering of São Carlos, University of São Paulo, Av. Trabalhador Saocarlense, 400, 13566-590, São Carlos-SP, Brazil b ISISE, Department of Civil Engineering, University ",
+      "supports": "review-required scope",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0081_R001",
+      "paper_id": "CBM0081",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0081_S001"
+      ],
+      "priority": "high",
+      "question": "Digitize or inspect the cited candidate figure/page for mixture-level compressive-strength values, ages, and units.",
+      "suggested_action": "Open the source PDF/page image and extract values only if mixture labels, age, unit, and values are clear.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.45,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some candidate compressive-strength data are figure-only, truncated, or missing mixture/age/value mapping in the supplied packet."
+    ]
+  }
+}

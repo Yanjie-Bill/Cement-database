@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0066",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.07.012.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.07.012",
+    "title": "Characterization of recycled aggregates construction and demolition waste for concrete production following the Spanish Structural Concrete Code EHE-08",
+    "authors": "M. Martín-Morales; M. Zamorano; A. Ruiz-Moyano; I. Valverde-Espinosa",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled aggregate characterization",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Aggregate characterization paper; supplied tables contain aggregate properties, not concrete compressive-strength results."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0066_E001",
+      "paper_id": "CBM0066",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Aggregate characterization paper; supplied tables contain aggregate properties, not concrete compressive-strength results.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "paper": {
+    "paper_id": "CBM0097",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.075.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.075",
+    "title": "Oil palm shell as a lightweight aggregate for production high strength lightweight concrete",
+    "authors": "Payam Shafigh; Mohd Zamin Jumaat; Hilmi Mahmud",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "oil palm shell high strength lightweight concrete",
+    "annotation_status": "extracted_direct",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0097_S001",
+      "paper_id": "CBM0097",
+      "mixture_id": "CBM0097_mix4",
+      "mixture_original_id": "mix with 20% limestone filler",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 48.33,
+      "recommended_value": 48.33,
+      "final_value": 48.33,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "CBM0097_C001",
+      "evidence_ids": [
+        "CBM0097_E002",
+        "CBM0097_E003"
+      ],
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": "Explicit text identifies optimum 20% limestone filler and highest compressive strength; full Table 7 values are not visible in packet."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0097_C001",
+      "paper_id": "CBM0097",
+      "condition_type": "testing/curing",
+      "applies_to": "strength_results",
+      "specimen_type": "not specified in visible packet",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "full water curing",
+      "demould_time_days": null,
+      "test_age_days": 28,
+      "test_method": "compressive strength",
+      "test_standard": "",
+      "specimen_geometry": "",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0097_E001"
+      ],
+      "confidence": 0.78,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_002",
+      "paper_id": "CBM0097",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0097",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "paper_id": "CBM0097",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate page/figure from packet",
+      "strength_relevance": "potential compressive-strength data; numeric values not reliably readable from packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.35,
+      "human_decision": "",
+      "notes": "Generic candidate figure entry supplied by context packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0097_E001",
+      "paper_id": "CBM0097",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "Section 3.2",
+      "evidence_text": "The compressive strength of the full water cured concretes is included in Table 7. The 28-day compressive strength of the OPS concretes varies between around 43 and 48 MPa.",
+      "supports": "compressive strength range",
+      "confidence": 0.78,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0097_E002",
+      "paper_id": "CBM0097",
+      "source_modality": "text",
+      "page": 4,
+      "source_location": "Section 3.2",
+      "evidence_text": "The optimum percentage limestone filler (by weight of cement, replaced by fine aggregate) of 20% and the highest value of compressive strength of 48.33 MPa were obtained in this study.",
+      "supports": "explicit compressive strength result",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0097_E003",
+      "paper_id": "CBM0097",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "mix proportions description",
+      "evidence_text": "Eight different OPS concrete mixtures were produced; mixes 3-5 used partial replacement limestone powder (10, 20 and 30% of OPC by weight) by the fine aggregate.",
+      "supports": "mixture description",
+      "confidence": 0.85,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0097_R001",
+      "paper_id": "CBM0097",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0097_S001"
+      ],
+      "priority": "low",
+      "question": "Confirm the mix ID and complete age series from Table 7, which is referenced but not visible in the packet.",
+      "suggested_action": "Review source PDF/Table 7 before broad database insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 1,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some candidate compressive-strength data are figure-only, truncated, or missing mixture/age/value mapping in the supplied packet."
+    ]
+  }
+}

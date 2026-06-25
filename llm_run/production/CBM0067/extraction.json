@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0067",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.07.016.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.07.016",
+    "title": "Fire resistance of lightweight foamed concrete",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "lightweight foamed concrete fire resistance",
+    "annotation_status": "excluded_no_extractable_compressive_strength",
+    "notes": "Supplied packet excerpt focuses on fire resistance; no readable compressive-strength table or figure values for database extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0067_E001",
+      "paper_id": "CBM0067",
+      "source_modality": "text",
+      "page": null,
+      "source_location": "packet excerpt",
+      "evidence_text": "Packet discusses lightweight foamed concrete fire resistance ratings; no extractable compressive-strength value is present.",
+      "supports": "scope decision",
+      "confidence": 0.75,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

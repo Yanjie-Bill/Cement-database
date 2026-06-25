@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0098",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.082.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.082",
+    "title": "Study on the graphite and carbon fiber modified asphalt concrete",
+    "authors": "Liu Xiaoming; Wu Shaopeng",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "asphalt concrete",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Packet does not provide cementitious compressive-strength results suitable for extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0098_E001",
+      "paper_id": "CBM0098",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Study on the graphite and carbon ﬁber modiﬁed asphalt concrete Liu Xiaoming a,⇑, Wu Shaopeng b a School of Civil Engineering and Architecture, Central South University, Changsha 410075, China b Key Laboratory of Silicate Materials Science and Engineering of Ministry of Education, Wuhan University of",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}
