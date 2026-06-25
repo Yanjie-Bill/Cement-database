@@ -1,0 +1,300 @@
+{
+  "paper": {
+    "paper_id": "CBM0003",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.007.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.007",
+    "title": "Effect of aggregate type on properties of hardened self-consolidating lightweight concrete (SCLC)",
+    "authors": "Ilker Bekir Topcu; Tayfun Uygunoglu",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1286-1295",
+    "material_system": "Self-consolidating concrete and self-consolidating lightweight concrete with limestone, pumice, tuff, or diatomite aggregate",
+    "annotation_status": "partial_extraction_needs_strength_figure_digitization",
+    "notes": "The packet contains compressive-strength figures and text ranges but no complete mix-proportion table or exact numeric strength table."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0003-R001",
+      "paper_id": "CBM0003",
+      "mixture_id": "CBM0003-M001",
+      "mixture_original_id": "SCC",
+      "property": "compressive_strength",
+      "age_days": "3, 7, 28, 90",
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0003-COND001",
+      "testing_condition_id": "CBM0003-COND002",
+      "evidence_ids": [
+        "E002",
+        "E003"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "SCC compressive strengths are plotted in Fig. 5 for five water/binder ratios and four ages. Exact water/binder-specific and age-specific values require figure digitization."
+    },
+    {
+      "result_id": "CBM0003-R002",
+      "paper_id": "CBM0003",
+      "mixture_id": "CBM0003-M002",
+      "mixture_original_id": "SCLC-pumice",
+      "property": "compressive_strength",
+      "age_days": "3, 7, 28, 90",
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0003-COND001",
+      "testing_condition_id": "CBM0003-COND002",
+      "evidence_ids": [
+        "E002",
+        "E004"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Pumice SCLC compressive strengths are plotted in Fig. 6. Exact water/binder-specific and age-specific values require figure digitization."
+    },
+    {
+      "result_id": "CBM0003-R003",
+      "paper_id": "CBM0003",
+      "mixture_id": "CBM0003-M003",
+      "mixture_original_id": "SCLC-tuff",
+      "property": "compressive_strength",
+      "age_days": "3, 7, 28, 90",
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0003-COND001",
+      "testing_condition_id": "CBM0003-COND002",
+      "evidence_ids": [
+        "E002",
+        "E004"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Tuff SCLC compressive strengths are plotted in Fig. 7. Exact water/binder-specific and age-specific values require figure digitization."
+    },
+    {
+      "result_id": "CBM0003-R004",
+      "paper_id": "CBM0003",
+      "mixture_id": "CBM0003-M004",
+      "mixture_original_id": "SCLC-diatomite",
+      "property": "compressive_strength",
+      "age_days": "3, 7, 28, 90",
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0003-COND001",
+      "testing_condition_id": "CBM0003-COND002",
+      "evidence_ids": [
+        "E002",
+        "E004"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Diatomite SCLC compressive strengths are plotted in Fig. 8. Exact water/binder-specific and age-specific values require figure digitization."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0003-COND001",
+      "paper_id": "CBM0003",
+      "condition_type": "curing",
+      "applies_to": "SCC and SCLC cube specimens before strength testing",
+      "specimen_type": "150 mm cube",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "standard water curing until testing ages",
+      "demould_time_days": null,
+      "test_age_days": "3, 7, 28, 90",
+      "test_method": "",
+      "test_standard": "",
+      "specimen_geometry": "",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.82,
+      "human_decision": "",
+      "notes": "Packet states specimens were tested at ages but does not include full curing protocol."
+    },
+    {
+      "condition_id": "CBM0003-COND002",
+      "paper_id": "CBM0003",
+      "condition_type": "testing",
+      "applies_to": "compressive strength of SCC and SCLC",
+      "specimen_type": "150 mm cube",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "",
+      "demould_time_days": null,
+      "test_age_days": "3, 7, 28, 90",
+      "test_method": "compressive strength tested on 150 mm cube specimens by 2000 kN compressive machine with loading-rate controller",
+      "test_standard": "TS EN 12390-3",
+      "specimen_geometry": "150 mm x 150 mm x 150 mm cube",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "E002"
+      ],
+      "confidence": 0.92,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "CBM0003-FIG005",
+      "paper_id": "CBM0003",
+      "page": 4,
+      "caption": "Fig. 5. Compressive strength of SCC versus curing time.",
+      "figure_type": "line chart",
+      "strength_relevance": "primary SCC compressive-strength figure",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "figure_id": "CBM0003-FIG006",
+      "paper_id": "CBM0003",
+      "page": 5,
+      "caption": "Fig. 6. Compressive strength of SCLC with pumice versus curing time.",
+      "figure_type": "line chart",
+      "strength_relevance": "primary pumice SCLC compressive-strength figure",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "figure_id": "CBM0003-FIG007",
+      "paper_id": "CBM0003",
+      "page": 5,
+      "caption": "Fig. 7. Compressive strength of SCLC with tuff versus curing time.",
+      "figure_type": "line chart",
+      "strength_relevance": "primary tuff SCLC compressive-strength figure",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "figure_id": "CBM0003-FIG008",
+      "paper_id": "CBM0003",
+      "page": 5,
+      "caption": "Fig. 8. Compressive strength of SCLC with diatomite versus curing time.",
+      "figure_type": "line chart",
+      "strength_relevance": "primary diatomite SCLC compressive-strength figure",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0003",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Effect of aggregate type on properties of hardened self-consolidating lightweight concrete (SCLC). Three coarse lightweight aggregate types, pumice, volcanic tuff and diatomite, and normal limestone aggregate were used.",
+      "supports": "paper identity and material system",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E002",
+      "paper_id": "CBM0003",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "Section 2.3",
+      "evidence_text": "The compressive and splitting tensile strength of SCC and SCLCs were tested on cube specimens (150 x 150 x 150 mm) aged 3, 7, 28 and 90 days according to TS EN 12390-3 and TS EN 12390-6.",
+      "supports": "compressive-strength test ages, standard, and specimen geometry",
+      "confidence": 0.92,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E003",
+      "paper_id": "CBM0003",
+      "source_modality": "text",
+      "page": 4,
+      "source_location": "Section 3.3 / Fig. 5",
+      "evidence_text": "Fig. 5 gives compressive strength of SCC versus curing time. Text reports SCC strength ranges of 27-35 MPa at 3 days, 38-47 MPa at 7 days, 41-52 MPa at 28 days and 45-51 MPa at 90 days depending on water-to-binder ratio.",
+      "supports": "figure-only SCC compressive strength and text ranges",
+      "confidence": 0.78,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E004",
+      "paper_id": "CBM0003",
+      "source_modality": "text",
+      "page": 5,
+      "source_location": "Section 3.3 / Figs. 6-8",
+      "evidence_text": "Figs. 6-8 present compressive strength of SCLC with pumice, tuff and diatomite versus curing time. Text reports, at w/b 0.36 depending on age, pumice 15-27 MPa, tuff 16-25 MPa and diatomite 10-22 MPa.",
+      "supports": "figure-only SCLC compressive strength and text ranges",
+      "confidence": 0.75,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0003-REV001",
+      "paper_id": "CBM0003",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0003-R001",
+        "CBM0003-R002",
+        "CBM0003-R003",
+        "CBM0003-R004",
+        "CBM0003-FIG005",
+        "CBM0003-FIG006",
+        "CBM0003-FIG007",
+        "CBM0003-FIG008"
+      ],
+      "priority": "high",
+      "question": "Digitize Figs. 5-8 to obtain compressive strengths for each aggregate type, water/binder ratio, and age.",
+      "suggested_action": "Record exact or digitized plotted values and split the grouped review records into one row per mixture-age value.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.55,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "No exact numeric compressive-strength table is present in the packet.",
+      "Mix proportions are missing from the supplied packet, so mixture_components are not extracted.",
+      "Current strength rows are grouped figure-digitization placeholders and must be split after digitization."
+    ]
+  }
+}

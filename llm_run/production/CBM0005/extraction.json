@@ -1,0 +1,68 @@
+{
+  "paper": {
+    "paper_id": "CBM0005",
+    "pdf_filename": "10.1016_j.conbuildmat.2009.12.019.pdf",
+    "doi": "10.1016/j.conbuildmat.2009.12.019",
+    "title": "Induction heating of electrically conductive porous asphalt concrete",
+    "authors": "Quantao Liu; Erik Schlangen; Alvaro Garcia; Martin van de Ven",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "1207-1213",
+    "material_system": "Electrically conductive porous asphalt concrete with steel fibers or steel wool",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "The supplied packet concerns porous asphalt concrete and reports indirect tensile strength, electrical resistivity and induction heating, not cement/concrete compressive strength."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "E001",
+      "paper_id": "CBM0005",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "Title/abstract",
+      "evidence_text": "Induction heating of electrically conductive porous asphalt concrete. The paper examines electrical conductivity and indirect tensile strength of conductive porous asphalt concrete.",
+      "supports": "paper identity and non-cement/asphalt material system",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E002",
+      "paper_id": "CBM0005",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "Section 2.4",
+      "evidence_text": "Indirect tensile strength tests at 5 C were conducted on cylindrical porous asphalt samples to characterize the effect of steel wool volume content.",
+      "supports": "mechanical property is indirect tensile strength, not compressive strength",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "E003",
+      "paper_id": "CBM0005",
+      "source_modality": "text",
+      "page": 4,
+      "source_location": "Sections 3.2-3.3",
+      "evidence_text": "The reported strength results are indirect tensile strength values of porous asphalt concrete with steel fibers or steel wool.",
+      "supports": "exclusion of non-compressive, non-cement strength data",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No cementitious compressive-strength data are present in the supplied packet.",
+      "Indirect tensile strength values are intentionally excluded by the extraction prompt."
+    ]
+  }
+}
