@@ -1,0 +1,121 @@
+{
+  "paper": {
+    "paper_id": "CBM0113",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.12.055.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.12.055",
+    "title": "Effects of calcination temperature of kaolinite clays on the properties of geopolymer cements",
+    "authors": "A. Elimbi; H.K. Tchakoute; D. Njopwouo",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "kaolinite-based geopolymer cement paste",
+    "annotation_status": "review_required_figure_only",
+    "notes": "Compressive-strength information is present only as a figure or incomplete packet text; numeric values require human review/digitization."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0113_R001",
+      "paper_id": "CBM0113",
+      "mixture_id": "CBM0113_FIGURE_ONLY",
+      "mixture_original_id": "figure-only strength data",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0113_E002"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet does not provide readable numeric values mapped to mixtures."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0113_F001",
+      "paper_id": "CBM0113",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "figure_id": "CBM0113_F002",
+      "paper_id": "CBM0113",
+      "page": 8,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0113_E001",
+      "paper_id": "CBM0113",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Effects of calcination temperature of kaolinite clays on the properties of geopolymer cements A. Elimbi ⇑, H.K. Tchakoute, D. Njopwouo Laboratoire de Physico chimie des Matériaux Minéraux, Faculté des Sciences, B.P. 812 Yaoundé, Cameroon article info Article history: Received 2 August 2010 Received in revised form 22 December 2010 Accepted 24 December 2010 Available online 19 January 2011 Keywords: Kaolinite Calcination Alkaline solution Geopolymer cement Setting time Linear shrinkage Compressiv",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0113_E002",
+      "paper_id": "CBM0113",
+      "source_modality": "text",
+      "page": 7,
+      "source_location": "strength mention",
+      "evidence_text": "Compressive strength of hardened geopolymer cement cylinder paste samples as a function of calcination temperature is presented in Fig. 6e.",
+      "supports": "figure-only or incomplete compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0113_Q001",
+      "paper_id": "CBM0113",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0113_R001"
+      ],
+      "priority": "medium",
+      "question": "Digitize or inspect the source figure/table to recover mixture-level compressive-strength values.",
+      "suggested_action": "Open the PDF page images and extract numeric strength values only if mixture labels, age, unit, and values can be confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are not directly readable from packet text."
+    ]
+  }
+}

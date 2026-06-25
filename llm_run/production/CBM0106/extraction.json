@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0106",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.12.008.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.12.008",
+    "title": "Effects of crushed glass cullet sizes, casting methods and pozzolanic materials on ASR of concrete blocks",
+    "authors": "Gerry Lee; Tung-Chai Ling; Yuk-Lung Wong; Chi-Sun Poon",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "glass aggregate mortar bars for ASR/flexural strength",
+    "annotation_status": "excluded_no_compressive_strength",
+    "notes": "Paper is outside the target cement/concrete compressive-strength extraction scope."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0106_E001",
+      "paper_id": "CBM0106",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Effects of crushed glass cullet sizes, casting methods and pozzolanic materials on ASR of concrete blocks Gerry Lee, Tung-Chai Ling, Yuk-Lung Wong, Chi-Sun Poon ⇑ Department of Civil and Structural Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China article info Article history: Received 6 August 2010 Received in revised form 7 December 2010 Accepted 7 December 2010 Available online 3 January 2011 Keywords: Recycled glass Particle size distribution ASR Dry-mixe",
+      "supports": "scope decision",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

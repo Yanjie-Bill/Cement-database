@@ -1,0 +1,135 @@
+{
+  "paper": {
+    "paper_id": "CBM0145",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.06.059.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.06.059",
+    "title": "Influence of the amount of recycled coarse aggregate in concrete design and durability properties",
+    "authors": "Wai Hoe Kwan; Mahyuddin Ramli; Kenn Jhun Kam; Mohd Zailan Sulieman",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled aggregate concrete",
+    "annotation_status": "review_required_figure_only",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0145_S001",
+      "paper_id": "CBM0145",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0145_E001"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Candidate cannot be inserted directly because mixture, age, unit, or numeric value is incomplete in the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0145_F_PAGE_002",
+      "paper_id": "CBM0145",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    },
+    {
+      "figure_id": "CBM0145_F_PAGE_003",
+      "paper_id": "CBM0145",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    },
+    {
+      "figure_id": "CBM0145_F_PAGE_004",
+      "paper_id": "CBM0145",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    },
+    {
+      "figure_id": "CBM0145_F_PAGE_007",
+      "paper_id": "CBM0145",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0145_E001",
+      "paper_id": "CBM0145",
+      "source_modality": "figure",
+      "page": 1,
+      "source_location": "selected packet text/figure flag",
+      "evidence_text": "page 2: candidate compressive-strength figure/page; page 3: candidate compressive-strength figure/page; page 4: candidate compressive-strength figure/page; page 7: candidate compressive-strength figure/page",
+      "supports": "review candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0145_R001",
+      "paper_id": "CBM0145",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0145_S001"
+      ],
+      "priority": "medium",
+      "question": "Candidate compressive-strength data appear to be available only in figures/pages flagged by the packet; digitization is required.",
+      "suggested_action": "Inspect original PDF table/figure and digitize or verify mixture-level compressive-strength values before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.6,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Candidate compressive-strength data are not directly machine-readable in the packet."
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper": {
+    "paper_id": "CBM0119",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.03.038.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.03.038",
+    "title": "Microwave-assisted beneficiation of recycled concrete aggregates",
+    "authors": "A. Akbarnezhad; K.C.G. Ong; M.H. Zhang; C.T. Tam; T.W.J. Foo",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled aggregate concrete with microwave-treated RCA",
+    "annotation_status": "review_required_figure_only",
+    "notes": "Compressive-strength information is present only as a figure or incomplete packet text; numeric values require human review/digitization."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0119_R001",
+      "paper_id": "CBM0119",
+      "mixture_id": "CBM0119_FIGURE_ONLY",
+      "mixture_original_id": "figure-only strength data",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0119_E002"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet does not provide readable numeric values mapped to mixtures."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0119_F001",
+      "paper_id": "CBM0119",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0119_E001",
+      "paper_id": "CBM0119",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Microwave-assisted beneﬁciation of recycled concrete aggregates A. Akbarnezhad a,⇑, K.C.G. Ong a, M.H. Zhang a, C.T. Tam a, T.W.J. Foo b a National University of Singapore, 1 Engineering Drive 2, E1A 07-03, Singapore 117576, Singapore b Ngee Ann Polytechnic, Blk 8 #03-00, 535 Clementi Road, Singapore 599489, Singapore article info Article history: Received 21 October 2010 Received in revised form 24 January 2011 Accepted 1 March 2011 Available online 25 March 2011 Keywords: Aggregate Concrete Re",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0119_E002",
+      "paper_id": "CBM0119",
+      "source_modality": "text",
+      "page": 9,
+      "source_location": "strength mention",
+      "evidence_text": "The 28 day compressive strength of RAC incorporating MRCA and untreated RCA is compared in Fig. 12; packet text does not provide numeric values.",
+      "supports": "figure-only or incomplete compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0119_Q001",
+      "paper_id": "CBM0119",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0119_R001"
+      ],
+      "priority": "medium",
+      "question": "Digitize or inspect the source figure/table to recover mixture-level compressive-strength values.",
+      "suggested_action": "Open the PDF page images and extract numeric strength values only if mixture labels, age, unit, and values can be confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are not directly readable from packet text."
+    ]
+  }
+}

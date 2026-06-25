@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0103",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.105.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.105",
+    "title": "Laboratory evaluation of recycled construction and demolition waste for pavements",
+    "authors": "Fabiana da Conceicao Leite; Rosangela dos Santos Motta; Kamilla L. Vasconcelos; Liedi Bernucci",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled construction and demolition waste for pavements",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Paper is outside the target cement/concrete compressive-strength extraction scope."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0103_E001",
+      "paper_id": "CBM0103",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Laboratory evaluation of recycled construction and demolition waste for pavements Fabiana da Conceição Leite 1, Rosângela dos Santos Motta 1, Kamilla L. Vasconcelos 1, Liedi Bernucci ⇑,1 Department of Transportation Engineering, Polytechnic School, University of São Paulo, São Paulo, Brazil article info Article history: Received 4 May 2010 Received in revised form 3 November 2010 Accepted 14 November 2010 Available online 13 January 2011 Keywords: Pavement Recycling Construction and demolition w",
+      "supports": "scope decision",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

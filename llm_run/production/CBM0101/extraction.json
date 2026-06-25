@@ -1,0 +1,94 @@
+{
+  "paper": {
+    "paper_id": "CBM0101",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.096.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.096",
+    "title": "Environmental durability of externally bonded FRP materials intended for repair of concrete structures",
+    "authors": "J.R. Cromwell; K.A. Harries; B.M. Shahrooz",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "FRP-repaired concrete specimens",
+    "annotation_status": "review_required_strength_context_only",
+    "notes": "Concrete strength is reported only as a specimen-context average for FRP bond/flexure tests; mixture composition is not provided."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0101_R001",
+      "paper_id": "CBM0101",
+      "mixture_id": "CBM0101_COMMERCIAL_PREMIX_CUBES",
+      "mixture_original_id": "commercial premix material",
+      "property": "compressive_strength",
+      "age_days": 56,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": 30.3,
+      "final_value": null,
+      "value_status": "review_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0101_E002"
+      ],
+      "confidence": 0.68,
+      "human_decision": "",
+      "notes": "Average for bond-test cubes; mixture composition missing."
+    }
+  ],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0101_E001",
+      "paper_id": "CBM0101",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Environmental durability of externally bonded FRP materials intended for repair of concrete structures J.R. Cromwell a, K.A. Harries b,⇑, B.M. Shahrooz c a THP Limited, Cincinnati, United States b Department of Civil and Environmental Engineering, University of Pittsburgh, United States c School of Advanced Structures, University of Cincinnati, United States article info Article history: Received 22 June 2010 Received in revised form 17 November 2010 Accepted 17 November 2010 Available online 18",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0101_E002",
+      "paper_id": "CBM0101",
+      "source_modality": "text",
+      "page": 5,
+      "source_location": "page 5 specimen preparation",
+      "evidence_text": "The average 56-day compressive strength for all 192 cubes was 30.3 MPa. The concrete compressive strength determined at the age of testing (approximately 147 days) was 38 MPa.",
+      "supports": "explicit contextual compressive-strength values",
+      "confidence": 0.82,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0101_Q001",
+      "paper_id": "CBM0101",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0101_R001"
+      ],
+      "priority": "medium",
+      "question": "Decide whether contextual concrete cube strength without mixture proportions belongs in the database.",
+      "suggested_action": "Use only as reviewed contextual strength unless the source PDF provides a matching mix design.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Concrete mixture composition is not supplied in the packet."
+    ]
+  }
+}

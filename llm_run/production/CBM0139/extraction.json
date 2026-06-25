@@ -1,0 +1,96 @@
+{
+  "paper": {
+    "paper_id": "CBM0139",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.05.006.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.05.006",
+    "title": "Assessing drying shrinkage and water permeability of reactive powder concrete produced in Hong Kong",
+    "authors": "C.M. Tam; Vivian W.Y. Tam; K.M. Ng",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "reactive powder concrete",
+    "annotation_status": "review_required_incomplete_strength_mapping",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0139_S001",
+      "paper_id": "CBM0139",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "review_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0139_E001"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Candidate cannot be inserted directly because mixture, age, unit, or numeric value is incomplete in the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0139_F_PAGE_009",
+      "paper_id": "CBM0139",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0139_E001",
+      "paper_id": "CBM0139",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "selected packet text/figure flag",
+      "evidence_text": "Assessing drying shrinkage and water permeability of reactive powder concrete produced in Hong Kong C.M. Tam a, Vivian W.Y. Tam b,⇑, K.M. Ng a a Department of Building & Construction, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong b School of Engineering, University of Western Sydney, Locked Bag 1797, Penrith South DC, NSW 1797, Australia article info Article history: Received 8 November 2010 Received in revised form 30 March 2011 Accepted 23 May 2011 Keywords: Reactive powder concrete Durability Drying shrinkage Water permeability Hong Kong abstract Reactive powder concrete (RPC) is coarse aggregate-free which differs from that of the ordinary concrete. Instead, ﬁne powders such as quartz sand and crushed quartz, with particle sizes ranging from 45 to 600 lm are used. In fact, it is rather a mortar than a concrete mixture because of the lack of coarse aggre- gate. ",
+      "supports": "review candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0139_R001",
+      "paper_id": "CBM0139",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0139_S001"
+      ],
+      "priority": "medium",
+      "question": "Packet contains compressive-strength-related text but not a directly insertable mixture-level strength table/value.",
+      "suggested_action": "Inspect original PDF table/figure and digitize or verify mixture-level compressive-strength values before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.6,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Candidate compressive-strength data are not directly machine-readable in the packet."
+    ]
+  }
+}

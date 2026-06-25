@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0111",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.12.037.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.12.037",
+    "title": "Laboratory evaluation of HMA with high density polyethylene as a modifier",
+    "authors": "Moatasim Attaelmanan; Cheng Pei Feng; Al-Hadidy AI",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "asphalt mixtures",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Paper is outside the target cement/concrete compressive-strength extraction scope."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0111_E001",
+      "paper_id": "CBM0111",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Laboratory evaluation of HMA with high density polyethylene as a modiﬁer Moatasim Attaelmanan a,⇑, Cheng Pei Feng b, Al-Hadidy AI c a Northeast Forestry University (NEFU), Harbin, PR China b Civil Engineering Dept., North East Forestry University (NEFU), Harbin, PR China c Civil Engineering Dept., Mosul University, Mosul, Iraq article info Article history: Received 11 August 2010 Received in revised form 16 November 2010 Accepted 20 December 2010 Available online 8 January 2011 Keywords: High de",
+      "supports": "scope decision",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

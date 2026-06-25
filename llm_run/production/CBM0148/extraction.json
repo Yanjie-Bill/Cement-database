@@ -1,0 +1,82 @@
+{
+  "paper": {
+    "paper_id": "CBM0148",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.06.065.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.06.065",
+    "title": "Beneficial use of limestone filler with calcium sulphoaluminate cement",
+    "authors": "Laure Pelletier-Chaignat; Frank Winnefeld; Barbara Lothenbach; Christian Jorg Muller",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "calcium sulphoaluminate cement mortar with limestone/quartz filler",
+    "annotation_status": "review_required_table_not_fully_captured",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0148_S001",
+      "paper_id": "CBM0148",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "review_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0148_E001"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Candidate cannot be inserted directly because mixture, age, unit, or numeric value is incomplete in the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0148_E001",
+      "paper_id": "CBM0148",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "selected packet text/figure flag",
+      "evidence_text": "CEMDATA database [37–41]. GEMS is a broad-purpose geochemi- cal modelling code which computes equilibrium phase assemblage and speciation in a complex chemical system from its total bulk elemental composition. Chemical interactions involving solids, so- lid solutions, and aqueous electrolytes are simultaneously consid- ered. The speciation of the dissolved species as well as the kind and amount of solids precipitated are calculated. The modelling was used to study the chemical and mineralogical changes associated with increasing limestone ﬁller content in the calcium sulphoaluminate cement (clinker + gypsum) at 20 /C176C and 5 /C176C. The water to cement ratio was ﬁxed at 0.80. The bulk chemical composition of the calcium sulphoaluminate clinker and gypsum were used as input. The CT and C 2AS phases from the calcium sulp- hoaluminate clinker were considered to be inert. Limestone ﬁller w",
+      "supports": "review candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0148_R001",
+      "paper_id": "CBM0148",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0148_S001"
+      ],
+      "priority": "medium",
+      "question": "Packet contains compressive-strength-related text but not a directly insertable mixture-level strength table/value.",
+      "suggested_action": "Inspect original PDF table/figure and digitize or verify mixture-level compressive-strength values before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.6,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Candidate compressive-strength data are not directly machine-readable in the packet."
+    ]
+  }
+}

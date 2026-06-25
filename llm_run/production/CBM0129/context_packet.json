@@ -1,0 +1,122 @@
+{
+  "paper": {
+    "paper_id": "CBM0129",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.04.023.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.04.023",
+    "title": ""
+  },
+  "pages": [
+    {
+      "page": 1,
+      "score": 10,
+      "reason": [
+        "first page",
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "Corrosion of steel reinforcement in concrete of different compressive strengths L. Abosrra, A.F. Ashour ⇑, M. Yousefﬁ School of Engineering, Design and Technology, University of Bradford, Bradford BD7 1DP, UK article info Article history: Received 29 March 2010 Received in revised form 10 March 2011 Accepted 11 April 2011 Available online 23 May 2011 Keywords: Concrete Steel reinforcement corrosion Bond strength Polarization technique abstract Corrosion of steel bars embedded in concrete having compressive strengths of 20, 30 and 46 MPa was investigated. Reinforced concrete specimens were immersed in a 3% NaCl solution by weight for 1, 7 and 15 days. In order to accelerate the chemical reactions, an external current of 0.4 A was applied using portable power supply. Corrosion rate was measured by retrieving electrochemical information of polar- ization technique. Pull-out tests of reinforced concrete specimens were then conducted to assess the cor- roded steel/concrete bond characteristics. Experimental results showed that corrosion rate of steel bars and bond strength between corroded steel/concrete were dependent on concrete strength and accelerated corrosion period. As concrete strength increased from 20 to 46 MPa, corrosion rate of embedded steel decreased. First day of corrosion acceleration caused a slight increase in steel/concrete bond strength, whereas sever corrosion after 7 and 15 days of corrosion acceleration signiﬁcantly reduced steel/concrete bond strength. Visual and metallo- graphic observation of steel bars removed from concrete samples after testing revealed that the severity of corrosion reactions and reduction of steel bar diameter increased as the corrosion acceleration period increased. Presence of localized corrosion pits as well as severe corrosion grooves of steel bars was con- ﬁrmed after 7 and 15 days of corrosion acceleration, respectively. /C2112011 Elsevier Ltd. All rights reserved. 1. Introduction Corrosion of steel reinforcement is a major problem inﬂuencing the long-term performance of reinforced concrete structures. It nor- mally occurs due to attacks of aggressive agents such as chloride ions from marine environment, deicing salt or chloride contaminated aggregates. In the presence of chloride, the steel protective passive layer is locally destroyed and unprotected steel areas dissolve. The formation of corrosion products (rust) involves a substantial volume increase, i.e. the volume of corrosion products is greater than that of original steel bar. Therefore expansive stresses are induced around corroded steel bars causing possible cracking, spalling of concrete cover and loss of bond between steel/concrete[1–7] , and thus reduc- ing the serviceability of concrete structures. There are many factors inﬂuencing corrosion of reinforcing steel bars in concrete, such as concrete properties, exposure time, steel surface condition, surrounding environment and use of supplemen- tary cementing materials. It has been found [8–10] that concrete samples with high water/cement ratios have a higher diffusion rate due to the high volume of macro-pores and un-segmented capillary pores present in concrete. On the other hand, concrete with low water/cement ratio and permeability can resist chlorides penetra- tion into reinforcing steel, provide a barrier against oxygen entry and therefore, extend the time of corrosion initiation [11–13] . The effect of corrosion on bond strength of reinforced concrete using corrosion ac"
+    },
+    {
+      "page": 2,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "crete cubes. In order to ensure the bond slip failure dominates over other types of failure such as yielding of steel reinforcement, only a short length of steel bars was embedded in concrete. The embedment length chosen was 60 mm, ﬁve times the bar diameter. The concrete specimens were kept in moulds, covered with wet cloths at room temperature for 3 days, then demolded and kept in a standard curing room for the following 25 days before testing. 2.2. Corrosion acceleration and testing procedure The specimens were immersed in a 3% NaCl solution by weight of water. The solution tank was ﬁlled up to the top of concrete surface and external current of 0.4 A was applied to accelerate the corrosion process to meet the study objectives within a reasonable time schedule. It is also to be noted that the impressed current creates a more uniform corrosion along both the length and circumference of the steel bar than a typical half-cell reaction [6,7,25]. The impressed current direction was adjusted such that the reinforcing steel served as the anode while a graphite rod (counter electrode) was positioned in the tank to act as a cathode. A schematic representation of the electrochemical test set up is shown in Fig. 1 . In order to establish different levels of reinforcement corrosion, accelerated corrosion time was extended over 1, 7 and 15 days. The corrosion rate was measured based on ano- dic current density obtained from the polarization curve. Fig. 2 shows the corrosion rate measurements set up. The corrosion cell consisted of a saturated calomel ref- erence electrode (SCE), counter electrode (graphite rod) and the reinforcing steel embedded in concrete specimen acted as the working electrode [18,19]. The anodic polarization test was performed using scanning potential of /C0 200 mV through 1200 mV, with a scan rate of 1 mV/s. The data were recorded for a ﬁxed duration of 1 h at ambient temperature. The anodic polarization curve was obtained as the relationship between corrosion potential and current density. Final corrosion rate measurements, C.R., of steel were obtained using the equation below [18]: C:R:ðmpyÞ¼ 0:129ICorr W DA ð1Þ where W is the atomic weight of steel (56 for iron), D is the density of steel in gm/ cm3, and A is the exposed surface area in cm 2 and ICorr is the corrosion current den- sity in lA/cm2. After ﬁnishing the electrochemical measurements, the specimens were taken for a pull-out test that was conducted following the RILEM technical recommenda- tion [20]. The pullout test was carried out using the Instron testing machine as illus- trated in Fig. 3. A dial gauge was used to measure the slip between the steel bar and concrete at a constant loading rate of 0.5 mm/min. 3. Test results 3.1. Electrochemical results 3.1.1. Effect of acceleration time Fig. 4 shows the polarization curves of reinforcing steel embed- ded in the control concrete specimens having 20, 30 and 46 MPa concrete compressive strengths. The corrosion potentials E Corr were found to be /C0 230, /C0 207 and /C0 250 mV and the corrosion cur- rent densities ICorr of approximately 0.50, 0.35 and 0.15 lA/cm2 for 20, 30, 46 MPa concrete compressive strengths, respectively. Fig. 5 presents the polarization curves of steel bars in concrete of 20 MPa compressive strength after acceleration tests for 1, 7 and 15 days in 3% NaCl solution. After 1 day of corrosion acceleration the free cor- rosion potential decreased from /C0 230 to /C0 469 mV and corrosion current d"
+    },
+    {
+      "page": 4,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "3.1.2. Effect of concrete strength on corrosion rate The corrosion results of different concrete strengths are plotted together for each exposure time in Fig. 8 . Accelerated corrosion of steel bars in concrete having 20 MPa compressive strength for 1 day showed less corrosion resistance compared with specimens having concrete compressive strength of 30 or 46 MPa. In general the corrosion rate of steel bars in concrete having the same com- pressive strength increased as the accelerated corrosion time ex- tended. This is due to higher exposure of sufﬁcient chloride concentration to reach the steel bar surface to cause the passivity breakdown and create more corrosive environment on steel sur- face. After 7 days the steel bars in concrete having 20 MPa and 30 MPa compressive strengths exhibited a similar corrosion rate and less corrosion resistance as concrete allowed less corrosive environment to be entered after 7 days exposure and hence less protective corrosion layer formed. In this case the embedded steel bar had some parts not covered with the corrosion product and acted as a new anodic site and showed high corrosion rate. Such scenario depends on many factors including chloride concentra- tion, concrete thickness and external impressed current. Further reduction in corrosion resistance rate was observed after 15 days of exposure, depending on concrete strength. 3.2. Concrete visual observation The mechanism of corrosion damage for reinforced concrete is mainly due to the formation of corrosion products having several times higher volume than that of steel reinforcement; that causes expansive stresses leading to cracking and spalling of concrete cov- er. Fig. 9 shows photos of the most porous concrete specimens hav- ing 20 MPa compressive strength, after accelerated corrosion test for 1, 7 and 15 days of exposures. Observations of the top surface of the three concrete specimens show that corrosion products were ﬂuid and penetrated into concrete through cracks. The amount of corrosion products controls the concrete external crack size based on exposure time. After 1 day corrosion acceleration test, concrete -800 -600 -400 -200 0 200 400 600 800 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 Log current density (µA/cm²) Corrosion potential (mV) vs. SCE 1 day 7 days 15 days Fig. 5. Effect of different acceleration time on mild steel corrosion in concrete specimens having 20 MPa compressive strength. -1000 -800 -600 -400 -200 0 200 400 600 800 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 Log current density (µA/cm²) Corrosion potential (mV) vs SCE 1 day 7 days 15 days Fig. 6. Effect of different acceleration time on mild steel corrosion in concrete specimens having 30 MPa compressive strength. 3918 L. Abosrra et al. / Construction and Building Materials 25 (2011) 3915–3925"
+    },
+    {
+      "page": 6,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "shows one crack initiated at concrete/steel bar contact edges and crossing the concrete surface, as indicated in Fig. 9 a. Exposure of concrete having 20 MPa compressive strength for 15 days resulted in wide cracks at the top surface of concrete that ﬁlled with green rust along the internal steel bar. Observation results of the more dense concrete specimens of 46 MPa are shown in Fig. 10 . One day of exposure shows a smooth concrete surface with no sign of any cracks, indicating that the concrete porosity did not allow en- ough corrosive ions (chloride) to penetrate and contact the steel bar as depicted in Fig. 10 a. When acceleration corrosion extended up to 15 days, deep and wide cracks on concrete were observed, Fig. 10 b. The observations conﬁrm that the highest concrete com- pressive strength of 46 MPa needs more exposure time to gain suf- ﬁcient amount of corrosion products to initiate visible cracks compared with other concrete mixtures because of less diffusivity and permeability. 3.3. Mechanical investigation Experimental tests were carried out to examine the effect of corrosion rate on the degree of bond between steel bars and con- crete for three different concrete strengths. Three concrete speci- mens for each concrete compressive strength were tested and the average of test results was calculated and presented below. 3.3.1. Bond stresses–slip relationships In each pullout test, the bond slip at the loaded end was mea- sured at various load increments up to failure. The calculated bond stress (= P/ pdl, where P = applied load, d = steel bar diameter and l = bonded length) for each load level is plotted against the end slip for each specimen in Fig. 11 a–d. 3.3.1.1. Un-corroded specimens (control). Fig. 11a presents the bond stress versus slip for control specimens having 20, 30 and 46 MPa concrete compressive strengths, free of any accelerated corrosion. The bond stress-slip relationship consisted of three distinct re- gions. In the ﬁrst region the bond stress increased with no or very little slip up to a maximum load. The load-slip curves for the three different specimens having 20, 30 and 46 MPa concrete compres- sive strengths showed a linear relationship between load and bond slip up to almost 66%, 67% and 95% of ultimate bond strength, respectively. The second region was then illustrated by a drop in the applied load with longitudinal splitting cracks and increase in bond slip. The third region exhibited a slight gradual drop in the load with a rapid increase in bond slip. 3.3.1.2. Corroded specimens. The variation in the calculated bond stress with the accompanying slip at various load levels is shown in Fig. 11 b–d for different concrete strength specimens at various accelerated corrosion time. Test specimens having concrete com- pressive strength of 20 MPa with corroded bar up to 1 day of expo- sure showed a linear behavior up to 80% of the ultimate load thereafter the curve breaks off, indicating a rapid increase in slip without an increase in the load. The relationship between load and bond slip for specimens after 7 and 15 days exposure exhibited a linear relationship up to below the ultimate bond strength, there- after a sudden drop occurs which continues to show increasing slip at decreasing loads, see Fig. 11b. The load-slip curves of specimens having 30 and 46 MPa concrete compressive strengths are shown in Fig. 11c and d , respectively. The specimens with a relatively low level of corrosion exhibited linear r"
+    },
+    {
+      "page": 9,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "trated in Fig. 20. A little amount of corrosion rust on a limited steel surface area was observed for specimens after 1 day corrosion acceleration, Fig. 20 a. When the corrosion acceleration time ex- tended to 7 days, more rust was observed at the vicinity of steel/ concrete interface and localized corrosion products were observed as indicated in Fig. 20 b. Brown rust was clearly identiﬁed at the concrete and its interface with the embedded steel bar exposed to corrosion acceleration up to 15 days as shown in Fig. 20 c. Macroscopic examination of the steel bars after corrosion accel- eration is also shown in Fig. 21 . One day of corrosion acceleration had a very small effect on steel surface area as shown in Fig. 21 a. Corrosion acceleration of 7 days produced brownish rust on the steel bar and localized corrosion in the form of pitting as shown in Fig. 21 b. The steel specimens subjected to 15 days of corrosion acceleration showed corrosion grooves and presence of pitting cor- rosion and reduction of bar diameter as presented in Fig. 21 c. 4. Discussion The data presented in Figs. 5–7 show polarization curves for specimens exposed to chloride solutions for 1, 7 and 15 days. Low concrete strength specimens recorded the most active free corrosion potential and highest corrosion current density at all exposure times. The superior performance of 46 MPa concrete compressive strength in chloride solutions is attributed to dense pore structure that inhibits the penetration of chloride and mois- ture to steel/concrete interface. The superior corrosion resistance of specimens having 46 MPa concrete compressive strength com- pared with 20 and 30 MPa strength specimens is also due to the higher electrical resistivity that retards the ﬂow of electrons from cathode to anode sites, thus impeding the propagation of corrosion process. The rate of corrosion was also affected by extending the expo- sure time. This was consistent with the ﬁndings of other investiga- tions [21] where the penetration of chloride ions into concrete progressively increased with exposure to salt solutions. Higher salt accumulation on steel surface eventually caused disruption of steel passivity. It is generally accepted that the acidity produced during chlo- ride-induced corrosion results in the formation of soluble oxides that diffuses away from the anode to cathode area in concrete sur- face. The visual observation of corroded specimens showed a wet green/black oxide paste surrounded by a brown oxide layer which transformed to reddish scale due to hydration as shown in Fig. 17 and agree with observations of other experiments [6,7]. Despite the fact that many variables are involved in corrosion of steel bars in concrete, the results of the present investigation are comparable to others applied different electrochemical corrosion techniques. Dehghanian and Locke [21] measured the corrosion rate of reinforcing steel in concrete exposed to salt solutions with concentrations ranging from 0.1 to 2% NaCl for 90 days by using potentiodynamic polarization technique. They reported that the calculated corrosion rate was in the range of 0.20–2.5 mpy. Locke and Simon [22] found for concrete mixed with 0–1% NaCl, the esti- mated corrosion rate based on linear polarization resistance tech- nique was in the range of 0.03–0.52 mpy. Wheat and Eliezer [23] used potentiodynamic polarization technique for corrosion rate measurements of steel in concrete specimens immersed in 10% 0 5 10 15 20 25"
+    },
+    {
+      "page": 11,
+      "score": 7,
+      "reason": [
+        "compressive-strength keyword",
+        "mixture keyword",
+        "methods keyword"
+      ],
+      "text": "pullout action was facilitated and occurred at a lower load. The accumulation of a heavy layer of the ﬂaky corroded material around the steel bar also reduced the friction component of the bond strength. Other reasons include the crack size corre- sponding to particular level of corrosion. Similar ﬁndings were reported by other researchers [5,15]. Corrosion morphology conﬁrmed the electrochemical results. The severity of corrosion increased as the exposure of corrosion acceleration increased. Results indicated that concrete strength controlled the amount of corrosive environment penetration to- wards the steel bar. Lower concrete strength allowed more cor- rosive environment penetration and resulted in higher corrosion rate. The severity of steel bar degradation showed the highest le- vel after 15 days. The severity of corrosion reduced for higher concrete strength and corrosion morphology conﬁrmed the local- ized form of pitting. Such localized attack became more severe and covered wider area when corrosion extended to a longer time of 15 days, agreeing with the work undertaken by Gonzalez et al. [25] who reported pitting corrosion for advanced accelera- tion corrosion stage using impressed current. On the other hand, increasing concrete strength to 46 MPa reduced the corrosion rate for 7 days of corrosion acceleration. However, deep grooves were observed on the steel surface when corrosion acceleration extended to 15 days due to the ability of high concrete strength to keep corrosive environment in a narrow zone and conse- quently chloride penetration caused such type of grooves. 5. Conclusions /C15 Application of electrochemistry technique is a feasible method to evaluate the rate of steel bar degradation embedded in concrete under fast accelerated corrosion. However, it is also proposed for future investigations to compare the electrochemical corro- sion rate measurements with weight loss. /C15 Volume of corrosion products and level of chemical reactions control the concrete crack length and width. /C15 Corrosion rate of steel bars depends on concrete strength and exposure time of accelerated corrosion test. As the exposure time increased the corrosion rate increased. On the other hand, higher concrete strength reduced the steel corrosion rates. /C15 Slight rust formed after 1 day of exposure promoted the steel/ concrete bond strength. Further increase in corrosion rate sig- niﬁcantly decreased the concrete/steel bond strength. /C15 Test specimens of high corrosion rate showed severity of corro- sion damage with high reduction in the steel bar area. Pitting corrosion was also observed due to the chloride attack on steel bar surface. However, corrosion of steel embedded in concrete having high compressive strength of 46 MPa was in the form of severe grooves. References [1] Cabrera JG. Deterioration of concrete due to reinforcement steel corrosion. Cem Concr Compos 1996;18:47–59. [2] Okada K, Kobayashi K, Miyagawa T. Inﬂuence of longitudinal cracking due to reinforcement corrosion on characteristics of reinforced concrete members. ACI Struct J 1988;85:134–40. [3] Fang C, Lundgren K, Chen L, Zhu C. Corrosion inﬂuence on bond in reinforced concrete. Cem Concr Res 2004;34:2159–67. [4] Fang C, Lundgren K, Plos M, Gylltoft K. Bond behaviour of corroded reinforcing steel bars in concrete. Cem Concr Res 2006;36:1931–8. [5] Lee HS, Noguchi T, Tomosawa F. Evaluation of the bond properties between concrete and reinforcement as a function of the"
+    },
+    {
+      "page": 3,
+      "score": 5,
+      "reason": [
+        "compressive-strength keyword",
+        "methods keyword"
+      ],
+      "text": "since ingress of chloride in concrete reached the steel surface, breaking of passivation. On the other hand, larger concrete strength slowed down the corrosion rate due to the passivity achieved as the increase in concrete strength produced less perme- ability and consequently allowed less chloride to be in contact with steel bars. 3%NaCl solution Test Specimen 150 mm concrete Graphite rode Reference electrode Working electrode 12 mm steel bar PVC pipe Timber block Fig. 2. Corrosion rate measurements set-up. Steel bar Thin steel plate PVC pipe Test specimen Tension force Thick steel plate Dial gauge Fig. 3. Pullout test system. -400 -200 0 200 400 600 800 1000 1200 -2.5 -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 Log current density (µA/cm²) Corrosion potential (mV) vs SCE 20MPa 30MPa 46MPa Fig. 4. Polarization curves of control concrete specimens having 20 MPa and 46 MPa concrete compressive strength. L. Abosrra et al. / Construction and Building Materials 25 (2011) 3915–3925 3917"
+    },
+    {
+      "page": 5,
+      "score": 5,
+      "reason": [
+        "compressive-strength keyword",
+        "methods keyword"
+      ],
+      "text": "-1000 -800 -600 -400 -200 0 200 400 600 800 -0.5 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 Log current density (µA/cm²) Corrosion potential (mV) vs SCE 1 day 7 days 15 days Fig. 7. Effect of different acceleration time on mild steel corrosion in concrete specimens having 46 MPa compressive strength. 2.2 0.78 0.57 29.5 25.73 15.3 33.5 30.5 20.4 0 5 10 15 20 25 30 35 40 45 20 30 46 Concrete strength (MPa) Corrosion rate (mpy) 1 day 7 days 15 days Fig. 8. Effect of porosity on mild steel corrosion in different concrete strength after 1, 7 and 15 days. Fig. 9. Effect of accelerated corrosion on cracking of concrete having strength of 20 MPa. L. Abosrra et al. / Construction and Building Materials 25 (2011) 3915–3925 3919"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_002",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_006",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_009",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_003",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page"
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page"
+    }
+  ]
+}

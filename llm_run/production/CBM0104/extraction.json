@@ -1,0 +1,108 @@
+{
+  "paper": {
+    "paper_id": "CBM0104",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.11.106.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.11.106",
+    "title": "Resistance of plain and blended cement mortars exposed to severe sulfate attacks",
+    "authors": "Thidar Aye; Chiaki T. Oguchi",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "plain and blended cement mortars under sulfate attack",
+    "annotation_status": "review_required_figure_only",
+    "notes": "Compressive-strength information is present only as a figure or incomplete packet text; numeric values require human review/digitization."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0104_R001",
+      "paper_id": "CBM0104",
+      "mixture_id": "CBM0104_FIGURE_ONLY",
+      "mixture_original_id": "figure-only strength data",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0104_E002"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet does not provide readable numeric values mapped to mixtures."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0104_F001",
+      "paper_id": "CBM0104",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0104_E001",
+      "paper_id": "CBM0104",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Resistance of plain and blended cement mortars exposed to severe sulfate attacks Thidar Aye a,⇑, Chiaki T. Oguchi b a Department of Civil and Environmental Engineering, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama 338-8570, Japan b Geosphere Research Institute, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama 338-8570, Japan article info Article history: Received 28 June 2010 Received in revised form 17 September 2010 Accepted 13 November 2010 Available online 14 January 2011 K",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0104_E002",
+      "paper_id": "CBM0104",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "strength mention",
+      "evidence_text": "Performance under conventional sulfate attack was monitored through measurement of compressive strength loss of mortar specimens, and the results are presented in Fig. 2.",
+      "supports": "figure-only or incomplete compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0104_Q001",
+      "paper_id": "CBM0104",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0104_R001"
+      ],
+      "priority": "medium",
+      "question": "Digitize or inspect the source figure/table to recover mixture-level compressive-strength values.",
+      "suggested_action": "Open the PDF page images and extract numeric strength values only if mixture labels, age, unit, and values can be confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are not directly readable from packet text."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0125",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.04.010.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.04.010",
+    "title": "Effect of ureolytic bacteria on concrete properties",
+    "authors": "Rafat Siddique; Navneet Kaur Chahal",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "review of bacteria-modified concrete",
+    "annotation_status": "excluded_review_no_primary_data",
+    "notes": "Review article does not provide primary mixture-level compressive-strength results for direct extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0125_E001",
+      "paper_id": "CBM0125",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Review Effect of ureolytic bacteria on concrete properties Rafat Siddique a, Navneet Kaur Chahal b,⇑ a Department of Civil Engineering, Thapar University, Patiala, Punjab, India b Department of Biotechnology and Environmental Sciences, Thapar University, Patiala, Punjab, India article info Article history: Received 28 December 2010 Received in revised form 4 March 2011 Accepted 11 April 2011 Available online 25 May 2011 Keywords: Bacteria Concrete Bioremediation Microbial mineral precipitation C",
+      "supports": "scope decision",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

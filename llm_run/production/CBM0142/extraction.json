@@ -1,0 +1,68 @@
+{
+  "paper": {
+    "paper_id": "CBM0142",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.06.041.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.06.041",
+    "title": "Utilization of waste foundry sand in concrete",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "concrete with waste foundry sand review",
+    "annotation_status": "excluded_review_no_primary_data",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0142_F_PAGE_004",
+      "paper_id": "CBM0142",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    },
+    {
+      "figure_id": "CBM0142_F_PAGE_005",
+      "paper_id": "CBM0142",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "candidate strength figure/page",
+      "strength_relevance": "candidate compressive-strength data or context flagged by packet",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate compressive-strength figure/page; numeric values are not reliably readable from text packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0142_E001",
+      "paper_id": "CBM0142",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "selected packet text",
+      "evidence_text": "Effect of waste foundry sand (WFS) as partial replacement of sand on the strength, ultrasonic pulse velocity and permeability of concrete Gurpreet Singh a,⇑, Rafat Siddique b a Civil Engineering Department, RIMT (IET), Mandigobindgarh, Punjab, India b Civil Engineering Department, Thapar University, Patiala 147004, India article info Article history: Received 7 March 2011 Received in revised form 3 June 2011 Accepted 18 June 2011 Available online 16 July 2011 Keywords: Concrete Waste foundry sand Strength properties Ultrasonic pulse velocity Permeability abstract Ferrous and non ferrous metal casting industries produce several millions tons of byproduct in the world. In India, approximately ",
+      "supports": "scope decision",
+      "confidence": 0.84,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.84,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

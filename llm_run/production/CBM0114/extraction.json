@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0114",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.01.010.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.01.010",
+    "title": "The influence of water on the performance of concrete",
+    "authors": "Kenneth C. Hover",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "review of water effects in concrete",
+    "annotation_status": "excluded_review_no_primary_data",
+    "notes": "Review article does not provide primary mixture-level compressive-strength results for direct extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0114_E001",
+      "paper_id": "CBM0114",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Review The inﬂuence of water on the performance of concrete Kenneth C. Hover ⇑ 302 Hollister Hall, Cornell University, Ithaca, NY 14853, USA article info Article history: Received 8 June 2010 Received in revised form 24 January 2011 Accepted 25 January 2011 Available online 3 March 2011 Keywords: Curing Field control Hydration Permeability Porosity Shrinkage Water content abstract The powerful and pervasive inﬂuence of water on the performance of Portland cement concrete begins with the removal ",
+      "supports": "scope decision",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

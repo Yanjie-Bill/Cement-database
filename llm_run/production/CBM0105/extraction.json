@@ -1,0 +1,108 @@
+{
+  "paper": {
+    "paper_id": "CBM0105",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.12.006.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.12.006",
+    "title": "Freeze-thaw cycle test and damage mechanics models of alkali-activated slag concrete",
+    "authors": "Yawei Fu; Liangcai Cai; Yonggen Wu",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "alkali-activated slag concrete",
+    "annotation_status": "review_required_incomplete_table",
+    "notes": "Compressive-strength information is present only as a figure or incomplete packet text; numeric values require human review/digitization."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0105_R001",
+      "paper_id": "CBM0105",
+      "mixture_id": "CBM0105_FIGURE_ONLY",
+      "mixture_original_id": "figure-only strength data",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0105_E002"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet does not provide readable numeric values mapped to mixtures."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0105_F001",
+      "paper_id": "CBM0105",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0105_E001",
+      "paper_id": "CBM0105",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Freeze–thaw cycle test and damage mechanics models of alkali-activated slag concrete Yawei Fu ⇑, Liangcai Cai, Yonggen Wu College of Engineering, Air Force Engineering University, Xi’an 710038, China article info Article history: Received 12 October 2010 Received in revised form 5 December 2010 Accepted 7 December 2010 Available online 18 February 2011 Keywords: Alkali-activated slag concrete Freeze–thaw cycle Microstructure Dynamic elasticity modulus Damage mechanics models abstract Alkali-acti",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0105_E002",
+      "paper_id": "CBM0105",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "strength mention",
+      "evidence_text": "Mix proportion, workability and compressive strength at 28 d of ASC are listed in Table 2, but the packet does not expose the table values; text states strengths were all above 86 MPa.",
+      "supports": "figure-only or incomplete compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0105_Q001",
+      "paper_id": "CBM0105",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0105_R001"
+      ],
+      "priority": "medium",
+      "question": "Digitize or inspect the source figure/table to recover mixture-level compressive-strength values.",
+      "suggested_action": "Open the PDF page images and extract numeric strength values only if mixture labels, age, unit, and values can be confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are not directly readable from packet text."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0146",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.06.061.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.06.061",
+    "title": "Laboratory evaluation on high temperature viscosity and low temperature stiffness of asphalt binder with high percent scrap tire rubber",
+    "authors": "Hainian Wang; Zhanping You; Julian Mills-Beale; Peiwen Hao",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "asphalt binder",
+    "annotation_status": "excluded_not_cement_compressive_strength",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0146_E001",
+      "paper_id": "CBM0146",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "selected packet text",
+      "evidence_text": "Laboratory evaluation on high temperature viscosity and low temperature stiffness of asphalt binder with high percent scrap tire rubber Hainian Wang a,⇑, Zhanping You b,1, Julian Mills-Beale b,2, Peiwen Hao a,3 a Highway School, Chang’an University, South Erhuan Middle Section, Xia’n, Shaanxi, 710064, China b Department of Civil and Environmental Engineering, Michigan Technological University, 1400 Townsend Drive, Houghton, MI 49931-1295, United States article info Article history: Received 6 November 2010 Received in revised form 23 May 2011 Accepted 18 June 2011 Available online 12 July 2011 Keywords: Asphalt rubber Rotational viscosity Creep stiffness Laboratory test RTFO aging Rubber con",
+      "supports": "scope decision",
+      "confidence": 0.84,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.84,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

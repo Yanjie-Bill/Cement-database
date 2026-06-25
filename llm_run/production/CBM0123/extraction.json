@@ -1,0 +1,108 @@
+{
+  "paper": {
+    "paper_id": "CBM0123",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.04.005.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.04.005",
+    "title": "Synthesis and characterization of fly ash modified mine tailings-based geopolymers",
+    "authors": "Lianyang Zhang; Saeed Ahmari; Jinhong Zhang",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "mine tailings-fly ash geopolymer",
+    "annotation_status": "review_required_figure_only",
+    "notes": "Compressive-strength information is present only as a figure or incomplete packet text; numeric values require human review/digitization."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0123_R001",
+      "paper_id": "CBM0123",
+      "mixture_id": "CBM0123_FIGURE_ONLY",
+      "mixture_original_id": "figure-only strength data",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0123_E002"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet does not provide readable numeric values mapped to mixtures."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0123_F001",
+      "paper_id": "CBM0123",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0123_E001",
+      "paper_id": "CBM0123",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Synthesis and characterization of ﬂy ash modiﬁed mine tailings-based geopolymers Lianyang Zhang a,⇑, Saeed Ahmari a, Jinhong Zhang b a Department of Civil Engineering and Engineering Mechanics, University of Arizona, Tucson, AZ, USA b Department of Mining and Geological Engineering, University of Arizona, Tucson, AZ, USA article info Article history: Received 9 January 2011 Received in revised form 16 March 2011 Accepted 11 April 2011 Available online 4 May 2011 Keywords: Mine tailings Fly ash G",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0123_E002",
+      "paper_id": "CBM0123",
+      "source_modality": "text",
+      "page": 4,
+      "source_location": "strength mention",
+      "evidence_text": "UCS of fly ash modified mine-tailings geopolymers is plotted in Fig. 4 for curing time, fly ash content, and NaOH concentration; packet text lacks numeric values.",
+      "supports": "figure-only or incomplete compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0123_Q001",
+      "paper_id": "CBM0123",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0123_R001"
+      ],
+      "priority": "medium",
+      "question": "Digitize or inspect the source figure/table to recover mixture-level compressive-strength values.",
+      "suggested_action": "Open the PDF page images and extract numeric strength values only if mixture labels, age, unit, and values can be confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are not directly readable from packet text."
+    ]
+  }
+}

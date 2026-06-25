@@ -1,0 +1,121 @@
+{
+  "paper": {
+    "paper_id": "CBM0122",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.04.004.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.04.004",
+    "title": "Influence of manufactured sand characteristics on strength and abrasion resistance of pavement cement concrete",
+    "authors": "Li Beixing; Ke Guoju; Zhou Mingkai",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "pavement cement concrete with manufactured sand",
+    "annotation_status": "review_required_figure_only",
+    "notes": "Compressive-strength information is present only as a figure or incomplete packet text; numeric values require human review/digitization."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0122_R001",
+      "paper_id": "CBM0122",
+      "mixture_id": "CBM0122_FIGURE_ONLY",
+      "mixture_original_id": "figure-only strength data",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0122_E002"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Packet does not provide readable numeric values mapped to mixtures."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0122_F001",
+      "paper_id": "CBM0122",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "figure_id": "CBM0122_F002",
+      "paper_id": "CBM0122",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "compressive-strength plot or strength-related figure",
+      "strength_relevance": "likely contains compressive-strength values but packet does not provide readable numeric data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0122_E001",
+      "paper_id": "CBM0122",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Inﬂuence of manufactured sand characteristics on strength and abrasion resistance of pavement cement concrete Li Beixing ⇑, Ke Guoju, Zhou Mingkai Key Laboratory for Silicate Materials Science and Engineering of Ministry of Education, Wuhan University of Technology, P.O. Box 430070, Wuhan, Chi na article info Article history: Received 23 July 2010 Received in revised form 10 March 2011 Accepted 11 April 2011 Available online 17 May 2011 Keywords: Pavement cement concrete Manufactured sand Partic",
+      "supports": "paper scope",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0122_E002",
+      "paper_id": "CBM0122",
+      "source_modality": "text",
+      "page": 3,
+      "source_location": "strength mention",
+      "evidence_text": "Figure 4 shows influence of crushing value of sand on compressive strength of concrete at 28 days; packet text exposes only plotted labels, not complete values.",
+      "supports": "figure-only or incomplete compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0122_Q001",
+      "paper_id": "CBM0122",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0122_R001"
+      ],
+      "priority": "medium",
+      "question": "Digitize or inspect the source figure/table to recover mixture-level compressive-strength values.",
+      "suggested_action": "Open the PDF page images and extract numeric strength values only if mixture labels, age, unit, and values can be confirmed.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.7,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are not directly readable from packet text."
+    ]
+  }
+}

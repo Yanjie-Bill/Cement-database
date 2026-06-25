@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0121",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.03.042.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.03.042",
+    "title": "Some engineering properties of stabilized clayey soils incorporating natural pozzolans and industrial wastes",
+    "authors": "K.M.A. Hossain; L. Mol",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "stabilized clayey soil",
+    "annotation_status": "excluded_soil_unconfined_strength",
+    "notes": "The packet concerns stabilized clayey soil and unconfined compressive strength, not concrete/mortar compressive strength."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0121_E001",
+      "paper_id": "CBM0121",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Some engineering properties of stabilized clayey soils incorporating natural pozzolans and industrial wastes K.M.A. Hossain a,⇑,L .M o l b a Department of Civil Engineering, Ryerson University, Toronto, Canada b Department of Civil Engineering, University of Technology, Lae, Papua New Guinea article info Article history: Received 12 October 2010 Received in revised form 15 January 2011 Accepted 1 March 2011 Available online 26 March 2011 Keywords: Soil stabilization Volcanic ash Cement kiln dust",
+      "supports": "scope decision",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

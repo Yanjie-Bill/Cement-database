@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0126",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.04.016.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.04.016",
+    "title": "Induction healing of asphalt mastic and porous asphalt concrete",
+    "authors": "Quantao Liu; Álvaro García; Erik Schlangen; Martin van de Ven",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "asphalt mastic and porous asphalt concrete",
+    "annotation_status": "excluded_not_cement_compressive_strength",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0126_E001",
+      "paper_id": "CBM0126",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "selected packet text",
+      "evidence_text": "Induction healing of asphalt mastic and porous asphalt concrete Quantao Liu a,⇑, Álvaro García a, Erik Schlangen a, Martin van de Ven b a Delft University of Technology, Faculty of Civil Engineering and Geosciences, Micromechanics Laboratory (MICROLAB), Stevinweg 1, 2628 CN Delft, T he Netherlands b Delft University of Technology, Faculty of Civil Engineering and Geosciences, Road and Railway Engineering, Stevinweg 1, 2628 CN Delft, The Netherl ands article info Article history: Received 1 December 2010 Received in revised form 14 March 2011 Accepted 11 April 2011 Available online 4 May 2011 Keywords: Mastic Porous asphalt concrete Induction heating Healing Steel wool abstract The objective ",
+      "supports": "scope decision",
+      "confidence": 0.84,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.84,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

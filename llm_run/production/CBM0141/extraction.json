@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0141",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.06.037.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.06.037",
+    "title": "Unified stress-strain model of concrete for FRP-confined columns",
+    "authors": "You-Yi Wei; Yu-Fei Wu",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "FRP-confined concrete model",
+    "annotation_status": "excluded_model_or_literature_database",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0141_E001",
+      "paper_id": "CBM0141",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "selected packet text",
+      "evidence_text": "Uniﬁed stress–strain model of concrete for FRP-conﬁned columns You-Yi Wei, Yu-Fei Wu ⇑ Department of Building and Construction, City University of Hong Kong, Tat Chee Ave., Hong Kong article info Article history: Received 13 August 2010 Received in revised form 4 June 2011 Accepted 18 June 2011 Available online 14 July 2011 Keywords: Compressive strength Concrete FRP Modeling Stress–strain model abstract This paper presents a uniﬁed stress–strain model of concrete for circular, square, and rectangular col- umns conﬁned by ﬁber-reinforced polymer (FRP) jackets. Through the uniﬁcation, the variation of param- eters is continuous and consistent, which overcomes the inconsistency or discontinuit",
+      "supports": "scope decision",
+      "confidence": 0.84,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.84,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

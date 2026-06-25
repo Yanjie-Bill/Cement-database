@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0132",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.04.049.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.04.049",
+    "title": "Acoustic emission characterization of the fracture process in fibre reinforced concrete",
+    "authors": "D.G. Aggelis; D.V. Soulioti; N. Sapouridis; N.M. Barkoula; A.S. Paipetis; T.E. Matikas",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "fibre reinforced concrete fracture",
+    "annotation_status": "excluded_no_compressive_strength_results",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0132_E001",
+      "paper_id": "CBM0132",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "selected packet text",
+      "evidence_text": "Acoustic emission characterization of the fracture process in ﬁbre reinforced concrete D.G. Aggelis ⇑, D.V. Soulioti, N. Sapouridis, N.M. Barkoula, A.S. Paipetis, T.E. Matikas Dept. Materials Science and Engineering, University of Ioannina, Ioannina 45110, Greece article info Article history: Received 10 April 2010 Received in revised form 5 April 2011 Accepted 14 April 2011 Available online 7 May 2011 Keywords: Acoustic emission Bending Concrete Fracture Pull-out Steel ﬁbres abstract The present study occupies with the characterization of the fracture process of steel ﬁbre reinforced con- crete. Different acoustic emission indices are correlated with the accumulation of damage and the type ",
+      "supports": "scope decision",
+      "confidence": 0.84,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.84,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}
