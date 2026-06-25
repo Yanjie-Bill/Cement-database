@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0048",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.06.038.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.06.038",
+    "title": "Effect of deicing solutions on the tensile strength of micro- or nano-modified asphalt mixture",
+    "authors": "Shu Wei Goh; Michelle Akin; Zhanping You; Xianming Shi",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "micro/nano modified asphalt mixture",
+    "annotation_status": "excluded_no_cement_compressive_strength",
+    "notes": "Asphalt mixture tensile-strength/deicing study; not cementitious compressive strength."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0048_E001",
+      "paper_id": "CBM0048",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Asphalt mixture tensile-strength/deicing study; not cementitious compressive strength.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "paper": {
+    "paper_id": "CBM0036",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.04.012.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.04.012",
+    "title": "Preparation and characterisation of fly ash based geopolymer mortars",
+    "authors": "J. Temuujin; A. van Riessen; K.J.D. MacKenzie",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "fly ash geopolymer mortar",
+    "annotation_status": "completed_with_review",
+    "notes": "Paste strength explicitly reported; mortar strengths require Fig. 3 digitization."
+  },
+  "mixture_components": [
+    {
+      "component_id": "CBM0036-MC001",
+      "paper_id": "CBM0036",
+      "mixture_id": "CBM0036-M001",
+      "mixture_original_id": "Paste",
+      "mixture_description": "fly ash based geopolymer paste",
+      "component_original": "fly ash",
+      "component_standard": "fly ash",
+      "category": "binder",
+      "role_in_mix": "precursor",
+      "amount": null,
+      "unit": "",
+      "basis": "not reported in packet",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0036_E002"
+      ],
+      "confidence": 0.7,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0036-MC002",
+      "paper_id": "CBM0036",
+      "mixture_id": "CBM0036-M001",
+      "mixture_original_id": "Paste",
+      "mixture_description": "fly ash based geopolymer paste",
+      "component_original": "sodium silicate solution",
+      "component_standard": "sodium silicate",
+      "category": "alkali activator",
+      "role_in_mix": "activator",
+      "amount": null,
+      "unit": "",
+      "basis": "not reported in packet",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0036_E002"
+      ],
+      "confidence": 0.7,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0036-MC003",
+      "paper_id": "CBM0036",
+      "mixture_id": "CBM0036-M001",
+      "mixture_original_id": "Paste",
+      "mixture_description": "fly ash based geopolymer paste",
+      "component_original": "14 M sodium hydroxide solution",
+      "component_standard": "sodium hydroxide",
+      "category": "alkali activator",
+      "role_in_mix": "activator",
+      "amount": 14,
+      "unit": "M",
+      "basis": "reported molarity",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0036_E002"
+      ],
+      "confidence": 0.85,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    }
+  ],
+  "strength_results": [
+    {
+      "result_id": "CBM0036-R001",
+      "paper_id": "CBM0036",
+      "mixture_id": "CBM0036-M001",
+      "mixture_original_id": "Paste",
+      "property": "compressive_strength",
+      "age_days": "about 4 days",
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": 60,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0036-COND001",
+      "testing_condition_id": "CBM0036-COND001",
+      "evidence_ids": [
+        "CBM0036_E001",
+        "CBM0036_E002"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": "Abstract reports paste compressive strength; exact test age is curing schedule rather than a standard day age."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0036-COND001",
+      "paper_id": "CBM0036",
+      "condition_type": "curing/testing",
+      "applies_to": "CBM0036-M001",
+      "specimen_type": "25 mm diameter x 50 mm cylinders",
+      "temperature_c": 70,
+      "rh_pct": null,
+      "curing_method": "Cured at 70 C for 24 h, then ambient temperature for 3 days before demoulding",
+      "demould_time_days": null,
+      "test_age_days": "about 4 days",
+      "test_method": "compressive strength testing",
+      "test_standard": "",
+      "specimen_geometry": "25 mm diameter x 50 mm cylinders",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0036_E002"
+      ],
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_003",
+      "paper_id": "CBM0036",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "figure/page image",
+      "strength_relevance": "candidate compressive-strength figure/page",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Mortar strength values are plotted, not numerically readable in packet."
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0036",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "figure/page image",
+      "strength_relevance": "candidate compressive-strength figure/page",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Mortar strength values are plotted, not numerically readable in packet."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0036_E001",
+      "paper_id": "CBM0036",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "abstract",
+      "evidence_text": "Geopolymer mortars with varying sand aggregate were prepared; compressive strength of fly ash based geopolymer paste was 60 MPa and did not change significantly with addition of up to 50 wt.% sand aggregate.",
+      "supports": "explicit paste strength and figure relevance",
+      "confidence": 0.86,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0036_E002",
+      "paper_id": "CBM0036",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "methods",
+      "evidence_text": "Fly ash geopolymer paste used sodium silicate and 14 M sodium hydroxide activators; moulds were cured at 70 C for 24 h, kept at ambient temperature for 3 days and demoulded.",
+      "supports": "materials and curing",
+      "confidence": 0.84,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0036-REV001",
+      "paper_id": "CBM0036",
+      "target_sheet": "figures",
+      "target_record_ids": [
+        "F_PAGE_003",
+        "F_PAGE_004"
+      ],
+      "priority": "medium",
+      "question": "Digitize Fig. 3 to obtain compressive strengths for mortar samples with 10-50 wt.% aggregate.",
+      "suggested_action": "Read plotted values from source PDF and add mixture-level strength records for mortar aggregate contents.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.75,
+    "direct_insert_count": 1,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some strength information is incomplete, secondary, or figure-only in the packet."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0035",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.04.011.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.04.011",
+    "title": "Genetic programming approach for prediction of compressive strength of concretes containing rice husk ash",
+    "authors": "Mustafa Saridemir",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "compiled rice-husk-ash concrete modeling dataset",
+    "annotation_status": "excluded_secondary_dataset_no_mix_design",
+    "notes": "Compressive-strength table is compiled from literature for GEP modeling, not a primary experimental mix-design table for this paper."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0035_E001",
+      "paper_id": "CBM0035",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Compressive-strength table is compiled from literature for GEP modeling, not a primary experimental mix-design table for this paper.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

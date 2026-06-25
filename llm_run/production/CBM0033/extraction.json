@@ -1,0 +1,97 @@
+{
+  "paper": {
+    "paper_id": "CBM0033",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.03.011.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.03.011",
+    "title": "Analysis of strength development in cement-stabilized silty clay from microstructural considerations",
+    "authors": "Suksun Horpibulsuk; Runglawan Rachan; Avirut Chinkulkijniwat; Yuttana Raksachon; Apichat Suddeepong",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "cement-stabilized silty clay",
+    "annotation_status": "figure_strength_requires_review",
+    "notes": "Unconfined compressive strength results are presented in figures; packet lacks readable numeric values for mixture-level extraction."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0033-R001",
+      "paper_id": "CBM0033",
+      "mixture_id": "CBM0033-M_UNRESOLVED",
+      "mixture_original_id": "figure-only unresolved mixture series",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0033_E001"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Unconfined compressive strength plots for cement-stabilized silty clay are figure-only in the packet; mixture labels, ages, and values require digitization."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_002",
+      "paper_id": "CBM0033",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "figure/page image",
+      "strength_relevance": "candidate compressive-strength figure/page",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags candidate compressive-strength page/figure, but numeric values are not readable."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0033_E001",
+      "paper_id": "CBM0033",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Unconfined compressive strength results are presented in figures; packet lacks readable numeric values for mixture-level extraction.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0033-REV001",
+      "paper_id": "CBM0033",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0033-R001",
+        "F_PAGE_002"
+      ],
+      "priority": "high",
+      "question": "Digitize the compressive-strength figures to recover mixture-level values and ages.",
+      "suggested_action": "Open source PDF figures, read axis scales and series labels, then add figure_digitized_approx or exact values if tables are found.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.65,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some strength information is incomplete, secondary, or figure-only in the packet."
+    ]
+  }
+}

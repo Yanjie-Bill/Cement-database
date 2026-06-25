@@ -1,0 +1,125 @@
+{
+  "paper": {
+    "paper_id": "CBM0041",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.04.052.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.04.052",
+    "title": "Geopolymer synthesis using alkaline activation of natural zeolite",
+    "authors": "C. Villa; E.T. Pecina; R. Torres; L. Gomez",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "natural zeolite geopolymer",
+    "annotation_status": "partial_extraction_needs_strength_figure_digitization",
+    "notes": "Compressive-strength trends are in figures; packet does not provide readable table values."
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0041-R001",
+      "paper_id": "CBM0041",
+      "mixture_id": "CBM0041-M_UNRESOLVED",
+      "mixture_original_id": "figure-only unresolved mixture series",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0041_E001"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Natural zeolite geopolymer compressive-strength plots are figure-only in the packet; activator ratio, curing time/temperature series and values require digitization."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "F_PAGE_003",
+      "paper_id": "CBM0041",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "figure/page image",
+      "strength_relevance": "candidate compressive-strength figure/page",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags candidate compressive-strength page/figure, but numeric values are not readable."
+    },
+    {
+      "figure_id": "F_PAGE_004",
+      "paper_id": "CBM0041",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "figure/page image",
+      "strength_relevance": "candidate compressive-strength figure/page",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags candidate compressive-strength page/figure, but numeric values are not readable."
+    },
+    {
+      "figure_id": "F_PAGE_005",
+      "paper_id": "CBM0041",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "figure/page image",
+      "strength_relevance": "candidate compressive-strength figure/page",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags candidate compressive-strength page/figure, but numeric values are not readable."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0041_E001",
+      "paper_id": "CBM0041",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "Compressive-strength trends are in figures; packet does not provide readable table values.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0041-REV001",
+      "paper_id": "CBM0041",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0041-R001",
+        "F_PAGE_003",
+        "F_PAGE_004",
+        "F_PAGE_005"
+      ],
+      "priority": "high",
+      "question": "Digitize the compressive-strength figures to recover mixture-level values and ages.",
+      "suggested_action": "Open source PDF figures, read axis scales and series labels, then add figure_digitized_approx or exact values if tables are found.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.65,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Some strength information is incomplete, secondary, or figure-only in the packet."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "paper": {
+    "paper_id": "CBM0031",
+    "pdf_filename": "10.1016_j.conbuildmat.2010.03.008.pdf",
+    "doi": "10.1016/j.conbuildmat.2010.03.008",
+    "title": "Experimental performances of RC beams strengthened with FRP materials",
+    "authors": "F. Ceroni",
+    "year": 2010,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "reinforced concrete beams with FRP strengthening",
+    "annotation_status": "no_extractable_mix_level_cement_strength",
+    "notes": "RC beam paper reports only mean concrete cube strength 33.6 MPa; no cement/concrete mixture proportions or mixture-level strength series are extractable."
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0031_E001",
+      "paper_id": "CBM0031",
+      "source_modality": "text",
+      "page": 1,
+      "source_location": "page 1 title/abstract",
+      "evidence_text": "RC beam paper reports only mean concrete cube strength 33.6 MPa; no cement/concrete mixture proportions or mixture-level strength series are extractable.",
+      "supports": "scope decision",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.88,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}
