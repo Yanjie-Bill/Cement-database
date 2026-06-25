@@ -1,0 +1,174 @@
+{
+  "paper": {
+    "paper_id": "CBM0184",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.10.063.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.10.063",
+    "title": "Hydration products and strength development of calcium hydroxide-based alkali-activated slag mortars",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "alkali-activated GGBS mortar",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0184-R001",
+      "paper_id": "CBM0184",
+      "mixture_id": "CBM0184-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0184_E001",
+        "CBM0184_E002",
+        "CBM0184_E003",
+        "CBM0184_E004"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0184-FIG001",
+      "paper_id": "CBM0184",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0184-FIG002",
+      "paper_id": "CBM0184",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0184-FIG003",
+      "paper_id": "CBM0184",
+      "page": 8,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0184-FIG004",
+      "paper_id": "CBM0184",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0184_E001",
+      "paper_id": "CBM0184",
+      "source_modality": "figure/text",
+      "page": 6,
+      "source_location": "candidate figure page 6",
+      "evidence_text": "iary activators than in Ca(OH) 2-activated GGBS without auxiliary activators and at water curing than at air-dried curing. In addition, the compressive strength of Ca(OH) 2-activated GGBS without auxiliary activators decreased at 91 days compared with 28-day strength. Thus, the growth and density of hydration prod- ucts were consistent with the strength results. The hydration products that were found easily in the SEM images were CSH gels and C 2ASH8 hydrates coagulated around the GGBS particles [10]. The molar Si/Ca ratio in the CSH gels gen- erally increased with the increase of hydration time, showing a higher Si/Ca ratio in water curing than in air",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0184_E002",
+      "paper_id": "CBM0184",
+      "source_modality": "figure/text",
+      "page": 7,
+      "source_location": "candidate figure page 7",
+      "evidence_text": "increases [6]. The CSH gels with a higher Si/Ca ratio seem to be favorable for enhancing the strength devel- opment of AA GGBS [6,10]. 4.3. Compressive strength at 28 days The effect of the W/B ratio and S/B ratio on the 28-day compres- sive strength (f 0 c ) of AA GGBS mortars tested is shown in Fig. 7. Sim- ilarly to the case of OPC concrete, f 0 c of Ca(OH) 2-based GGBS mortars decreased with the increase of W/B ratio, showing a simi- lar decreasing rate regardless of the type of auxiliary activators and curing condition. At the same W/B ratio, Ca(OH)2 and Na2SiO3-acti- vated GGBS mortars developed a higher f 0 c than Ca(OH) 2 and Na2CO3-activated G",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0184_E003",
+      "paper_id": "CBM0184",
+      "source_modality": "figure/text",
+      "page": 8,
+      "source_location": "candidate figure page 8",
+      "evidence_text": "4.4. Compressive strength development The compressive strength of air-cured pastes activated by the single Ca(OH)2 reduced after 56 days by an average of 15% of their own 28-day strength, whereas that of the Ca(OH) 2-based activated pastes with the auxiliary activators improved at a long-term age, as given in Table 2 . A valid addition of auxiliary activators can stabi- lize the hydration reactivity of Ca(OH) 2-activated GGBS pastes at a long-term age [6,10]. This results in improving the intensities of hydration produc",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0184_E004",
+      "paper_id": "CBM0184",
+      "source_modality": "figure/text",
+      "page": 9,
+      "source_location": "candidate figure page 9",
+      "evidence_text": "OPC concrete. On the other hand, the values for A1 and B1 are minimally affected by the S/B ratio, as given in Table 4 . 5. Predictions of compressive strength development 5.1. Simple equations For a further development for precast products and/or mixing design of Ca(OH) 2-based AA GGBS concrete, simple equations to predict f 0 c and the two parameters A1 and B1 in Eq. (1) were pro- posed based on nonlinear multiple regression (NLMR) analysis of test data. In establishing the basic models, empirical equations [16] Na ion-based AA GGBS mortars to predict the values for A1 and B1 and 28-day strength in Eq. (1) were expanded. Each variable considered was",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0184-REV001",
+      "paper_id": "CBM0184",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0184-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

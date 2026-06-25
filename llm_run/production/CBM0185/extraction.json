@@ -1,0 +1,89 @@
+{
+  "paper": {
+    "paper_id": "CBM0185",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.11.002.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.11.002",
+    "title": "Behavior of corrosion damaged circular reinforced concrete columns under cyclic loading",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "reinforced concrete column companion cubes",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0185-R001",
+      "paper_id": "CBM0185",
+      "mixture_id": "CBM0185-COLUMN_CONCRETE",
+      "mixture_original_id": "column concrete",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": 32.4,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0185-COND001",
+      "testing_condition_id": "CBM0185-COND001",
+      "evidence_ids": [
+        "CBM0185_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": "Concrete material strength for RC column specimens."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0185-COND001",
+      "paper_id": "CBM0185",
+      "condition_type": "testing",
+      "applies_to": "reinforced concrete column companion cubes",
+      "specimen_type": "cube",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "",
+      "demould_time_days": null,
+      "test_age_days": 28,
+      "test_method": "",
+      "test_standard": "",
+      "specimen_geometry": "150 mm x 150 mm x 150 mm cubes",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0185_E001"
+      ],
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0185_E001",
+      "paper_id": "CBM0185",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "Section 2.1 Specimen details",
+      "evidence_text": "gth of 820 mm and an span-to-depth ratio ( L/D) of 3.15. Six 150 mm /C2 150 mm /C2 150 mm cubes were cast along with the specimens, and the 28-day mean cube compressive strength was 32.4 MPa. Six 16 mm diame- ter steel bars were used as longitudinal reinforcement, and 8 mm diameter steel bars with a spacing of 100 mm were used as stirrups. For the steel reinforcement, tensile tests were carried out and it was determined that for the 16 mm and 8 mm bars, the yield strength f y were 373.2 MPa and 327 MPa, respectively, and the tensile strength fu were 572.3 MPa and 510.7 MPa, respectively. The controlled variables for this study were corrosion level and",
+      "supports": "28-day mean cube compressive strength of companion cubes was 32.4 MPa",
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.94,
+    "direct_insert_count": 1,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

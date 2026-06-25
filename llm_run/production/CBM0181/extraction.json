@@ -1,0 +1,30 @@
+{
+  "paper": {
+    "paper_id": "CBM0181",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.10.054.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.10.054",
+    "title": "Earth construction: Lessons from the past for future eco-efficient construction",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "earth construction review",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "packet contains no original cement/concrete compressive-strength data suitable for extraction"
+    ]
+  }
+}

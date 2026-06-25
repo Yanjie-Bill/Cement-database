@@ -1,0 +1,421 @@
+{
+  "paper": {
+    "paper_id": "CBM0172",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.09.014.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.09.014",
+    "title": "Blast-resistant characteristics of ultra-high strength concrete and reactive powder concrete",
+    "authors": "Na-Hyun Yi; Jang-Ho Jay Kim; Tong-Seok Han; Yun-Gu Cho; Jang Hwa Lee",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "normal strength concrete, ultra-high strength concrete, and reactive powder concrete",
+    "annotation_status": "extracted_explicit_text_values_partial_review_age",
+    "notes": ""
+  },
+  "mixture_components": [
+    {
+      "component_id": "CBM0172_M001",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "Water",
+      "component_standard": "water",
+      "category": "mix_water",
+      "role_in_mix": "mix_water",
+      "amount": 163,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0172_M002",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "Cement",
+      "component_standard": "cement",
+      "category": "binder",
+      "role_in_mix": "binder",
+      "amount": 294,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0172_M003",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "Fly-ash",
+      "component_standard": "fly ash",
+      "category": "supplementary_cementitious_material",
+      "role_in_mix": "supplementary_cementitious_material",
+      "amount": 33,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0172_M004",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "S1 fine aggregate",
+      "component_standard": "fine aggregate S1",
+      "category": "fine_aggregate",
+      "role_in_mix": "fine_aggregate",
+      "amount": 616,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0172_M005",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "S2 fine aggregate",
+      "component_standard": "fine aggregate S2",
+      "category": "fine_aggregate",
+      "role_in_mix": "fine_aggregate",
+      "amount": 264,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0172_M006",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "Coarse aggregate",
+      "component_standard": "coarse aggregate",
+      "category": "coarse_aggregate",
+      "role_in_mix": "coarse_aggregate",
+      "amount": 957,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0172_M007",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "mixture_description": "NSC",
+      "component_original": "AE admixture",
+      "component_standard": "air entraining admixture",
+      "category": "admixture",
+      "role_in_mix": "admixture",
+      "amount": 2.45,
+      "unit": "kg/m3",
+      "basis": "reported mix proportion",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0172_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    }
+  ],
+  "strength_results": [
+    {
+      "result_id": "CBM0172_S001",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_001",
+      "mixture_original_id": "NSC",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": 25.6,
+      "final_value": 25.6,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0172_C001",
+      "testing_condition_id": "CBM0172_C001",
+      "evidence_ids": [
+        "CBM0172_E002"
+      ],
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": "Explicit text value; age/curing condition not reported in packet, so linked to review."
+    },
+    {
+      "result_id": "CBM0172_S002",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_002",
+      "mixture_original_id": "UHSC",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": 202.1,
+      "final_value": 202.1,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0172_C001",
+      "testing_condition_id": "CBM0172_C001",
+      "evidence_ids": [
+        "CBM0172_E002"
+      ],
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": "Explicit text value; age/curing condition not reported in packet, so linked to review."
+    },
+    {
+      "result_id": "CBM0172_S003",
+      "paper_id": "CBM0172",
+      "mixture_id": "CBM0172_003",
+      "mixture_original_id": "RPC",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": 202.9,
+      "final_value": 202.9,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0172_C001",
+      "testing_condition_id": "CBM0172_C001",
+      "evidence_ids": [
+        "CBM0172_E002"
+      ],
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": "Explicit text value; age/curing condition not reported in packet, so linked to review."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0172_C001",
+      "paper_id": "CBM0172",
+      "condition_type": "curing/testing",
+      "applies_to": "NSC, UHSC, RPC",
+      "specimen_type": "100 x 200 mm cylinders",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "not reported in packet",
+      "demould_time_days": null,
+      "test_age_days": null,
+      "test_method": "compressive strength",
+      "test_standard": "KS F 2405 (2005)",
+      "specimen_geometry": "100 x 200 mm cylinder",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0172_E002"
+      ],
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": "Specimen age/curing condition not provided in selected packet text."
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "CBM0172_F001",
+      "paper_id": "CBM0172",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0172_F002",
+      "paper_id": "CBM0172",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0172_F003",
+      "paper_id": "CBM0172",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0172_F004",
+      "paper_id": "CBM0172",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0172_F005",
+      "paper_id": "CBM0172",
+      "page": 13,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0172_F006",
+      "paper_id": "CBM0172",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0172_E001",
+      "paper_id": "CBM0172",
+      "source_modality": "table",
+      "page": 2,
+      "source_location": "page 2 Tables 1-3",
+      "evidence_text": "Tables 1-3 report mix proportion designs for NSC, UHSC, and RPC. NSC target strength 24 MPa with water 163 kg, cement 294 kg, fly ash 33 kg, fine aggregates S1 616 kg and S2 264 kg, coarse aggregate 957 kg, AE admixture 2.45 kg. UHSC and RPC mix designs are reported as design limits/ranges.",
+      "supports": "mixture design context",
+      "confidence": 0.9,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0172_E002",
+      "paper_id": "CBM0172",
+      "source_modality": "text",
+      "page": 4,
+      "source_location": "page 4 section 3.2",
+      "evidence_text": "Compressive strength tests were carried out on 100 x 200 mm cylindrical specimens according to KS F 2405 (2005). The average compressive strengths of the NSC, UHSC, and RPC specimens were 25.6, 202.1, and 202.9 MPa, respectively, as shown in Fig. 3.",
+      "supports": "explicit compressive-strength values and test method",
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0172_R001",
+      "paper_id": "CBM0172",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0172_S001",
+        "CBM0172_S002",
+        "CBM0172_S003"
+      ],
+      "priority": "medium",
+      "question": "Confirm test age and curing condition for NSC/UHSC/RPC compressive strengths.",
+      "suggested_action": "Inspect full methods or source PDF before treating as direct insert.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.86,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Compressive-strength values are explicit, but age and curing condition are not included in the supplied packet."
+    ]
+  }
+}

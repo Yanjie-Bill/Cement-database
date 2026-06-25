@@ -1,0 +1,122 @@
+{
+  "paper": {
+    "paper_id": "CBM0163",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.08.034.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.08.034",
+    "title": "Preparation of autoclaved aerated concrete using copper tailings and blast furnace slag",
+    "authors": "Xiao-yan Huang; Wen Ni; Wei-hua Cui; Zhong-jie Wang; Li-ping Zhu",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "autoclaved aerated concrete using copper tailings and blast furnace slag",
+    "annotation_status": "review_required_figure_or_table_not_machine_readable",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0163_S001",
+      "paper_id": "CBM0163",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0163_E001"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Candidate compressive-strength data are not directly machine-readable from the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0163_F001",
+      "paper_id": "CBM0163",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0163_F002",
+      "paper_id": "CBM0163",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0163_F003",
+      "paper_id": "CBM0163",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0163_E001",
+      "paper_id": "CBM0163",
+      "source_modality": "figure",
+      "page": 1,
+      "source_location": "selected packet text/figure flags",
+      "evidence_text": "amount of copper tailings are stockpiled in China, the utilization of skarn-type copper tailings to prepare autoclaved aerated concrete (AAC) was studied. The AAC samples were prepared on a laboratory scale with a dry density of 610.2 kg m /C03 and compressive strength of 4.0 MPa. Compared with the traditional AAC, lime was totally substituted by skarn-type copper tailings and blast furnace slag in order to develop a potential technique of reducing CO 2 emission during the AAC production process. The samples of different curing stage were examined by XRD, FESEM as well as 29Si and 27Al NMR analyses. Results show that the main minerals in the AAC product are tobermorite-11 Å, anhydrite, augite, quartz, calcite and dolomite, with small amount of other minerals brought in by the copper tailings. It was also suggested that most minerals in the copper tailings participated in the hydra- tion reaction during the procuring process, and the chemical elements in them got into the structure of platy tobermorite in the subsequent autoclaving process. /C2112011 Els",
+      "supports": "figure-only or non-machine-readable compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0163_R001",
+      "paper_id": "CBM0163",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0163_S001"
+      ],
+      "priority": "high",
+      "question": "Digitize or inspect the full paper figures/tables to recover compressive-strength values, mixture labels, ages, and units.",
+      "suggested_action": "Human digitization/full-text table extraction required before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Candidate compressive-strength values are in figures or unparsed tables; no reliable numeric values can be inserted directly."
+    ]
+  }
+}

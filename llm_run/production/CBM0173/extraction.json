@@ -1,0 +1,246 @@
+{
+  "paper": {
+    "paper_id": "CBM0173",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.09.022.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.09.022",
+    "title": "Micromechanical modeling on autogenous and drying shrinkages of concrete",
+    "authors": "Jun Zhang; Dongwei Hou; Yudong Han",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "C30, C50, and C80 concrete shrinkage specimens",
+    "annotation_status": "extracted_exact_table_values",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0173_S001",
+      "paper_id": "CBM0173",
+      "mixture_id": "CBM0173_001",
+      "mixture_original_id": "C30",
+      "property": "compressive_strength",
+      "age_days": 7,
+      "unit": "MPa",
+      "table_value": 24.2,
+      "recommended_value": 24.2,
+      "final_value": 24.2,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0173_C001",
+      "testing_condition_id": "CBM0173_C001",
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": "Exact value from Table 3."
+    },
+    {
+      "result_id": "CBM0173_S002",
+      "paper_id": "CBM0173",
+      "mixture_id": "CBM0173_001",
+      "mixture_original_id": "C30",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 34.1,
+      "recommended_value": 34.1,
+      "final_value": 34.1,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0173_C001",
+      "testing_condition_id": "CBM0173_C001",
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": "Exact value from Table 3."
+    },
+    {
+      "result_id": "CBM0173_S003",
+      "paper_id": "CBM0173",
+      "mixture_id": "CBM0173_002",
+      "mixture_original_id": "C50",
+      "property": "compressive_strength",
+      "age_days": 7,
+      "unit": "MPa",
+      "table_value": 34.0,
+      "recommended_value": 34.0,
+      "final_value": 34.0,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0173_C001",
+      "testing_condition_id": "CBM0173_C001",
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": "Exact value from Table 3."
+    },
+    {
+      "result_id": "CBM0173_S004",
+      "paper_id": "CBM0173",
+      "mixture_id": "CBM0173_002",
+      "mixture_original_id": "C50",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 50.8,
+      "recommended_value": 50.8,
+      "final_value": 50.8,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0173_C001",
+      "testing_condition_id": "CBM0173_C001",
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": "Exact value from Table 3."
+    },
+    {
+      "result_id": "CBM0173_S005",
+      "paper_id": "CBM0173",
+      "mixture_id": "CBM0173_003",
+      "mixture_original_id": "C80",
+      "property": "compressive_strength",
+      "age_days": 7,
+      "unit": "MPa",
+      "table_value": 67.1,
+      "recommended_value": 67.1,
+      "final_value": 67.1,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0173_C001",
+      "testing_condition_id": "CBM0173_C001",
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": "Exact value from Table 3."
+    },
+    {
+      "result_id": "CBM0173_S006",
+      "paper_id": "CBM0173",
+      "mixture_id": "CBM0173_003",
+      "mixture_original_id": "C80",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": 88.7,
+      "recommended_value": 88.7,
+      "final_value": 88.7,
+      "value_status": "exact_table_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0173_C001",
+      "testing_condition_id": "CBM0173_C001",
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.96,
+      "human_decision": "",
+      "notes": "Exact value from Table 3."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0173_C001",
+      "paper_id": "CBM0173",
+      "condition_type": "curing/testing",
+      "applies_to": "C30, C50, C80",
+      "specimen_type": "concrete specimens",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "plastic sealing and drying conditions are study variables; strength table age only",
+      "demould_time_days": null,
+      "test_age_days": null,
+      "test_method": "compressive strength",
+      "test_standard": "",
+      "specimen_geometry": "",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0173_E001"
+      ],
+      "confidence": 0.82,
+      "human_decision": "",
+      "notes": "Packet does not provide specimen geometry for compressive-strength test."
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "CBM0173_F001",
+      "paper_id": "CBM0173",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0173_F002",
+      "paper_id": "CBM0173",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0173_F003",
+      "paper_id": "CBM0173",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0173_E001",
+      "paper_id": "CBM0173",
+      "source_modality": "table",
+      "page": 7,
+      "source_location": "page 7 Table 3",
+      "evidence_text": "Table 3 Compressive strength of the three series of concretes, MPa. C30: 7 days 24.2, 28 days 34.1; C50: 7 days 34.0, 28 days 50.8; C80: 7 days 67.1, 28 days 88.7.",
+      "supports": "exact Table 3 compressive-strength values",
+      "confidence": 0.98,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.94,
+    "direct_insert_count": 6,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "Mix proportions are not available in the selected packet text."
+    ]
+  }
+}

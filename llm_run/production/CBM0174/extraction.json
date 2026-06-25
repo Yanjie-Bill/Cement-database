@@ -1,0 +1,109 @@
+{
+  "paper": {
+    "paper_id": "CBM0174",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.10.011.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.10.011",
+    "title": "Use of waste marble powder in brick industry",
+    "authors": "N. Bilgin; H.A. Yeprem; S. Arslan; A. Bilgin; E. Gunay; M. Marsoglu",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "waste marble powder brick compositions",
+    "annotation_status": "review_required_figure_or_table_not_machine_readable",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0174_S001",
+      "paper_id": "CBM0174",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0174_E001"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Candidate compressive-strength data are not directly machine-readable from the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0174_F001",
+      "paper_id": "CBM0174",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    },
+    {
+      "figure_id": "CBM0174_F002",
+      "paper_id": "CBM0174",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0174_E001",
+      "paper_id": "CBM0174",
+      "source_modality": "figure",
+      "page": 2,
+      "source_location": "selected packet text/figure flags",
+      "evidence_text": "egates in light to medium trafﬁcked asphalt pavement bin- der layers [2]. Binici et al. [8] investigated some mechanical properties of con- crete containing marble dusts and limestone dusts. The test results showed that there were clear increases of compressive strength, abrasion resistance, and sodium sulfate resistance with the increasing amount of marble dust. Furthermore, the use of marble and granite waste aggregates for production of concrete were investigated and it is determined that they could be used to im- prove the mechanical properties, workability and chemical resis- tance of the conventional concrete mixtures [8] and [9]. Waste marble powder which is limestone originated waste material also causes a serious environmental problem. The Iscehi- sar–Afyonkarahisar region has 24 marble quarries and 400 marble processing plants for sawing and polishing of marble blocks [11]. These plants generate huge amount of artiﬁcial hills and cause environmental pollution. It is targeted to use them as construc- tional materials such as bricks in this study",
+      "supports": "figure-only or non-machine-readable compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0174_R001",
+      "paper_id": "CBM0174",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0174_S001"
+      ],
+      "priority": "high",
+      "question": "Digitize or inspect the full paper figures/tables to recover compressive-strength values, mixture labels, ages, and units.",
+      "suggested_action": "Human digitization/full-text table extraction required before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Candidate compressive-strength values are in figures or unparsed tables; no reliable numeric values can be inserted directly."
+    ]
+  }
+}

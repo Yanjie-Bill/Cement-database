@@ -1,0 +1,122 @@
+{
+  "paper": {
+    "paper_id": "CBM0183",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.10.061.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.10.061",
+    "title": "Strength and durability of recycled aggregate concrete containing milled glass as partial replacement for cement",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "recycled aggregate concrete with milled waste glass",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0183-R001",
+      "paper_id": "CBM0183",
+      "mixture_id": "CBM0183-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0183_E001",
+        "CBM0183_E002"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0183-FIG001",
+      "paper_id": "CBM0183",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0183-FIG002",
+      "paper_id": "CBM0183",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0183_E001",
+      "paper_id": "CBM0183",
+      "source_modality": "figure/text",
+      "page": 4,
+      "source_location": "candidate figure page 4",
+      "evidence_text": "f Portland cement could be cause in this case. No appreciable effect of milled waste glass on air con- tent of the mixes was observed. 3.2. Compressive strength Fig. 4 shows the compressive strength test results at 14 and 56 days of age for low w/cm ratio mixes produced with 100% virgin and various percentages of recycled aggregate replacing virgin aggregates, with and without milled waste glass. Fig. 5 shows the compressive strength test results of the corresponding high w/cm ratio mixes. Among the low w/cm ratio mixes, the compressive strengths of concrete mixes with milled waste glass used as partial replacement for cement were lower than those of t",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0183_E002",
+      "paper_id": "CBM0183",
+      "source_modality": "figure/text",
+      "page": 5,
+      "source_location": "candidate figure page 5",
+      "evidence_text": "w/cm ratio concrete mixes. Flexural strength test results of the low and high w/cm ratio con- crete mixes follow trends similar to those of compressive strength test results. In the case of low w/cm ratio concrete mixes, the ﬂex- ural strengths with milled waste glass at 14 days of age are lower than those without milled waste glass. At 56 days of age, however, the use of milled waste glass as partial replacement for cement in- creases the ﬂexural strength of concrete. An 11% (comparison of M2 and M3 mixes) and 14% (comparison of M4 and M5 mixes) in- crease is observed in 56 days ﬂexural strength. The ﬂexural strength of high w/cm ratio concrete materi",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0183-REV001",
+      "paper_id": "CBM0183",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0183-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "paper": {
+    "paper_id": "CBM0170",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.08.086.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.08.086",
+    "title": "A review: Self-healing in cementitious materials and engineered cementitious composite as a self-healing material",
+    "authors": "Min Wu; Bjorn Johannesson; Mette Geiker",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "review of self-healing cementitious materials and ECC",
+    "annotation_status": "no_direct_compressive_strength_values",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0170_F001",
+      "paper_id": "CBM0170",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0170_E001",
+      "paper_id": "CBM0170",
+      "source_modality": "text",
+      "page": 7,
+      "source_location": "selected packet text",
+      "evidence_text": "ion of external chemicals or functional materials, like the embedded healing agent (different kinds of resin) and the shape memory materials. Combined use of more than one single method is also found [62]. About the healing agent and all the methods reviewed in this study, a summary can be discussed as follows. 3.1. Healing agent An ideal self-healing system is suppose",
+      "supports": "strength-related but not mixture-level compressive-strength database values",
+      "confidence": 0.78,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0170_R001",
+      "paper_id": "CBM0170",
+      "target_sheet": "paper",
+      "target_record_ids": [],
+      "priority": "low",
+      "question": "Paper contains strength-related discussion but no directly insertable mixture-level compressive-strength values in the packet.",
+      "suggested_action": "No insertion unless a human identifies primary compressive-strength records in the full paper.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.72,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Packet does not provide target compressive-strength records; strength mentions are review/background or non-target properties."
+    ]
+  }
+}

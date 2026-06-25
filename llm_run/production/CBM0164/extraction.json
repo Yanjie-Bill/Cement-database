@@ -1,0 +1,96 @@
+{
+  "paper": {
+    "paper_id": "CBM0164",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.08.044.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.08.044",
+    "title": "Mechanical behaviour and fibre dispersion of hybrid steel fibre reinforced self-compacting concrete",
+    "authors": "Burcu Akcay; Mehmet Ali Tasdemir",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "hybrid steel fibre reinforced self-compacting concrete",
+    "annotation_status": "review_required_figure_or_table_not_machine_readable",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0164_S001",
+      "paper_id": "CBM0164",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0164_E001"
+      ],
+      "confidence": 0.58,
+      "human_decision": "",
+      "notes": "Candidate compressive-strength data are not directly machine-readable from the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0164_F001",
+      "paper_id": "CBM0164",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0164_E001",
+      "paper_id": "CBM0164",
+      "source_modality": "figure",
+      "page": 2,
+      "source_location": "selected packet text/figure flags",
+      "evidence_text": "ica fume: water: natural sand (0.25–1 mm): crushed stone (0.5–8 mm): coarse aggregate (4– 16 mm) = 1: 0.15: 0.22: 0.61: 0.52: 0.93. Three different steel ﬁbres with and with- out hooked-ends were added. The properties of the steel ﬁbres are given in Table 1. Two different total volume fractions of ﬁbres, 0.75 and 1.5%, were selected. Par- tial replacement of aggregate by steel ﬁbre was based on one-to-one volume basis. The concrete mixtures were designated using the following codes: REF = plain self- compacting concrete, C0.75N = concrete with 0.5% HSS + 0.25% NSH; C0.75H = con- crete with 0.5% HSS + 0.25% HSH; C1.5N = concrete with 1.0% HSS + 0.5% NSH; C1.5H = concrete with 1.0% HSS + 0.5% HSH ( Table 2 ). 2.2. Specimen preparation In mixing, cement and silica fume were blended ﬁrst in dry condition. Then, the aggregate were added and they were mixed together. Halves of the HRWRA and the water were mixed in a pan and added into the mixture. The remaining halves of the HRWRA and the water were added into the mixture gradually to provide homo",
+      "supports": "figure-only or non-machine-readable compressive-strength candidate",
+      "confidence": 0.72,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0164_R001",
+      "paper_id": "CBM0164",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0164_S001"
+      ],
+      "priority": "high",
+      "question": "Digitize or inspect the full paper figures/tables to recover compressive-strength values, mixture labels, ages, and units.",
+      "suggested_action": "Human digitization/full-text table extraction required before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Candidate compressive-strength values are in figures or unparsed tables; no reliable numeric values can be inserted directly."
+    ]
+  }
+}

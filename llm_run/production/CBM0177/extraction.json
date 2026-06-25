@@ -1,0 +1,148 @@
+{
+  "paper": {
+    "paper_id": "CBM0177",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.10.047.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.10.047",
+    "title": "Effect of nano-TiO2 on the mechanical properties of cement mortar",
+    "authors": "",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "nano-TiO2 cement mortar",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0177-R001",
+      "paper_id": "CBM0177",
+      "mixture_id": "CBM0177-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0177_E001",
+        "CBM0177_E002",
+        "CBM0177_E003"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0177-FIG001",
+      "paper_id": "CBM0177",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0177-FIG002",
+      "paper_id": "CBM0177",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0177-FIG003",
+      "paper_id": "CBM0177",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0177_E001",
+      "paper_id": "CBM0177",
+      "source_modality": "figure/text",
+      "page": 2,
+      "source_location": "candidate figure page 2",
+      "evidence_text": "T 2419-2005 [14]. Fig. 3 showed the results of ﬂuidity test of different ce- ment mortar. 2.2.2. Mechanical properties test The bending and compressive strength tests of cement mortar were conducted according to GB/T 17671-1999 [15]. Figs. 4 and 5 showed the bending and compres- sive strength of different cement mortar respectively. 2.2.3. Orientation index of CH crystal Hussin and Poole [16] used XRD spectrum to analyze the orientation index of CH crystal. The diffraction angle 2 h of (1 0 1) crystal plane of CH crystal was 34.0 /C176 and that of (0 0 1) crystal plane was 18.1 /C176. If the (1 0 1) crystal plane was used as reference plane, the orient",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0177_E002",
+      "paper_id": "CBM0177",
+      "source_modality": "figure/text",
+      "page": 3,
+      "source_location": "candidate figure page 3",
+      "evidence_text": "1 day. J P5 P10 P5K10 P10K10 0 10 20 30 40 50 60 1d 3d 7d 28d Ages (d) 1d 3d 7d 28d Com pr essive stren gt h( M Pa) Specimennumber Fig. 5. Compressive strength of cement mortar (MPa). (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.) P10K10P5K10 P10 P5 J 1.0 1.5 2.0 2.5 3.0 3.5 4.0 1d 3d 7d 28d Ages (d) Orientation In dex Specimen number Fig. 6. Orientation index of CH crystal. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.) 80 90 100 110 120 130 140 150 160 170 30 40 50 60 70 80 90 100 110 Rel",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0177_E003",
+      "paper_id": "CBM0177",
+      "source_modality": "figure/text",
+      "page": 4,
+      "source_location": "candidate figure page 4",
+      "evidence_text": "indicated that the early strength increased and the evening strength decreased with the increasing content of nano-TiO 2. For example, the compressive strength of cement mortar at 1 day increased by 46% or 47% and the compressive strength at 28 day decreased by 6% or 9% when 5% or 10% ce- ment was substituted by nano-TiO 2. The strength of specimen P5 at 1 day was almost the same as that of specimen P10, but the ﬂuidity and strength of specimen P5 at 28 day were much better. That meant too much substitution content of nano-TiO 2 was not necessary. In order to enhance the ﬂuidity and the evening strength, superplasticizer and slag powder were added int",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0177-REV001",
+      "paper_id": "CBM0177",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0177-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

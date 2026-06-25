@@ -1,0 +1,271 @@
+{
+  "paper": {
+    "paper_id": "CBM0192",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.12.007.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.12.007",
+    "title": "Engineering and transport properties of high-strength green concrete containing high volume of ultrafine palm oil fuel ash",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "high-strength POFA concrete",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [
+    {
+      "component_id": "CBM0192-MC001",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-OPC",
+      "mixture_original_id": "OPC",
+      "mixture_description": "OPC high-strength green concrete",
+      "component_original": "OPC",
+      "component_standard": "ordinary Portland cement",
+      "category": "binder",
+      "role_in_mix": "primary binder",
+      "amount": 0,
+      "unit": "%",
+      "basis": "replacement level named in mixture ID/text",
+      "replacement_target": "",
+      "replacement_pct": null,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0192_E002"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0192-MC002",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-POFA20",
+      "mixture_original_id": "POFA20",
+      "mixture_description": "POFA20 high-strength green concrete",
+      "component_original": "ultrafine POFA",
+      "component_standard": "ultrafine palm oil fuel ash",
+      "category": "supplementary cementitious material",
+      "role_in_mix": "cement replacement",
+      "amount": 20,
+      "unit": "%",
+      "basis": "replacement level named in mixture ID/text",
+      "replacement_target": "cement",
+      "replacement_pct": 20,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0192_E002"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0192-MC003",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-POFA40",
+      "mixture_original_id": "POFA40",
+      "mixture_description": "POFA40 high-strength green concrete",
+      "component_original": "ultrafine POFA",
+      "component_standard": "ultrafine palm oil fuel ash",
+      "category": "supplementary cementitious material",
+      "role_in_mix": "cement replacement",
+      "amount": 40,
+      "unit": "%",
+      "basis": "replacement level named in mixture ID/text",
+      "replacement_target": "cement",
+      "replacement_pct": 40,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0192_E002"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    },
+    {
+      "component_id": "CBM0192-MC004",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-POFA60",
+      "mixture_original_id": "POFA60",
+      "mixture_description": "POFA60 high-strength green concrete",
+      "component_original": "ultrafine POFA",
+      "component_standard": "ultrafine palm oil fuel ash",
+      "category": "supplementary cementitious material",
+      "role_in_mix": "cement replacement",
+      "amount": 60,
+      "unit": "%",
+      "basis": "replacement level named in mixture ID/text",
+      "replacement_target": "cement",
+      "replacement_pct": 60,
+      "reported_w_c_ratio": null,
+      "reported_w_p_ratio": null,
+      "evidence_ids": [
+        "CBM0192_E002"
+      ],
+      "confidence": 0.86,
+      "human_decision": "",
+      "corrected_amount": null,
+      "notes": ""
+    }
+  ],
+  "strength_results": [
+    {
+      "result_id": "CBM0192-R001",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-OPC",
+      "mixture_original_id": "OPC",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": 91.4,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0192-COND001",
+      "testing_condition_id": "CBM0192-COND001",
+      "evidence_ids": [
+        "CBM0192_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0192-R002",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-POFA20",
+      "mixture_original_id": "POFA20",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": 98.3,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0192-COND001",
+      "testing_condition_id": "CBM0192-COND001",
+      "evidence_ids": [
+        "CBM0192_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0192-R003",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-POFA40",
+      "mixture_original_id": "POFA40",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": 104.2,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0192-COND001",
+      "testing_condition_id": "CBM0192-COND001",
+      "evidence_ids": [
+        "CBM0192_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "result_id": "CBM0192-R004",
+      "paper_id": "CBM0192",
+      "mixture_id": "CBM0192-POFA60",
+      "mixture_original_id": "POFA60",
+      "property": "compressive_strength",
+      "age_days": 28,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": 98.1,
+      "value_status": "explicit_text_value",
+      "is_approximate": false,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "CBM0192-COND001",
+      "testing_condition_id": "CBM0192-COND001",
+      "evidence_ids": [
+        "CBM0192_E001"
+      ],
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "CBM0192-COND001",
+      "paper_id": "CBM0192",
+      "condition_type": "curing/testing",
+      "applies_to": "all HSGC mixtures",
+      "specimen_type": "",
+      "temperature_c": null,
+      "rh_pct": null,
+      "curing_method": "water curing",
+      "demould_time_days": null,
+      "test_age_days": 28,
+      "test_method": "",
+      "test_standard": "",
+      "specimen_geometry": "",
+      "exposure_solution": "",
+      "exposure_duration_days": null,
+      "evidence_ids": [
+        "CBM0192_E001"
+      ],
+      "confidence": 0.82,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0192_E001",
+      "paper_id": "CBM0192",
+      "source_modality": "text",
+      "page": 5,
+      "source_location": "Section on compressive strength",
+      "evidence_text": ", respectively. Subsequently, with prolonged water curing period of 28 days, the POFA–HSGCs exhibit greater strength than the OPC concrete, with strength value of 91.4, 98.3, 104.2, and 98.1 MPa for OPC, POFA20, POFA40 and POFA60, respec- tively with the POFA40 exhibiting the highest 28 days strength. Hence, all of the POFA–HSGC mixes achieve greater strength than the OPC concrete at 28 days, with an increase of 7.5%, 14% and 7.3% for POFA20, POFA40 and POFA60, respectively. This could be attributed to the pozzolanic reaction between the POFA and Ca(OH)2, to produce secondary calcium–silicate–hydrate (C–S–H), densifying the concrete microstructure, res",
+      "supports": "28-day strengths of OPC, POFA20, POFA40, and POFA60 are stated as 91.4, 98.3, 104.2, and 98.1 MPa",
+      "confidence": 0.94,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0192_E002",
+      "paper_id": "CBM0192",
+      "source_modality": "text",
+      "page": 2,
+      "source_location": "Materials and mix description",
+      "evidence_text": "grinding, and investigating the inﬂuence of the ultraﬁne POFA on the engineering and transport properties of HSGC containing high volume of the ultraﬁne POFA. It is part of an on-going research dealing with properties and performance of HSGC containing high volume of ultraﬁne POFA, whereby up to 60% of POFA is utilized in the concrete. 2. Materials The materials used in this study for producing the HSGCs are described in the following subsection. Explanation on the treatment processes undertaken to obtain the ultra",
+      "supports": "OPC and ultrafine POFA binder materials; POFA replacement up to 60%",
+      "confidence": 0.88,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.94,
+    "direct_insert_count": 4,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": []
+  }
+}

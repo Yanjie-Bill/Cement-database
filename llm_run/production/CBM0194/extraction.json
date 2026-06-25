@@ -1,0 +1,30 @@
+{
+  "paper": {
+    "paper_id": "CBM0194",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.12.017.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.12.017",
+    "title": "Durability of alkali-activated binders: A clear advantage over Portland cement or an unproven issue?",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "alkali-activated binder durability review",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.9,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "packet contains no original cement/concrete compressive-strength data suitable for extraction"
+    ]
+  }
+}

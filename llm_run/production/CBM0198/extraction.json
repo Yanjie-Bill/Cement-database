@@ -1,0 +1,148 @@
+{
+  "paper": {
+    "paper_id": "CBM0198",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.12.028.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.12.028",
+    "title": "Pervious high-calcium fly ash geopolymer concrete",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "pervious fly ash geopolymer concrete",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0198-R001",
+      "paper_id": "CBM0198",
+      "mixture_id": "CBM0198-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0198_E001",
+        "CBM0198_E002",
+        "CBM0198_E003"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0198-FIG001",
+      "paper_id": "CBM0198",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0198-FIG002",
+      "paper_id": "CBM0198",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0198-FIG003",
+      "paper_id": "CBM0198",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0198_E001",
+      "paper_id": "CBM0198",
+      "source_modality": "figure/text",
+      "page": 2,
+      "source_location": "candidate figure page 2",
+      "evidence_text": "cm 3) over time t (s), L is the length of specimen (cm), H is the water head (cm), A is the cross sectional area of specimen (cm 2). 2.3.2. Compressive strength and splitting tensile strength The compressive strength [23] and splitting tensile strength [24] were tested at the age of 7 days. Compression test cylinders were capped at both ends with a sul- fur capping compound. The reported strengths were the average of three results. 3. Results and discussion 3.1. Void content and water permeability The results of the void contents and water permeability coefﬁ- cients of PGC are summarized in Table 2. The void contents of PGC were relatively",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0198_E002",
+      "paper_id": "CBM0198",
+      "source_modality": "figure/text",
+      "page": 3,
+      "source_location": "candidate figure page 3",
+      "evidence_text": "5]. For normal Portland ce- ment pervious concrete, the permeability was found to increase exponentially with the void content [9,28]. 3.2. Compressive strength and splitting tensile strength Table 3 summarizes the density, compressive strength, and split- ting tensile strength of PGCs. Because of the high void content, the densities of PGC were quite low ranging from 1680 to 1820 kg/m 3 which were nearly 30% lower than that of the conventional concrete (about 2400 kg/m 3). The densities of these PGCs were, however, within the general densities of the normal Portland cement pervious concretes which were between 1600 and 1900 kg/m 3 [15,29,30]. The comp",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0198_E003",
+      "paper_id": "CBM0198",
+      "source_modality": "figure/text",
+      "page": 4,
+      "source_location": "candidate figure page 4",
+      "evidence_text": "As shown in Fig. 7 , the compressive strength of PGC increased slightly with an increase in the L/A ratio. At low L/A ratios of 0.35 and 0.40, the PGCs contained low liquid and were difﬁcult to com- pact. The PGCs with high void contents and low compressive strengths were thus obtained. For example, the compressive strengths of 5.4–9.3, 8.4–10.1, and 9.6–11.4 MPa were obtained for PGCs with L/A ratio of 0.35, 0.40, and 0.45, respectively. This was consistent with Sathonsaowaphak et al. [33] work which re- ported the increase in compressive",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0198-REV001",
+      "paper_id": "CBM0198",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0198-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

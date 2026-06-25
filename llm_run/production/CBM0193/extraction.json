@@ -1,0 +1,148 @@
+{
+  "paper": {
+    "paper_id": "CBM0193",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.12.011.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.12.011",
+    "title": "The strength and microstructure of two geopolymers derived from metakaolin and red mud-fly ash admixture: A comparative study",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "metakaolin and red mud-fly ash geopolymer",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0193-R001",
+      "paper_id": "CBM0193",
+      "mixture_id": "CBM0193-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0193_E001",
+        "CBM0193_E002",
+        "CBM0193_E003"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0193-FIG001",
+      "paper_id": "CBM0193",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0193-FIG002",
+      "paper_id": "CBM0193",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0193-FIG003",
+      "paper_id": "CBM0193",
+      "page": 11,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0193_E001",
+      "paper_id": "CBM0193",
+      "source_modality": "figure/text",
+      "page": 4,
+      "source_location": "candidate figure page 4",
+      "evidence_text": "also interesting to compare the stress–strain curves of each geopolymer at different curing durations. Clearly, for both geopoly- mers, the compressive strength and stiffness increase with curing duration, while the failure strain ( ef) decreases. With sufﬁcient time of curing (i.e., after complete curing), all of the aforemen- tioned parameters (i.e., rf, E, and ef) reach a nearly constant value. The slow rate of curing of the RM-GP is also clearly demonstrated in Fig. 2 . Their stress–strain curves indicate that the mechanical properties of the RM-GP is more time-dependent, and a longer cur- ing duration is required to develop its full strength or st",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0193_E002",
+      "paper_id": "CBM0193",
+      "source_modality": "figure/text",
+      "page": 5,
+      "source_location": "candidate figure page 5",
+      "evidence_text": "tion, and less reaction time (i.e., curing time). Xu and van Deventer [7] pointed out that, in order to synthesize a geopolymer with a high compressive strength, source materials with a high reactivity are usually required. In gen- eral, calcined materials possess higher reactivity, since most crys- talline phases in source materials collapse their structure and become amorphous after calcination at high temperatures [9,33]. The reactivity of the source materials is also affected by the particle size. Finer particles have a larger speciﬁc surface area (i.e., total surface area per unit mass) that promotes a faster reaction be- tween the solid particles",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0193_E003",
+      "paper_id": "CBM0193",
+      "source_modality": "figure/text",
+      "page": 11,
+      "source_location": "candidate figure page 11",
+      "evidence_text": "eristics of the two geopolymers, the following conclusions can be drawn. In general, for a given Si/Al ratio, the MK-GP exhibit much higher compressive strength and failure strain than the RM-GP, owing to the higher fraction of pure geopolymer binder and less micropores and microcracks in the MK-GP than in the RM-GP. Moreover, the for- mer takes much less time to achieve complete curing than the latter, which is attributed to the higher reactivity and ﬁner particle size of the calcined metakaolin than the non-calcined red mud. For the studied geopolymer samples, the MK-GP achieve a strength of 31 MPa, while the RM-GP have a strength of 13 MPa. The MK-G",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0193-REV001",
+      "paper_id": "CBM0193",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0193-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

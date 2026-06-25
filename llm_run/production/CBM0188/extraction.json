@@ -1,0 +1,148 @@
+{
+  "paper": {
+    "paper_id": "CBM0188",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.11.028.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.11.028",
+    "title": "Reduction in environmental problems using rice-husk ash in concrete",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "rice husk ash concrete",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0188-R001",
+      "paper_id": "CBM0188",
+      "mixture_id": "CBM0188-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0188_E001",
+        "CBM0188_E002",
+        "CBM0188_E003"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0188-FIG001",
+      "paper_id": "CBM0188",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0188-FIG002",
+      "paper_id": "CBM0188",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0188-FIG003",
+      "paper_id": "CBM0188",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0188_E001",
+      "paper_id": "CBM0188",
+      "source_modality": "figure/text",
+      "page": 3,
+      "source_location": "candidate figure page 3",
+      "evidence_text": "d products. The porous morphology seen in Fig. 3 could be attributed to the burning out of the organic compo- nent of in the RHA [22]. 3.4. Compressive strength Concrete Cylinders, 150 mm /C2300 mm in size (cement:sand:- coarse aggregates ratio = 1:2:4) were prepared using a W/B of 0.70 to achieve a workable concrete with a slump of 65 mm. When the OPC was partially replaced by RHA, the water demand increased for the same slump of 65 mm. Therefore, two types of concrete mixtures were prepared for a constant slump of 65 mm: one without SP at different W/B and the other with SP at a constant W/B. Cement for concrete cylinder specimens without SP, was rep",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0188_E002",
+      "paper_id": "CBM0188",
+      "source_modality": "figure/text",
+      "page": 4,
+      "source_location": "candidate figure page 4",
+      "evidence_text": "of RHAC concrete without any increase in water demand. Its (SP) dosage was 10 mL/kg of the RHA addition in the binder. Table 3 presents the compressive strengths of RHAC concrete containing 0%, 25% and 40% RHA as a replacement of OPC. Fig. 5 shows the percent strength loss at 7, 14 and 28 days of concrete cylinders. W/B was kept constant at 0.7 by using SP for the same slump of 65 mm. The test data revealed that: – The concrete mixture containing 25% RHA as a replacement of OPC, showed almost the same strength as the control concrete mixture containing 100% OPC at 7, 14 and 28 days. This is due to the use of SP and low W/B in RHAC concrete mixtures. It",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0188_E003",
+      "paper_id": "CBM0188",
+      "source_modality": "figure/text",
+      "page": 5,
+      "source_location": "candidate figure page 5",
+      "evidence_text": "RHA as a replacement of OPC were immersed in different solutions for 70 days separately. After 70 days the mortar specimens were tested for compressive strength. The results, shown in Fig. 8 are as follows: – The compressive strength of OPC mortars was lower than the mortars containing RHA as a replacement of cement. This may be due to the chemical reaction of cement with salt solutions. – The compressive strength of mortar with 25% cement replace- ment is greater than all the mortars with 30% and 40% cement replaced with RHA. These results are in agreement with the compressive strength and ﬂexural strength whereby RHAC con- crete containing 25% RHA as",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0188-REV001",
+      "paper_id": "CBM0188",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0188-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

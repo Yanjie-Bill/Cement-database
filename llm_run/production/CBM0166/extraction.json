@@ -1,0 +1,96 @@
+{
+  "paper": {
+    "paper_id": "CBM0166",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.08.064.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.08.064",
+    "title": "Kaolinitic calcined clays: Factors affecting its performance as pozzolans",
+    "authors": "Alejandra Tironi; Monica A. Trezza; Alberto N. Scian; Edgardo F. Irassar",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "Portland cement mortar with 30% calcined kaolinitic clay replacement",
+    "annotation_status": "review_required_table_values_not_captured",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0166_S001",
+      "paper_id": "CBM0166",
+      "mixture_id": "review_mixture",
+      "mixture_original_id": "30% calcined clay blended cement mortars",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "MPa",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "review_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0166_E001"
+      ],
+      "confidence": 0.62,
+      "human_decision": "",
+      "notes": "Table 3 contains compressive strengths at 7, 28, and 90 days, but numeric rows are not available in the packet."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0166_F001",
+      "paper_id": "CBM0166",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "page_image_flag",
+      "strength_relevance": "candidate compressive-strength data",
+      "image_path": "",
+      "extraction_status": "digitization_required",
+      "confidence": 0.6,
+      "human_decision": "",
+      "notes": "Packet flags this page as candidate figure/page; numeric values are not machine-readable in supplied text."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0166_E001",
+      "paper_id": "CBM0166",
+      "source_modality": "text",
+      "page": 5,
+      "source_location": "page 5 results/Table 3 discussion",
+      "evidence_text": "structure; before calcinations, it did not show the highest reactivity in both tests. A5-clay has the lowest content of kaolinite (16%), or- dered structure and high percentage of alkali impurities, consistent with its regular pozzolanic behavior. Results of compressive strength at 7, 28 and 90 days are sum- marized in Table 3 . For 30% replacement of PC with calcined clay, the blended cements with A2-clay have the highest compressive strength at all test ages. Compressive strength (SAI = 1.05) similar to that obtained by PC at 7 days occurs, being then higher than PC at 28 and 90 days. Regarding other clays, blended cements show lower strength than the corresponding to PC at 7 days of curing. Then, blended cement with A3-clay shows a higher strength than PC (SAI = 1.07 and 1.18 at 28 and 90 days, respectively). For A1 and A4-clays, blended cements present a similar development of strength with a SAI close to 1.00, while blended cement with A5- clay never attains the compressive strength of PC. The strength development in blended cement with calcined clays depends on PC hydration and",
+      "supports": "compressive-strength table exists but values not captured",
+      "confidence": 0.78,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0166_R001",
+      "paper_id": "CBM0166",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0166_S001"
+      ],
+      "priority": "high",
+      "question": "Extract Table 3 numeric compressive strengths for PC and A1-A5 calcined-clay blended mortars.",
+      "suggested_action": "Recover Table 3 from PDF/table parser before insertion.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.62,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "The packet text states that Table 3 has compressive-strength results, but the table values are not present."
+    ]
+  }
+}

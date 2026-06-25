@@ -1,0 +1,200 @@
+{
+  "paper": {
+    "paper_id": "CBM0197",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.12.024.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.12.024",
+    "title": "Evaluation of high-performance porous concrete properties",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "high-performance porous concrete",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0197-R001",
+      "paper_id": "CBM0197",
+      "mixture_id": "CBM0197-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0197_E001",
+        "CBM0197_E002",
+        "CBM0197_E003",
+        "CBM0197_E004",
+        "CBM0197_E005"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0197-FIG001",
+      "paper_id": "CBM0197",
+      "page": 2,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0197-FIG002",
+      "paper_id": "CBM0197",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0197-FIG003",
+      "paper_id": "CBM0197",
+      "page": 4,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0197-FIG004",
+      "paper_id": "CBM0197",
+      "page": 5,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0197-FIG005",
+      "paper_id": "CBM0197",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0197_E001",
+      "paper_id": "CBM0197",
+      "source_modality": "figure/text",
+      "page": 2,
+      "source_location": "candidate figure page 2",
+      "evidence_text": "oped high strength [11,12]. 2.3. Tests The tests carried out on the specimens were: slump and slump-ﬂow, total void ratio ( u10 /C2 20 cm), compressive strength ( u10 /C2 20 cm) according to JIS A 1108, ﬂexural strength (10 /C2 10 /C2 40 cm) according to JIS A 1106, co-efﬁcient of perme- ability ( u10 /C2 20 cm) and strength development rate. The strength development rate was tested at curing period of 1, 3, 7, 14 and 28 days. As mentioned earlier, a test method was also developed to determine the effect of SP and the thickening (cohesive) agents on self-compaction of HPPC and its hardened properties by keep- ing practical application in mind. As a res",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0197_E002",
+      "paper_id": "CBM0197",
+      "source_modality": "figure/text",
+      "page": 3,
+      "source_location": "candidate figure page 3",
+      "evidence_text": "3.4. Relationship between total void ratio and compressive strength Fig. 4 represents the relationship between total void ratio and compressive strength of porous concrete. Regardless of types of porous concrete and aggregate size, the compressive strength of all porous concretes was decreased with a decrease in total void ra- tio. Porous concretes having the total void ratio of 15–30% showed an almost linear relationship between compressive strength and total void ratio. 3.5. Coefﬁcient of permeability Coefﬁcient of permeability of porous concrete cylinders (u",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0197_E003",
+      "paper_id": "CBM0197",
+      "source_modality": "figure/text",
+      "page": 4,
+      "source_location": "candidate figure page 4",
+      "evidence_text": "ing, the tests carried out on these HPPC specimens were: slump and slump ﬂow, apparent density, com- paction index, total void ratio versus compressive strength and coefﬁcient of permeability, etc. All these properties were signiﬁ- cantly inﬂuenced by this method. Mixing of concrete was carried out at room temperature and the specimens were kept at that temperature for 1-day followed by 20 /C176C and 60% R. H. for 27 days. 3.8.1. Slump and slump ﬂow Table 5 presents the results of slump and slump-ﬂow of HPPC using No. 6 (5–13 mm) and No. 7 (2.5–5 mm) aggregates. The test data showed that their values are almost similar regardless of the aggregate size.",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0197_E004",
+      "paper_id": "CBM0197",
+      "source_modality": "figure/text",
+      "page": 5,
+      "source_location": "candidate figure page 5",
+      "evidence_text": "3.8.4. Total void ratio and compressive strength Fig. 10 exhibits the effect of total void ratio on compressive strength of HPPC specimen taken from different positions. As dis- cussed above that the freely dropped mass of porous concrete itself has great inﬂuence on total void ratio and compressive strength. All porous concrete specimens taken from top most position to bottom position have total void ratio which ranged between 23 and 32%, respectively. These values are relatively larger than those of porous concrete specimens prepared accord",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0197_E005",
+      "paper_id": "CBM0197",
+      "source_modality": "figure/text",
+      "page": 6,
+      "source_location": "candidate figure page 6",
+      "evidence_text": "showed enough workability to settle down in all type of shapes or spaces without applying compaction or vibration and gave more than 10 MPa compressive strength which is the requirement for ﬁeld application. CPC cannot be used in such application. 4. Conclusions Based on this laboratory study, the following conclusions can be drawn: (1) Use of combination of SP and cohesive agent could produce acceptable HPPC with good workability and strength properties. (2) The addition of cohesive agent to HPPC mixture could decrease the total void ratio and permeability and signiﬁ- cantly increase the compressive and ﬂexural strengths. (3) Regardless of types of po",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0197-REV001",
+      "paper_id": "CBM0197",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0197-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "paper": {
+    "paper_id": "CBM0200",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.12.050.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.12.050",
+    "title": "Influence of metakaolin as supplementary cementing material on strength and durability of concretes",
+    "authors": "",
+    "year": 2012,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "metakaolin concrete",
+    "annotation_status": "completed",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [
+    {
+      "result_id": "CBM0200-R001",
+      "paper_id": "CBM0200",
+      "mixture_id": "CBM0200-FIGURE_UNRESOLVED",
+      "mixture_original_id": "figure unresolved",
+      "property": "compressive_strength",
+      "age_days": null,
+      "unit": "",
+      "table_value": null,
+      "recommended_value": null,
+      "final_value": null,
+      "value_status": "figure_digitization_required",
+      "is_approximate": true,
+      "estimated_error_mpa": null,
+      "curing_condition_id": "",
+      "testing_condition_id": "",
+      "evidence_ids": [
+        "CBM0200_E001",
+        "CBM0200_E002",
+        "CBM0200_E003",
+        "CBM0200_E004"
+      ],
+      "confidence": 0.55,
+      "human_decision": "",
+      "notes": "Figure/page evidence indicates compressive-strength results, but numeric values are not readable from packet text."
+    }
+  ],
+  "conditions": [],
+  "figures": [
+    {
+      "figure_id": "CBM0200-FIG001",
+      "paper_id": "CBM0200",
+      "page": 3,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0200-FIG002",
+      "paper_id": "CBM0200",
+      "page": 6,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0200-FIG003",
+      "paper_id": "CBM0200",
+      "page": 7,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    },
+    {
+      "figure_id": "CBM0200-FIG004",
+      "paper_id": "CBM0200",
+      "page": 9,
+      "caption": "candidate compressive-strength figure/page",
+      "figure_type": "plot/table image",
+      "strength_relevance": "contains or likely contains compressive-strength data",
+      "image_path": "",
+      "extraction_status": "figure_digitization_required",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": "Packet does not provide reliably readable numeric values."
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "CBM0200_E001",
+      "paper_id": "CBM0200",
+      "source_modality": "figure/text",
+      "page": 3,
+      "source_location": "candidate figure page 3",
+      "evidence_text": "The sorptivity coefﬁcient ( S) according to BS EN-480-5:1997 [19] was obtained using the following expression: Q A ¼ c þ S ﬃﬃ t p ð1Þ where Q is the amount of water adsorbed; A is the cross section of specimen that was in contact with water; t is the time (second); c is the constant coefﬁcient; and S is the sorptivity coefﬁcient of the specimen (m/s 1/2). 2.3.3. Water penetration The water penetration test, which is most commonly used to evaluate the per- meability of concrete, is the one speciﬁed by BS EN-12390-8:",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0200_E002",
+      "paper_id": "CBM0200",
+      "source_modality": "figure/text",
+      "page": 6,
+      "source_location": "candidate figure page 6",
+      "evidence_text": "[18] showed that incorporation of MK up to 15% into PC concrete improves the electrical resistivity of concrete. 3.7. Relationship between compressive strength and durability test results Pore structure inﬂuenced on both mechanical and durability properties. Hence, the relationship between compressive strength and durability parameters of concrete can be useful and beneﬁcial Surface resistivity (kΩ cm) Surface resistivity (kΩ cm) w/b=0.5 w/b=0.4 w/b=0.35 Fig. 5. The effect of metakaolin on the Surface resistivity (k X cm) at various ages. (a) Compressive strength and RCPT (b) Compressive strength and SR (c) Compressive strength and water penetration (",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0200_E003",
+      "paper_id": "CBM0200",
+      "source_modality": "figure/text",
+      "page": 7,
+      "source_location": "candidate figure page 7",
+      "evidence_text": "[37]. Exponential regressions were used to correlate the results of compressive strength and durability test results (see Fig. 6 ). Generally an increase in strength is associated with an increase in electrical resistivity and decrease in sorptivity, water penetra- tion depth and charge passed through the specimens. However, different factors inﬂuencing on compressive strength and durability of concrete. As the case, the strength of Interlayer Transition Zone (ITZ) that has no signiﬁcant effect on concrete resistivity and sorptivity, whereas it is one of the main factors in compres",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    },
+    {
+      "evidence_id": "CBM0200_E004",
+      "paper_id": "CBM0200",
+      "source_modality": "figure/text",
+      "page": 9,
+      "source_location": "candidate figure page 9",
+      "evidence_text": ". From the results obtained in this study, the following conclu- sion can be drawn: /C15 Concrete incorporating local metakaolin had higher compressive strength at various ages and up to 180 days when compared with the OPC concrete. The level of compressive strength devel- oped with the period of curing and with decreasing the w/b ratio. For the materials in this study at w/b ratio 0.4 and 0.35, the opti- mum replacement of metakaolin is 12.5% and 10%, respectively. /C15 The metakaolin concretes provided lower water penetration depth. It was found that in sorptivity test, the addition of 10% of MK gives the best result when compared to other replace- m",
+      "supports": "figure-only compressive-strength evidence requiring digitization",
+      "confidence": 0.65,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0200-REV001",
+      "paper_id": "CBM0200",
+      "target_sheet": "strength_results",
+      "target_record_ids": [
+        "CBM0200-R001"
+      ],
+      "priority": "high",
+      "question": "Packet contains compressive-strength plots or image-only tables, but exact numeric mixture-level values are not reliably readable.",
+      "suggested_action": "Digitize the compressive-strength figure/table from the source PDF and map values to mixture IDs, ages, and MPa units.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.58,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "compressive-strength values are present only in figures/image tables and require digitization"
+    ]
+  }
+}

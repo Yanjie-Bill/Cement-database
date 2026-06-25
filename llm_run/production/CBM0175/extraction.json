@@ -1,0 +1,30 @@
+{
+  "paper": {
+    "paper_id": "CBM0175",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.10.020.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.10.020",
+    "title": "Seismic performance of concrete columns reinforced with hybrid shape memory alloy (SMA) and fiber reinforced polymer (FRP) bars",
+    "authors": "A.H.M. Muntasir Billah; M. Shahria Alam",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "hybrid SMA/FRP reinforced concrete columns",
+    "annotation_status": "no_compressive_strength_data_in_packet",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.82,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No mixture-level compressive-strength value was available in the supplied packet."
+    ]
+  }
+}

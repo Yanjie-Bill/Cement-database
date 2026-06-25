@@ -1,0 +1,30 @@
+{
+  "paper": {
+    "paper_id": "CBM0155",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.07.033.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.07.033",
+    "title": "Light-weight wood-magnesium oxychloride cement composite building products made by extrusion",
+    "authors": "Xiangming Zhou; Zongjin Li",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "wood-magnesium oxychloride cement composite",
+    "annotation_status": "no_compressive_strength_data_in_packet",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [],
+  "review_queue": [],
+  "quality": {
+    "overall_confidence": 0.82,
+    "direct_insert_count": 0,
+    "review_count": 0,
+    "needs_human_review": false,
+    "main_risks": [
+      "No mixture-level compressive-strength value was available in the supplied packet."
+    ]
+  }
+}

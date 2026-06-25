@@ -1,0 +1,56 @@
+{
+  "paper": {
+    "paper_id": "CBM0169",
+    "pdf_filename": "10.1016_j.conbuildmat.2011.08.079.pdf",
+    "doi": "10.1016/j.conbuildmat.2011.08.079",
+    "title": "Acoustic emission analysis for the quantification of autonomous crack healing in concrete",
+    "authors": "Kim Van Tittelboom; Nele De Belie; Frank Lehmann; Christian U. Grosse",
+    "year": 2011,
+    "journal": "Construction and Building Materials",
+    "pages": "",
+    "material_system": "self-healing concrete beams with encapsulated healing agents",
+    "annotation_status": "no_direct_compressive_strength_values",
+    "notes": ""
+  },
+  "mixture_components": [],
+  "strength_results": [],
+  "conditions": [],
+  "figures": [],
+  "evidence": [
+    {
+      "evidence_id": "CBM0169_E001",
+      "paper_id": "CBM0169",
+      "source_modality": "text",
+      "page": 6,
+      "source_location": "selected packet text",
+      "evidence_text": "The amount of strength regain, calculated according to Eq. (1),i s shown in Fig. 6. When considering the results shown in Fig. 6, a sig- niﬁcant difference can be noticed between the amount of strength regain obtained for untreated (‘REF’) and treated (‘EPO’, ‘PUR’, ‘SHC_PUR’ and ‘PURO’) cracks. While for the reference specimens the amount of strength regain is lower than 0%, the other test series show an average regain in strength varying from 35 till 80% of the original strength. Furthermore, a signiﬁcant difference is noticed be- tween the series ‘PUR’ and ‘PURO’ at the one hand and ‘EPO’ and ‘SHC_PUR’ at the other hand. It seems that manual healing of cracks by means of polyurethane is less effective than self-healing by using the same type of healing agent. As the same amount of strength re- gain is noticed for t",
+      "supports": "strength-related but not mixture-level compressive-strength database values",
+      "confidence": 0.78,
+      "human_decision": "",
+      "notes": ""
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "CBM0169_R001",
+      "paper_id": "CBM0169",
+      "target_sheet": "paper",
+      "target_record_ids": [],
+      "priority": "low",
+      "question": "Paper contains strength-related discussion but no directly insertable mixture-level compressive-strength values in the packet.",
+      "suggested_action": "No insertion unless a human identifies primary compressive-strength records in the full paper.",
+      "human_answer": "",
+      "final_decision": "",
+      "notes": ""
+    }
+  ],
+  "quality": {
+    "overall_confidence": 0.72,
+    "direct_insert_count": 0,
+    "review_count": 1,
+    "needs_human_review": true,
+    "main_risks": [
+      "Packet does not provide target compressive-strength records; strength mentions are review/background or non-target properties."
+    ]
+  }
+}
